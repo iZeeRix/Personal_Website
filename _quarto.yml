@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "Cornelius Holler"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme: slate
+    css: styles.css
+    toc: true
+
+editor: visual
+
