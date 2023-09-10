@@ -7,13 +7,21 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: CV_ger.qmd
+        text: Lebenslauf
+      - href: projects_ger.qmd
+        text: Projekte
+      - href: about.qmd
+        text: Über mich
+  #body-header: |
+  #  ![](/Attachments/Pictures/corneliusholler.de_kopfzeile_rot.png){width=100px}
 
 format:
   html:
     theme: slate
     css: styles.css
     toc: true
-
+    
+    
 editor: visual
 

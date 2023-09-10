@@ -1,9 +1,31 @@
 ---
 title: "Home"
+image: /Attachments/Pictures/Professionelles_Bild_Holler.jpeg
 ---
 
-Hi, my name is Cornelius Holler, welcome to my website!
+Hallo, willkommen auf meiner Website!
 
-```{r}
-1 + 1 - 2
-```
+<img src="/Attachments/Pictures/Professionelles_Bild_Holler.jpeg" alt = "bild" width=20%>
+
+Ich bin Doktorand am Institut für Sport und Sportwissenschaft der Universität Heidelberg. Meine Forschungsschwerpunkte sind Soziale Netzwerke, Selbstkonzepte und der Sportunterricht.
+
+Meinen Lebenslauf können Sie [hier](CV_ger.qmd) finden. Des Weiteren gibt es Informationen über laufende oder abgeschlossene [Projekte](projects_ger.qmd) und [Publikationen](publications_ger.qmd).
+
+### Kontakt
+
+Cornelius Holler
+
+Institut für Sport und Sportwissenschaft\
+Universität Heidelberg\
+Im Neuenheimer Feld 700\
+69120 Heidelberg
+
+[cornelius.holler\@issw.uni-heidelberg.de](mailto:cornelius.holler@issw.uni-heidelberg.de)
+
+------------------------------------------------------------------------
+
+### Weblinks
+
+[Instituts-Profil](https://www.issw.uni-heidelberg.de/personal/homepage/holler_c.html)\
+[Researchgate](https://www.researchgate.net/profile/Cornelius_Holler)\
+[Twitter / X](https://twitter.com/CorneliusHoller)

@@ -1,9 +1,23 @@
 ---
 title: "About"
+about:
+  template: jolla
+  image: /Attachments/Pictures/Professionelles_Bild_Holler.jpeg
+  links:
+    - icon: twitter
+      text: twitter / X
+      href: https://twitter.com/CorneliusHoller
+    - icon: github
+      text: Github
+      href: https://github.com
 ---
 
-About this site
+Ich bin Doktorand am Institut für Sport und Sportwissenschaft der Universität Heidelberg. Meine Forschungsinteressen sind Soziale Netzwerke, Selbstkonzept und Sportunterrichtsforschung.
 
-```{r}
-1 + 1
-```
+## Education
+
+University of California, San Diego \| San Diego, CA
+PhD in Mathematics \| Sept 2011 - June 2015
+
+Macalester College \| St. Paul MA
+B.A in Economics \| Sept 2007 - June 2011

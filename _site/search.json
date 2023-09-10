@@ -4,13 +4,34 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "Hi, my name is Cornelius Holler, welcome to my website!\n\n1 + 1 - 2\n\n[1] 0"
+    "text": "Hallo, willkommen auf meiner Website!\n\nIch bin Doktorand am Institut für Sport und Sportwissenschaft der Universität Heidelberg. Meine Forschungsschwerpunkte sind Soziale Netzwerke, Selbstkonzepte und der Sportunterricht.\nMeinen Lebenslauf können Sie hier finden. Des Weiteren gibt es Informationen über laufende oder abgeschlossene Projekte und Publikationen.\n\nKontakt\nCornelius Holler\nInstitut für Sport und Sportwissenschaft\nUniversität Heidelberg\nIm Neuenheimer Feld 700\n69120 Heidelberg\ncornelius.holler@issw.uni-heidelberg.de\n\n\n\nWeblinks\nInstituts-Profil\nResearchgate\nTwitter / X"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Ich bin Doktorand am Institut für Sport und Sportwissenschaft der Universität Heidelberg. Meine Forschungsinteressen sind Soziale Netzwerke, Selbstkonzept und Sportunterrichtsforschung."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
+  },
+  {
+    "objectID": "projects_ger.html",
+    "href": "projects_ger.html",
+    "title": "Projekte",
+    "section": "",
+    "text": "Hier sind Projekte!"
+  },
+  {
+    "objectID": "CV_ger.html",
+    "href": "CV_ger.html",
+    "title": "Lebenslauf",
+    "section": "",
+    "text": "Lebenslauf einfügen (PDF)"
   }
 ]
