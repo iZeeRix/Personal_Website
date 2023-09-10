@@ -12,6 +12,8 @@ website:
         text: Lebenslauf
       - href: projects_ger.qmd
         text: Projekte
+      - href: publications_ger.qmd
+        text: Publikationen
       - href: about.qmd
         text: Über mich
   #body-header: |

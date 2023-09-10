@@ -7,7 +7,7 @@ Hallo, willkommen auf meiner Website!
 
 <img src="/Attachments/Pictures/Professionelles_Bild_Holler.jpeg" alt = "bild" width=20%>
 
-Ich bin Doktorand am Institut für Sport und Sportwissenschaft der Universität Heidelberg. Meine Forschungsschwerpunkte sind Soziale Netzwerke, Selbstkonzepte und der Sportunterricht.
+Ich bin Doktorand am Institut für Sport und Sportwissenschaft der Universität Heidelberg. Meine Forschungsschwerpunkte sind Soziale Netzwerke, Selbstkonzepte und Sportunterricht.
 
 Meinen Lebenslauf können Sie [hier](CV_ger.qmd) finden. Des Weiteren gibt es Informationen über laufende oder abgeschlossene [Projekte](projects_ger.qmd) und [Publikationen](publications_ger.qmd).
 
