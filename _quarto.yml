@@ -8,11 +8,11 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: CV_ger.qmd
+      - href: CV.qmd
         text: Lebenslauf
-      - href: projects_ger.qmd
+      - href: projects.qmd
         text: Projekte
-      - href: publications_ger.qmd
+      - href: publications.qmd
         text: Publikationen
       - href: about.qmd
         text: Über mich

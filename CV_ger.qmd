@@ -1,5 +1,0 @@
----
-title: "Lebenslauf"
----
-
-![](Attachments/Documents/2023-09-11_CV_website.jpg){fig-align="center" width="100%"}
