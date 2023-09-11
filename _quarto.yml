@@ -21,7 +21,9 @@ website:
 
 format:
   html:
-    theme: slate
+    theme: 
+      light: lux
+      dark: cyborg
     css: styles.css
     toc: true
     
