@@ -16,8 +16,6 @@ website:
         text: Publikationen
       - href: about.qmd
         text: Über mich
-  #body-header: |
-  #  ![](/Attachments/Pictures/corneliusholler.de_kopfzeile_rot.png){width=100px}
 
 format:
   html:
