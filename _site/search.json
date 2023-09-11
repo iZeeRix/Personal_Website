@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Home",
+    "title": "",
     "section": "",
-    "text": "Hallo, willkommen auf meiner Website!\n\nIch bin Doktorand am Institut für Sport und Sportwissenschaft der Universität Heidelberg. Meine Forschungsschwerpunkte sind Soziale Netzwerke, Selbstkonzepte und der Sportunterricht.\nMeinen Lebenslauf können Sie hier finden. Des Weiteren gibt es Informationen über laufende oder abgeschlossene Projekte und Publikationen.\n\nKontakt\nCornelius Holler\nInstitut für Sport und Sportwissenschaft\nUniversität Heidelberg\nIm Neuenheimer Feld 700\n69120 Heidelberg\ncornelius.holler@issw.uni-heidelberg.de\n\n\n\nWeblinks\nInstituts-Profil\nResearchgate\nTwitter / X"
+    "text": "Ich bin Doktorand am Institut für Sport und Sportwissenschaft der Universität Heidelberg. Meine Forschungsschwerpunkte sind Soziale Netzwerke, Selbstkonzepte und Sportunterricht.\nMeinen Lebenslauf können Sie hier finden. Des Weiteren gibt es Informationen über laufende oder abgeschlossene Projekte und Publikationen."
   },
   {
     "objectID": "about.html",
@@ -33,5 +33,33 @@
     "title": "Lebenslauf",
     "section": "",
     "text": "Lebenslauf einfügen (PDF)"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "",
+    "section": "",
+    "text": "this is a placeholder"
+  },
+  {
+    "objectID": "index.html#willkommen",
+    "href": "index.html#willkommen",
+    "title": "",
+    "section": "",
+    "text": "Ich bin Doktorand am Institut für Sport und Sportwissenschaft der Universität Heidelberg. Meine Forschungsschwerpunkte sind Soziale Netzwerke, Selbstkonzepte und Sportunterricht.\nMeinen Lebenslauf können Sie hier finden. Des Weiteren gibt es Informationen über laufende oder abgeschlossene Projekte und Publikationen."
+  },
+  {
+    "objectID": "index.html#kontakt",
+    "href": "index.html#kontakt",
+    "title": "",
+    "section": "Kontakt",
+    "text": "Kontakt\nCornelius Holler\nInstitut für Sport und Sportwissenschaft\nUniversität Heidelberg\nIm Neuenheimer Feld 700\n69120 Heidelberg\ncornelius.holler@issw.uni-heidelberg.de"
+  },
+  {
+    "objectID": "index.html#weblinks",
+    "href": "index.html#weblinks",
+    "title": "",
+    "section": "Weblinks",
+    "text": "Weblinks\n Instituts-Profil\n Researchgate\n Twitter / X"
   }
 ]

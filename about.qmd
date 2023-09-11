@@ -3,10 +3,6 @@ title: ""
 about:
   template: jolla
   image: /Attachments/Pictures/Professionelles_Bild_Holler.jpeg
-  links:
-    - icon: twitter
-      text: twitter / X
-      href: https://twitter.com/CorneliusHoller
 ---
 
 ## Über mich
@@ -26,6 +22,6 @@ Im Neuenheimer Feld 700\
 
 ## Weblinks
 
-[Instituts-Profil](https://www.issw.uni-heidelberg.de/personal/homepage/holler_c.html)\
-[Researchgate](https://www.researchgate.net/profile/Cornelius_Holler)\
-[Twitter / X](https://twitter.com/CorneliusHoller)
+![](Attachments/Pictures/ISSW_logo.png){width="17" height="24"} [Instituts-Profil](https://www.issw.uni-heidelberg.de/personal/homepage/holler_c.html)\
+{{< ai researchgate size=xl >}} [Researchgate](https://www.researchgate.net/profile/Cornelius_Holler)\
+{{< iconify mdi twitter size=xl >}} [Twitter / X](https://twitter.com/CorneliusHoller)
