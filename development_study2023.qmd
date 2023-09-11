@@ -2,20 +2,48 @@
 title: ""
 ---
 
+![](Attachments/Pictures/header.jpg){fig-align="center" width="100%"}
+
 [Hier geht es zurück zur Übersicht der Projekte](projects.qmd)
 
 ## Entwicklung sozialer Beziehungen in Schulklasse und Sportunterricht
 
-Herzlich Willkommen auf der Website zum Projekt \"Entwicklung sozialer Beziehungen in Schulklasse und Sportunterricht\" des Forschungsprogramms Soziale Netzwerke im Sportunterricht (SoNiS) des [Instituts für Sport und Sportwissenschaft der Universität Heidelberg](https://www.issw.uni-heidelberg.de/).
+Herzlich Willkommen auf der Website zum Projekt "Entwicklung sozialer Beziehungen in Schulklasse und Sportunterricht" des Forschungsprogramms Soziale Netzwerke im Sportunterricht (SoNiS) des [Instituts für Sport und Sportwissenschaft der Universität Heidelberg](https://www.issw.uni-heidelberg.de/).
 
 Auf diesen Seiten finden Sie alle Informationen über die Planung, Durchführung und Ziele des Projekts. Wenn Sie an der Studie teilnehmen wollen, bitte kontaktieren Sie den Studienleiter [Cornelius Holler](https://www.issw.uni-heidelberg.de/personal/homepage/holler_c.html) oder den Projektleiter [Prof. Dr. Rüdiger Heim](https://www.issw.uni-heidelberg.de/personal/homepage/heim_r.html) über die unten stehenden Kontaktmöglichkeiten.
 
 ## Informationen über die Studie
 
+-   [Anschreiben für (Sport-)Lehrkräfte](call_for_teachers.qmd)
+
+-   [Flyer zum Projekt](development_flyer.qmd)
+
 ## Informationen zum Datenschutz und zur Erhebungsmethodik
+
+-   [Datenschutzmaßnahmen für die Erhebung sozialer Netzwerke](data_protection_SoNiS.qmd)
+
+-   [Erhebung und Auswertung sozialer Netzwerke](methods_and_analysis_SoNiS.qmd)
 
 ## Dokumente zum Download
 
+-   [Lehrkraftinformationen](/Attachments/Dokuments/Lehrkraftinformationen_SoNiS.pdf)
+
 ## Kontakt
 
-## 
++--------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------+
+| Studienleiter                                                                              | Projektleiter                                                                        |
++============================================================================================+======================================================================================+
+| **Cornelius Holler**                                                                       | **Prof. Dr. Rüdiger Heim**                                                           |
+|                                                                                            |                                                                                      |
+| Institut für Sport und Sportwissenschaft                                                   | Institut für Sport und Sportwissenschaft                                             |
+|                                                                                            |                                                                                      |
+| Universität Heidelberg                                                                     | Universität Heidelberg                                                               |
+|                                                                                            |                                                                                      |
+| Im Neuenheimer Feld 700                                                                    | Im Neuenheimer Feld 700                                                              |
+|                                                                                            |                                                                                      |
+| 60210 Heidelberg                                                                           | 60210 Heidelberg                                                                     |
+|                                                                                            |                                                                                      |
+| [cornelius.holler\@issw.uni-heidelberg.de](mailto:cornelius.holler@issw.uni-heidelberg.de) | [ruediger.heim\@issw.uni-heidelberg.de](mailto:ruediger.heim@issw.uni-heidelberg.de) |
+|                                                                                            |                                                                                      |
+| +49 6221 54-4387                                                                           | +49 6221 54-8622                                                                     |
++--------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------+
