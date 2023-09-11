@@ -22,6 +22,8 @@ Im Neuenheimer Feld 700\
 
 ## Weblinks
 
-![](Attachments/Pictures/ISSW_logo.png){width="17" height="24"} [Instituts-Profil](https://www.issw.uni-heidelberg.de/personal/homepage/holler_c.html)\
-{{< ai researchgate size=xl >}} [Researchgate](https://www.researchgate.net/profile/Cornelius_Holler)\
-{{< iconify mdi twitter size=xl >}} [Twitter / X](https://twitter.com/CorneliusHoller)
+![](Attachments/Pictures/ISSW_logo.png){width="17" height="24"} [Instituts-Profil](https://www.issw.uni-heidelberg.de/personal/homepage/holler_c.html){target="_blank"}
+
+{{< ai researchgate size=xl >}} [Researchgate](https://www.researchgate.net/profile/Cornelius_Holler){target="_blank"}
+
+{{< iconify mdi twitter size=xl >}} [Twitter / X](https://twitter.com/CorneliusHoller){target="_blank"}
