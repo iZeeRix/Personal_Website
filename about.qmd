@@ -2,7 +2,7 @@
 title: ""
 about:
   template: jolla
-  image: /Attachments/Pictures/Professionelles_Bild_Holler.jpeg
+  image: Attachments/Pictures/Professionelles_Bild_Holler.jpeg
 ---
 
 ## Über mich
