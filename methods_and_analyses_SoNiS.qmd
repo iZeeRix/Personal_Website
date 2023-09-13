@@ -21,7 +21,7 @@ Die Daten einer Nominierungsfrage werden in einer sog. "Nodelist" gespeichert, d
 | 5          | 3              | 9              |                |
 | ...        | ...            | ...            | ...            |
 
-Die Daten aus der Nodelist werden dann mit einem Statistikprogramm (z.B. [UCINET](https://sites.google.com/site/ucinetsoftware/home?authuser=0)) oder einer Programmiersprache (z.B. [R](https://en.wikipedia.org/wiki/R_(programming_language))) in sog. "Adjacency Matrix" umgewandelt, die Beziehungen mit "1" und fehlende Beziehungen mit "0" kennzeichnet. Aus ihr können sowohl individuelle Maße wie z.B. der "Indegree" (Anzahl an eingehenden Nominierungen) berechnet oder Netzwerkgraphen geplottet werden, die Netzwerke können jedoch auch direkt in statistische Verfahren einfließen.
+Die Daten aus der Nodelist werden dann mit einem Statistikprogramm (z.B. [UCINET](https://sites.google.com/site/ucinetsoftware/home?authuser=0){target="_blank"}) oder einer Programmiersprache (z.B. [R](https://en.wikipedia.org/wiki/R_(programming_language)){target="_blank"}) in sog. "Adjacency Matrix" umgewandelt, die Beziehungen mit "1" und fehlende Beziehungen mit "0" kennzeichnet. Aus ihr können sowohl individuelle Maße wie z.B. der "Indegree" (Anzahl an eingehenden Nominierungen) berechnet oder Netzwerkgraphen geplottet werden, die Netzwerke können jedoch auch direkt in statistische Verfahren einfließen.
 
 Ein Beispiel für eine Adjacency Matrix mit einem entsprechenden Netzwerkgraphen ist hier abgebildet. Die Zeilen symbolisieren die ausgehenden Nominierungen während die Spalten die eingehenden Nominierungen darstellen.
 
