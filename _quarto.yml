@@ -10,8 +10,14 @@ website:
         text: Home
       - href: CV.qmd
         text: Lebenslauf
-      - href: projects.qmd
-        text: Projekte
+      - text: Projekte
+        menu:
+          - href: projects.qmd
+            text: Übersicht
+          - href: poster_dvs2022.qmd
+            text: Poster dvs-Tagung 2022
+          - href: development_study2023.qmd
+            text: Entwicklung von Sozialbeziehungen in Schulklasse und Sportunterricht
       - href: publications.qmd
         text: Publikationen
       - href: about.qmd
