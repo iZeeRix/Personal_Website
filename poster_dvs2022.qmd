@@ -21,7 +21,7 @@ title: ""
 
 ### **Ergänzende Informationen zum Poster**
 
-Standardisierte Regessionskoeffizienten können mit den Effektstärke-Grenzwerten von Korrelationskoeffizienten bewertet werden (Cohen, 1988, S. 98; Bortz & Schuster, 2010, S. 189).
+<!--# Standardisierte Regessionskoeffizienten können mit den Effektstärke-Grenzwerten von Korrelationskoeffizienten bewertet werden (Cohen, 1988, S. 98; Bortz & Schuster, 2010, S. 189). -->
 
 Als Regressionsanalyse für Netzwerkdaten wurde die double semi-partialling Methode der multiple regression quadratic assignment procedure (MR-QAP) verwendet (Dekker et al., 2007). Die MR-QAP verwendet Permutationen zur Berechnung der Signifikanzwerte, da die Netzwerke gegen die Annahme der Unabhängigkeit der Beobachtungen der klassischen Testtheorie verstößt. Die double semi-partialling Methode ist besonders robust gegen Autokorrelation und Kolinearität der Prädiktornetzwerke.
 
