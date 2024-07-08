@@ -228,6 +228,6 @@
     "href": "group_assignment.html#beispiel",
     "title": "Gruppenzuweisung",
     "section": "Beispiel",
-    "text": "Beispiel\nDie Daten für das Beispiel sind Originalrankings aus einem meiner Seminare. Hier ein Überblick:\n\n\n\n\n\nDie beste Konstellation, die ich für diese Daten finden konnte, war mit 50.000 Permutationen und dem quadratischen Modus:\n\n\n\n\n\nHierfür habe ich einige Male das Programm durchlaufen lassen, indem ich häufiger auf “Run Optimization” geklickt habe.\nProbier das Programm mit den Beispieldaten gerne aus, vielleicht findest du ja noch eine niedrigere Gesamtsumme! Hier findest du die Daten."
+    "text": "Beispiel\nDie Daten für das Beispiel sind Originalrankings aus einem meiner Seminare. Hier ein Überblick:\n\n\n\n\n\nDie beste Konstellation, die ich für diese Daten finden konnte, war mit 50.000 Permutationen und dem quadratischen Modus:\n\n\n\n\n\nHierfür habe ich einige Male das Programm durchlaufen lassen, indem ich häufiger auf “Run Optimization” geklickt habe. Da das Thema 5 von keiner Gruppe höher als 3 geranked wurde, kann hier keine bessere Priorität vergeben werden.\nProbier das Programm mit den Beispieldaten gerne aus, vielleicht findest du ja noch eine niedrigere Gesamtsumme! Hier findest du die Daten."
   }
 ]

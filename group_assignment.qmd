@@ -37,6 +37,6 @@ Die beste Konstellation, die ich für diese Daten finden konnte, war mit 50.000 
 
 ![](Attachments/Pictures/group_assignment_example_res.png){fig-align="center" width="100%"}
 
-Hierfür habe ich einige Male das Programm durchlaufen lassen, indem ich häufiger auf "Run Optimization" geklickt habe.
+Hierfür habe ich einige Male das Programm durchlaufen lassen, indem ich häufiger auf "Run Optimization" geklickt habe. Da das Thema 5 von keiner Gruppe höher als 3 geranked wurde, kann hier keine bessere Priorität vergeben werden.
 
 Probier das Programm mit den Beispieldaten gerne aus, vielleicht findest du ja noch eine niedrigere Gesamtsumme! Hier findest du die [Daten](/Attachments/Documents/group_assignment_example.xlsx).
