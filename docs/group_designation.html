@@ -117,7 +117,7 @@ ul.task-list li input[type="checkbox"] {
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link active" href="./publications.html" aria-current="page"> 
+    <a class="nav-link" href="./publications.html"> 
 <span class="menu-text">Publikationen</span></a>
   </li>  
   <li class="nav-item">
@@ -141,11 +141,9 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#publikationen" id="toc-publikationen" class="nav-link active" data-scroll-target="#publikationen">Publikationen</a></li>
-  <li><a href="#konferenzbeiträge" id="toc-konferenzbeiträge" class="nav-link" data-scroll-target="#konferenzbeiträge">Konferenzbeiträge</a>
+  <li><a href="#gruppenzuweisung" id="toc-gruppenzuweisung" class="nav-link active" data-scroll-target="#gruppenzuweisung">Gruppenzuweisung</a>
   <ul class="collapse">
-  <li><a href="#vorträge" id="toc-vorträge" class="nav-link" data-scroll-target="#vorträge">Vorträge</a></li>
-  <li><a href="#poster" id="toc-poster" class="nav-link" data-scroll-target="#poster">Poster</a></li>
+  <li><a href="#beispiel" id="toc-beispiel" class="nav-link" data-scroll-target="#beispiel">Beispiel</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -155,23 +153,37 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<section id="publikationen" class="level2">
-<h2 class="anchored" data-anchor-id="publikationen">Publikationen</h2>
-<p>Heim, R., Schüßler, A., &amp;, <strong>Holler, C.</strong> (2023). Peerbeziehungen in der Sporthalle - Soziale Netzwerke im Sportunterricht. <em>Zeitschrift für sportpädagogische Forschung</em>, <em>11</em>(1), 3–28. <a href="https://doi.org/10.5771/2196-5218-2023-1-3" class="uri">https://doi.org/10.5771/2196-5218-2023-1-3</a></p>
-</section>
-<section id="konferenzbeiträge" class="level2">
-<h2 class="anchored" data-anchor-id="konferenzbeiträge">Konferenzbeiträge</h2>
-<section id="vorträge" class="level3">
-<h3 class="anchored" data-anchor-id="vorträge">Vorträge</h3>
-<p><strong>Holler, C.</strong> &amp;, Schüßler, A. (2023). <em>Peerbeziehungen in der Schulklasse - Soziale Netzwerke im (Sport-)Unterricht</em>. Vortrag auf der Herbsttagung der Sektion “Soziologische Netzwerkforschung” der Deutschen Gesellschaft für Soziologie (DGS) am 15. und 16. September 2023 in Köln.</p>
-<p><strong>Holler, C.</strong> (2023). <em>Social networks, external and self-assessments of performance in physical education</em>. Vortrag auf der 7. European Conference on Social Networks vom 4.-8. September 2023 in Ljubljana, Slowenien.</p>
-<p><strong>Holler, C.</strong> (2023). <em>Soziale Netzwerke, Fremd- und Selbsteinschätzungen der sportunterrichtlichen Leistungsfähigkeit.</em> Vortrag auf der 36. Jahrestagung der Deutschen Vereinigung für Sportwissenschaft vom 8. bis 10. Juni 2023 in Hamburg.</p>
-<p>Heim, R., &amp;, <strong>Holler C.</strong> (2022). <em>Peerbeziehungen in der Schulklasse. Soziale Netzwerke im (Sport-) Unterricht.</em> Vortrag auf der ÖGFD und GFD-Tagung vom 29. bis 31. August 2022 in Wien, Österreich.</p>
-<p>Schüßler, A., &amp;, <strong>Holler, C.</strong> (2021). <em>Soziale Netzwerke im Sportunterricht</em>. Vortrag auf der Arbeitskreistagung der Deutschen Gesellschaft für Netzwerkforschung (DGNet) am 6. und 7. September 2021 in Bayreuth.</p>
-</section>
-<section id="poster" class="level3">
-<h3 class="anchored" data-anchor-id="poster">Poster</h3>
-<p><strong>Holler, C.</strong>, Schüßler, A., &amp;, Heim, R. (2022). <em>Analyse des Wahlverhaltens von Schüler:innen in typischen sportunterrichtlichen Kontexten.</em> Poster auf der 35. Jahrestagung der Deutschen Vereinigung für Sportwissenschaft vom 16. bis 18. Juni 2022 in Münster.</p>
+<section id="gruppenzuweisung" class="level1">
+<h1>Gruppenzuweisung</h1>
+<p>Ich habe für meine Seminare ein kleines Programm geschrieben, welches Studierenden(gruppen) zu Seminarthemen zuordnet, indem es die Rankings, die die Studierenden den Themen geben, optimiert.</p>
+<p>Es funktioniert so, dass eine quadratische Matrix über eine Excel Datei eingegeben wird mit den Personen(gruppen) in den Zeilen und den Themen in den Spalten. Jede Gruppe gibt jedem Thema ein Ranking (1 = bestes Thema). Falls nicht alle Themen geranked werden soll, werden die Themen, bei denen fehlende Werte stehen, auf 20 gesetzt. Die Excel Datei braucht zur Eingabe sowohl Spalten- als auch Zeilenbeschriftungen.</p>
+<p>Der Algorithmus nimmt dann diese Matrix und versucht, durch Permutationen die Summe der Diagonalen zu minimieren. Hierfür wird die Reihenfolge der Spalten zufällig geändert und die Zuordnung sowie die Summe gespeichert. Nach der angegebenen Anzahl an Permutationen wird dann die Konstellation mit der niedrigsten Summe ausgewählt und als Ergebnis dargestellt. Per default sind 1.000 Permutationen eingestellt, die ich je nach Gruppengröße anpassen würde. Für meine Seminare mit ca. 10 Gruppen und Themen funktionieren bei mir ca. 50.000 Permutationen sehr gut. Auch per default eingestellt ist der lineare Modus, der jedem Ranking ein lineares Gewicht gibt. Es wird hierbei also nicht unterschieden, ob eine niedrige Summe dadurch zustande kommt, dass alle Themen mit Priorität 1 vergeben werden, dadurch aber ein Thema nur mit Priorität 9 vergeben wird, oder ob die Prioritäten insgesamt eher bei 2 liegen. Um niedrige Rankings stärker zu bestrafen, gibt es den quadratischen Modus. Hierbei werden die Rankings quadriert, dann wird die Optimierung vorgenommen und erst am Ende wird wieder auf das Originalranking zurückgerechnet. Vielleicht werden dadurch einzelne Rankings niedriger, insgesamt kommt es dadurch aber seltener dazu, dass niedrige Rankings vergeben werden.</p>
+<p>In meinen Seminaren letztes Jahr konnte ich dadurch allen Studierendengruppen die Themen so zuordnen, dass alle ihre 1.-4. Präferenz bekommen haben. Durch die so große Anzahl an Möglichkeiten ist es hilfreich, mehrmals das Programm durchlaufen zu lassen (auch bei 50.000 Permutationen) und dann sowohl auf die höchste vergebene Priorität als auch auf die Gesamtsumme zu schauen, um beides zu minimieren.</p>
+<p>Hier findet ihr das Programm, unten ist noch ein detaillierteres Beispiel dargestellt.</p>
+
+<style>
+    #myFrame {width:100%}
+</style>
+
+<iframe height="800" src="https://corneliusholler.shinyapps.io/gruppenzuweisung/" id="myFrame">
+</iframe>
+
+<section id="beispiel" class="level2">
+<h2 class="anchored" data-anchor-id="beispiel">Beispiel</h2>
+<p>Die Daten für das Beispiel sind Originalrankings aus einem meiner Seminare. Hier ein Überblick:</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="Attachments/Pictures/group_assignment_example_data.png" class="img-fluid figure-img" style="width:100.0%"></p>
+</figure>
+</div>
+<p>Die beste Konstellation, die ich für diese Daten finden konnte, war mit 50.000 Permutationen und dem quadratischen Modus:</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="Attachments/Pictures/group_assignment_example_res.png" class="img-fluid figure-img" style="width:100.0%"></p>
+</figure>
+</div>
+<p>Hierfür habe ich einige Male das Programm durchlaufen lassen, indem ich häufiger auf “Run Optimization” geklickt habe.</p>
+<p>Probier das Programm mit den Beispieldaten gerne aus, vielleicht findest du ja noch eine niedrigere Gesamtsumme! Hier findest du die <a href="./Attachments/Documents/group_assignment_example.xlsx">Daten</a>.</p>
 
 
 </section>
