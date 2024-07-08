@@ -6,3 +6,4 @@ title: ""
 
 -   [Poster auf der 35. Jahrestagung der deutschen Vereinigung für Sportwissenschaft vom 16. bis 18. Juni 2022 in Münster](poster_dvs2022.qmd)
 -   [Entwicklung sozialer Beziehungen in Schulklasse und Sportunterricht](development_study2023.qmd)
+-   [Gruppenzuweisungsprogramm](group_assignment.qmd)

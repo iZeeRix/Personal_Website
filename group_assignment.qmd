@@ -2,6 +2,8 @@
 title: ""
 ---
 
+[Hier geht es zurück zur Übersicht der Projekte](projects.qmd)
+
 # Gruppenzuweisung
 
 Ich habe für meine Seminare ein kleines Programm geschrieben, welches Studierenden(gruppen) zu Seminarthemen zuordnet, indem es die Rankings, die die Studierenden den Themen geben, optimiert.
