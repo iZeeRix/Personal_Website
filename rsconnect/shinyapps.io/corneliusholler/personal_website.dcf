@@ -1,0 +1,10 @@
+name: personal_website
+title:
+username: corneliusholler
+account: corneliusholler
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12288785
+bundleId:
+url: https://corneliusholler.shinyapps.io/personal_website/
+version: 1
