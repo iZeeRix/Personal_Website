@@ -18,6 +18,8 @@ website:
             text: Poster dvs-Tagung 2022
           - href: development_study2023.qmd
             text: Entwicklung von Sozialbeziehungen in Schulklasse und Sportunterricht
+          - href: group_assignment.qmd
+            text: Gruppenzuweisungsprogramm
       - href: publications.qmd
         text: Publikationen
       - href: about.qmd
