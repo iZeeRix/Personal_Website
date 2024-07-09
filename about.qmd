@@ -27,8 +27,8 @@ DE - Germany
 
 {{< ai researchgate size=xl >}} [Researchgate](https://www.researchgate.net/profile/Cornelius_Holler){target="_blank"}
 
-{{< ai orcid size=xl >}} [ORCID](https://orcid.org/0009-0008-6599-8971)
+{{< ai orcid size=xl >}} [ORCID](https://orcid.org/0009-0008-6599-8971){target="_blank"}
 
 {{< iconify mdi twitter size=xl >}} [Twitter / X](https://twitter.com/CorneliusHoller){target="_blank"}
 
-{{< iconify mdi linkedin size=xl >}} [LinkedIn](https://www.linkedin.com/in/cornelius-holler/)
+{{< iconify mdi linkedin size=xl >}} [LinkedIn](https://www.linkedin.com/in/cornelius-holler/){target="_blank"}

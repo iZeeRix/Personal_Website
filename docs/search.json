@@ -228,7 +228,7 @@
     "href": "group_assignment.html#beispiel",
     "title": "Assigning Topics to (Groups of) Students in Seminars",
     "section": "Beispiel",
-    "text": "Beispiel\nThe data for this example are original rankings from one of my seminars. Here is an overview:\n\n\n\n\n\nThe best constellation I could find for this data was with 50,000 permutations and the quadratic mode:\n\n\n\n\n\nTo do this, I ran the program a few times by clicking on “Run Optimisation” more often. As topic 5 was not ranked higher than 3 by any group, no better priority can be assigned here.\nTry out the program with the sample data, maybe you’ll find a lower total! Here you can download the Data."
+    "text": "Beispiel\nThe data for this example are original rankings from one of my seminars. Here is an overview:\n\n\n\n\n\nThe best constellation I could find for this data was with 50,000 permutations and the quadratic mode:\n\n\n\n\n\nTo do this, I ran the program a few times by clicking on “Run Optimization” more often. As topic 5 was not ranked higher than 3 by any group, no better priority can be assigned here.\nTry out the program with the sample data, maybe you’ll find a lower total! Here you can download the data."
   },
   {
     "objectID": "index.html#welcome",
