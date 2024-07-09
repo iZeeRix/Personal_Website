@@ -1,0 +1,10 @@
+---
+title: ""
+---
+[Hier geht es zurück zum Projekt](development_study2023.qmd)
+
+## Flyer zum Projekt "Entwicklung sozialer Beziehungen in Schulklasse und Sportunterricht"
+
+![](Attachments/Documents/Entwicklung_Sozialbeziehungen_Flyer1.jpg){fig-align="center" width="100%"}
+
+![](Attachments/Documents/Entwicklung_Sozialbeziehungen_Flyer2.jpg){fig-align="center" width="100%"}

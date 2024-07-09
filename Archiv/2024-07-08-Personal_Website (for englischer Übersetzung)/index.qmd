@@ -1,0 +1,31 @@
+---
+title: ""
+image: /Attachments/Pictures/Professionelles_Bild_Holler.jpeg
+---
+
+## Willkommen!
+
++--------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](Attachments/Pictures/Muenster_Poster_Holler.jpg){fig-align="center"} | Ich bin Doktorand am Institut für Sport und Sportwissenschaft der Universität Heidelberg. Meine Forschungsschwerpunkte sind Soziale Netzwerke, Selbstkonzepte und Sportunterricht.       |
+|                                                                          |                                                                                                                                                                                          |
+|                                                                          | Meinen Lebenslauf können Sie [hier](CV.qmd) finden. Des Weiteren gibt es Informationen über laufende oder abgeschlossene [Projekte](projects.qmd) und [Publikationen](publications.qmd). |
++--------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+## Kontakt
+
+Cornelius Holler
+
+Institut für Sport und Sportwissenschaft\
+Universität Heidelberg\
+Im Neuenheimer Feld 700\
+69120 Heidelberg
+
+[cornelius.holler\@issw.uni-heidelberg.de](mailto:cornelius.holler@issw.uni-heidelberg.de)
+
+## Weblinks
+
+![](Attachments/Pictures/ISSW_logo.png){width="17" height="24"} [Instituts-Profil](https://www.issw.uni-heidelberg.de/personal/homepage/holler_c.html){target="_blank"}
+
+{{< ai researchgate size=xl >}} [Researchgate](https://www.researchgate.net/profile/Cornelius_Holler){target="_blank"}
+
+{{< iconify mdi twitter size=xl >}} [Twitter / X](https://twitter.com/CorneliusHoller){target="_blank"}

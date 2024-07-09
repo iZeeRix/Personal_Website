@@ -2,24 +2,28 @@
 title: ""
 ---
 
-## Publikationen
+## Publications
 
 Heim, R., Schüßler, A., &, **Holler, C.** (2023). Peerbeziehungen in der Sporthalle - Soziale Netzwerke im Sportunterricht. *Zeitschrift für sportpädagogische Forschung*, *11*(1), 3--28. <https://doi.org/10.5771/2196-5218-2023-1-3>
 
-## Konferenzbeiträge
+## Conference Contributions
 
-### Vorträge
+### Presentations
 
-**Holler, C.** &, Schüßler, A. (2023). *Peerbeziehungen in der Schulklasse - Soziale Netzwerke im (Sport-)Unterricht*. Vortrag auf der Herbsttagung der Sektion "Soziologische Netzwerkforschung" der Deutschen Gesellschaft für Soziologie (DGS) am 15. und 16. September 2023 in Köln.
+Schüßler, A., **Holler, C.**, & Hill, Y. (2024). *Exploring Goal Orientation in Peer Networks: The Role of Multidimensional Achievement Goals in Physical Education*. Presentation at the SUNBELT Conference by the International Network for Social Network Analysis (INSNA) from 24th-30th June 2024 in Edinburgh, Scotland.
 
-**Holler, C.** (2023). *Social networks, external and self-assessments of performance in physical education*. Vortrag auf der 7. European Conference on Social Networks vom 4.-8. September 2023 in Ljubljana, Slowenien.
+**Holler, C.** (2024). *Veridikalität des sportunterrichtlichen Selbstkonzeptes und ihre Effekte auf die Anstrengungsbereitschaft und soziale Eingebundenheit im Sportunterricht* \[Veridicality of the physical education self-concept and it's effects on the engagement and social embeddedness in physical education\]. Presentation at the 37th yearly conference by the German Society of Sport Science (dvs) section sports pedagogy from 30th May to 1st June 2024 in Essen, Germany.
 
-**Holler, C.** (2023). *Soziale Netzwerke, Fremd- und Selbsteinschätzungen der sportunterrichtlichen Leistungsfähigkeit.* Vortrag auf der 36. Jahrestagung der Deutschen Vereinigung für Sportwissenschaft vom 8. bis 10. Juni 2023 in Hamburg.
+**Holler, C.** &, Schüßler, A. (2023). *Peerbeziehungen in der Schulklasse - Soziale Netzwerke im (Sport-)Unterricht* \[Peer relations in the gym - Social networks in physical education classes\]. Presentation at the autumn conference of the section "Sociological Network Science" of the German Sociological Association (GSA) on 15th and 16th September 2023 in Cologne, Germany.
 
-Heim, R., &, **Holler C.** (2022). *Peerbeziehungen in der Schulklasse. Soziale Netzwerke im (Sport-) Unterricht.* Vortrag auf der ÖGFD und GFD-Tagung vom 29. bis 31. August 2022 in Wien, Österreich.
+**Holler, C.** (2023). *Social networks, external and self-assessments of performance in physical education*. Presentation at the 7th European Conference on Social Networks from 4th-8th September 2023 in Ljubljana, Slovenia.
 
-Schüßler, A., &, **Holler, C.** (2021). *Soziale Netzwerke im Sportunterricht*. Vortrag auf der Arbeitskreistagung der Deutschen Gesellschaft für Netzwerkforschung (DGNet) am 6. und 7. September 2021 in Bayreuth.
+**Holler, C.** (2023). *Soziale Netzwerke, Fremd- und Selbsteinschätzungen der sportunterrichtlichen Leistungsfähigkeit* \[Social networks, external and self-assessments of performance in physical education\]*.* Presentation at the 36th yearly conference by the German Society of Sport Science (dvs) section sports pedagogy from 8th-10th June 2023 in Hamburg, Germany.
+
+Heim, R., &, **Holler C.** (2022). *Peerbeziehungen in der Schulklasse. Soziale Netzwerke im (Sport-) Unterricht* \[Peer relations in the gym - Social networks in (physical) education classes\]*.* Presentation at the Subject Didactics Conference 2022 by the German and Austrian Societies of Subject Didactics (GFD and ÖGFD) from 29th-31st August 2022 in Vienna, Austria.
+
+Schüßler, A., &, **Holler, C.** (2021). *Soziale Netzwerke im Sportunterricht* \[Social networks in physical education\]. Presentation at the yearly conference of the German Society of Network Science (DGNet) from 6th-7th September 2021 in Bayreuth, Germany.
 
 ### Poster
 
-**Holler, C.**, Schüßler, A., &, Heim, R. (2022). *Analyse des Wahlverhaltens von Schüler:innen in typischen sportunterrichtlichen Kontexten.* Poster auf der 35. Jahrestagung der Deutschen Vereinigung für Sportwissenschaft vom 16. bis 18. Juni 2022 in Münster.
+**Holler, C.**, Schüßler, A., &, Heim, R. (2022). *Analyse des Wahlverhaltens von Schüler:innen in typischen sportunterrichtlichen Kontexten* \[Analysis of the nominations of students in typical collaboration settings in physical education\]*.* Poster at the 35th yearly conference by the German Society of Sport Science (dvs) section sports pedagogy from 16th-18th June 2022 in Münster, Germany.

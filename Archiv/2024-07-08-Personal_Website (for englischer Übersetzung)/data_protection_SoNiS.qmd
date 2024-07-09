@@ -1,0 +1,13 @@
+---
+title: ""
+---
+
+[Hier geht es zurück zum Projekt](development_study2023.qmd)
+
+## Datenschutzmaßnahmen für die Erhebung sozialer Netzwerke
+
+Das Datenschutzkonzept der vorliegenden Studie wurde gemeinsam mit dem Datenschutzbeauftragen der Universität Heidelberg konzipiert. Die Erhebung und Verarbeitung der oben beschriebenen persönlichen Daten erfolgten pseudonymisiert im Institut für Sport und Sportwissenschaft unter Verwendung einer Nummer und ohne Angabe des Namens. Dazu werden allen Schüler:innen und Lehrkräften durch eine programmierte Exceldatei Zufallszahlen zugeordnet, sodass die Beantwortungen durch eine Eintragung der passenden Ziffern erfolgt.
+
+Die eingetragenen Zifferncodes werden im Anschluss an die Datenerhebung nach der Löschung der ersten Zuordnung durch Mitarbeiter:innen unserer Forschungsgruppe wiederum verschlüsselt. Ihr Name und der Name der Schüler:innen taucht also an keiner Stelle des Fragebogens auf. Daher kann aus der vorliegenden Befragung nicht auf einzelne Personen geschlossen werden. Zudem werden in allen Auswertungen und Berichten die Schulnamen ebenfalls nicht genannt und pseudonymisiert, damit niemand mehr die Daten mit Ihnen und Ihrer Schule in Verbindung bringen kann.
+
+Alle Informationen, die wir von Ihnen erheben, werden vertraulich behandelt, unterliegen dem Datenschutz, dienen allein wissenschaftlichen Zwecken und werden nicht an Dritte außerhalb unserer Forschungsgruppe weitergegeben. Weder Lehrkräfte noch Schulleitung erhalten Einblicke in die Daten oder die Auswertungen. Die Veröffentlichung der Ergebnisse der Studie erfolgt anonymisiert, d.h. sie können nicht mehr einer Person oder Schule zugeordnet werden. Aufgrund der beschriebenen vollständigen Anonymisierung, die nach der zweiten Verschlüsselung erfolgt, wird eine Löschung einzelner, personenbezogener Datensätze nicht mehr möglich sein.

@@ -95,38 +95,38 @@ ul.task-list li input[type="checkbox"] {
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./CV.html"> 
-<span class="menu-text">Lebenslauf</span></a>
+<span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-projekte" role="button" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Projekte</span>
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-projects" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Projects</span>
     </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-projekte">    
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-projects">    
         <li>
     <a class="dropdown-item" href="./projects.html">
- <span class="dropdown-text">Übersicht</span></a>
+ <span class="dropdown-text">Overview</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./poster_dvs2022.html">
- <span class="dropdown-text">Poster dvs-Tagung 2022</span></a>
+ <span class="dropdown-text">Poster dvs-Tagung 2022 (ger)</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./development_study2023.html">
- <span class="dropdown-text">Entwicklung von Sozialbeziehungen in Schulklasse und Sportunterricht</span></a>
+ <span class="dropdown-text">Entwicklung von Sozialbeziehungen im Sportunterricht (ger)</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./group_assignment.html">
- <span class="dropdown-text">Gruppenzuweisungsprogramm</span></a>
+ <span class="dropdown-text">Assigning Topics to Students</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
     <a class="nav-link" href="./publications.html"> 
-<span class="menu-text">Publikationen</span></a>
+<span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./about.html"> 
-<span class="menu-text">Über mich</span></a>
+<span class="menu-text">About me</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -145,7 +145,7 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#gruppenzuweisung" id="toc-gruppenzuweisung" class="nav-link active" data-scroll-target="#gruppenzuweisung">Gruppenzuweisung</a>
+  <li><a href="#assigning-topics-to-groups-of-students-in-seminars" id="toc-assigning-topics-to-groups-of-students-in-seminars" class="nav-link active" data-scroll-target="#assigning-topics-to-groups-of-students-in-seminars">Assigning Topics to (Groups of) Students in Seminars</a>
   <ul class="collapse">
   <li><a href="#beispiel" id="toc-beispiel" class="nav-link" data-scroll-target="#beispiel">Beispiel</a></li>
   </ul></li>
@@ -157,14 +157,14 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p><a href="./projects.html">Hier geht es zurück zur Übersicht der Projekte</a></p>
-<section id="gruppenzuweisung" class="level1">
-<h1>Gruppenzuweisung</h1>
-<p>Ich habe für meine Seminare ein kleines Programm geschrieben, welches Studierenden(gruppen) zu Seminarthemen zuordnet, indem es die Rankings, die die Studierenden den Themen geben, optimiert.</p>
-<p>Es funktioniert so, dass eine quadratische Matrix über eine Excel Datei eingegeben wird mit den Personen(gruppen) in den Zeilen und den Themen in den Spalten. Jede Gruppe gibt jedem Thema ein Ranking (1 = bestes Thema). Falls nicht alle Themen geranked werden soll, werden die Themen, bei denen fehlende Werte stehen, auf 20 gesetzt. Die Excel Datei braucht zur Eingabe sowohl Spalten- als auch Zeilenbeschriftungen.</p>
-<p>Der Algorithmus nimmt dann diese Matrix und versucht, durch Permutationen die Summe der Diagonalen zu minimieren. Hierfür wird die Reihenfolge der Spalten zufällig geändert und die Zuordnung sowie die Summe gespeichert. Nach der angegebenen Anzahl an Permutationen wird dann die Konstellation mit der niedrigsten Summe ausgewählt und als Ergebnis dargestellt. Per default sind 10.000 Permutationen eingestellt, die ich je nach Gruppengröße anpassen würde. Für meine Seminare mit ca. 10 Gruppen und Themen funktionieren bei mir ca. 50.000 Permutationen sehr gut. Auch per default eingestellt ist der lineare Modus, der jedem Ranking ein lineares Gewicht gibt. Es wird hierbei also nicht unterschieden, ob eine niedrige Summe dadurch zustande kommt, dass alle Themen mit Priorität 1 vergeben werden, dadurch aber ein Thema nur mit Priorität 9 vergeben wird, oder ob die Prioritäten insgesamt eher bei 2 liegen. Um niedrige Rankings stärker zu bestrafen, gibt es den quadratischen Modus. Hierbei werden die Rankings quadriert, dann wird die Optimierung vorgenommen und erst am Ende wird wieder auf das Originalranking zurückgerechnet. Vielleicht werden dadurch einzelne Rankings niedriger, insgesamt kommt es dadurch aber seltener dazu, dass niedrige Rankings vergeben werden.</p>
-<p>In meinen Seminaren letztes Jahr konnte ich dadurch allen Studierendengruppen die Themen so zuordnen, dass alle ihre 1.-4. Präferenz bekommen haben. Durch die so große Anzahl an Möglichkeiten ist es hilfreich, mehrmals das Programm durchlaufen zu lassen (auch bei 50.000 Permutationen) und dann sowohl auf die höchste vergebene Priorität als auch auf die Gesamtsumme zu schauen, um beides zu minimieren.</p>
-<p>Hier findet ihr das Programm, unten ist noch ein detaillierteres Beispiel dargestellt.</p>
+<p><a href="./projects.html">You can go back to the project overview here</a></p>
+<section id="assigning-topics-to-groups-of-students-in-seminars" class="level1">
+<h1>Assigning Topics to (Groups of) Students in Seminars</h1>
+<p>I have written a small program for my seminars that assigns students (or student groups) to seminar topics by optimising the rankings that the students give to the topics.</p>
+<p>The way it works is that a square matrix is entered into an Excel file with the students (groups) in the rows and the topics in the columns. Each student (group) gives each topic a ranking (1 = highest ranked topic). If not all topics are to be ranked, the topics with missing values are set to 20. The Excel file needs both column and row labels to be registered correctly.</p>
+<p>The algorithm then takes this matrix and attempts to minimise the sum of the diagonals through permutations. To do this, the order of the columns is randomly changed and the assignment and the sum are saved. After the specified number of permutations, the constellation with the lowest sum is selected and displayed as the result. The default setting is 10,000 permutations, which I would adjust depending on the size of the group. For my seminars with approx. 10 groups and topics, approx. 50,000 permutations work very well for me. The linear mode is also set by default, which gives each ranking a linear weight. This means that no distinction is made as to whether a low total is the result of all topics being assigned priority 1, but one topic only being assigned priority 9, or whether the overall priorities are more likely to be 2. The quadratic mode is used to penalise low rankings more strongly. Here, the rankings are squared, then the optimisation is carried out and only at the end is the original ranking calculated again. This may result in individual rankings being lower, but overall it means that low rankings are awarded less frequently.</p>
+<p>In my seminars last year, I was able to assign the topics to all student groups in such a way that everyone got their 1st to 4th preference. Due to the large number of possibilities, it is helpful to run the programme several times (even with 50,000 permutations) and then look at both the highest assigned priority and the total sum in order to minimize both.</p>
+<p>You can find the programme here, and a more detailed example is shown below.</p>
 
 <style>
     #myFrame {width:100%}
@@ -174,20 +174,20 @@ ul.task-list li input[type="checkbox"] {
 </iframe>
 <section id="beispiel" class="level2">
 <h2 class="anchored" data-anchor-id="beispiel">Beispiel</h2>
-<p>Die Daten für das Beispiel sind Originalrankings aus einem meiner Seminare. Hier ein Überblick:</p>
+<p>The data for this example are original rankings from one of my seminars. Here is an overview:</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="Attachments/Pictures/group_assignment_example_data.png" class="img-fluid figure-img" style="width:100.0%"></p>
 </figure>
 </div>
-<p>Die beste Konstellation, die ich für diese Daten finden konnte, war mit 50.000 Permutationen und dem quadratischen Modus:</p>
+<p>The best constellation I could find for this data was with 50,000 permutations and the quadratic mode:</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="Attachments/Pictures/group_assignment_example_res.png" class="img-fluid figure-img" style="width:100.0%"></p>
 </figure>
 </div>
-<p>Hierfür habe ich einige Male das Programm durchlaufen lassen, indem ich häufiger auf “Run Optimization” geklickt habe. Da das Thema 5 von keiner Gruppe höher als 3 geranked wurde, kann hier keine bessere Priorität vergeben werden.</p>
-<p>Probier das Programm mit den Beispieldaten gerne aus, vielleicht findest du ja noch eine niedrigere Gesamtsumme! Hier findest du die <a href="./Attachments/Documents/group_assignment_example.xlsx">Daten</a>.</p>
+<p>To do this, I ran the program a few times by clicking on “Run Optimisation” more often. As topic 5 was not ranked higher than 3 by any group, no better priority can be assigned here.</p>
+<p>Try out the program with the sample data, maybe you’ll find a lower total! Here you can download the <a href="./Attachments/Documents/group_assignment_example.xlsx">Data</a>.</p>
 
 
 </section>
@@ -686,7 +686,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>Cornelius Holler, 2023</p>
+<p>Cornelius Holler, 2024</p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;
