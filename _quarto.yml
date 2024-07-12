@@ -9,7 +9,9 @@ website:
   cookie-consent:
     type: express
     style: headline
-  title: "Cornelius Holler"
+  title: Cornelius Holler
+  site-url: 'https://corneliusholler.de/'
+  site-path: '/'
   navbar:
     left:
       - href: index.qmd
