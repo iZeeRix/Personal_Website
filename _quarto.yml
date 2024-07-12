@@ -3,6 +3,12 @@ project:
   output-dir: docs
 
 website:
+  google-analytics: 
+    tracking-id: "G-YM0QDTJY3S"
+    anonymize-ip: true
+  cookie-consent:
+    type: express
+    style: headline
   title: "Cornelius Holler"
   navbar:
     left:
