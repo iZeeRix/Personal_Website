@@ -1,5 +1,6 @@
 ---
 title: ""
+sitepath: "/projects/"
 ---
 
 [Hier geht es zurück zur Übersicht der Projekte](projects.qmd)

@@ -1,0 +1,7 @@
+---
+title: "Page not found"
+---
+
+This page cannot be found, maybe it was moved or renamed. If there are any issues, please do not hesitate to contact me: [cornelius.holler\@issw.uni-heidelberg.de](mailto:cornelius.holler@issw.uni-heidelberg.de)
+
+You can go to the starting page [here](index.qmd).

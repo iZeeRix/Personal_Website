@@ -1,5 +1,6 @@
 ---
 title: ""
+sitepath: "/projects/development_study2023/"
 ---
 
 [Hier geht es zurück zum Projekt](development_study2023.qmd)
