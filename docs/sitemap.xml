@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://corneliusholler.de/index.html</loc>
-    <lastmod>2024-07-15T09:36:29.057Z</lastmod>
+    <lastmod>2024-07-21T16:06:21.455Z</lastmod>
   </url>
   <url>
     <loc>https://corneliusholler.de/projects.html</loc>
@@ -23,5 +23,17 @@
   <url>
     <loc>https://corneliusholler.de/group_assignment.html</loc>
     <lastmod>2024-07-15T09:37:53.772Z</lastmod>
+  </url>
+  <url>
+    <loc>https://corneliusholler.de/about.html</loc>
+    <lastmod>2024-07-21T16:11:35.734Z</lastmod>
+  </url>
+  <url>
+    <loc>https://corneliusholler.de/publications.html</loc>
+    <lastmod>2024-07-21T15:56:12.292Z</lastmod>
+  </url>
+  <url>
+    <loc>https://corneliusholler.de/CV.html</loc>
+    <lastmod>2024-07-21T16:11:50.707Z</lastmod>
   </url>
 </urlset>

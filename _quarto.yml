@@ -9,7 +9,8 @@ website:
   cookie-consent:
     type: express
     style: headline
-  title: Cornelius Holler
+  title: | 
+    ![Logo](Attachments/Pictures/network_logo_circle.png){width=40px} Cornelius Holler
   site-url: 'https://corneliusholler.de/'
   site-path: '/'
   navbar:
@@ -38,10 +39,14 @@ website:
     right: 
       - text: ISSW
         href: https://www.issw.uni-heidelberg.de/personal/homepage/holler_c.html
-      - text: Twitter/X
-        href: https://twitter.com/CorneliusHoller
+      - text: X
+        href: https://x.com/CorneliusHoller
+      - text: LinkedIn
+        href: https://www.linkedin.com/in/cornelius-holler/
       - text: Researchgate
         href: https://www.researchgate.net/profile/Cornelius_Holler
+      - text: ORCID
+        href: https://orcid.org/0009-0008-6599-8971
 format:
   html:
     theme: 
