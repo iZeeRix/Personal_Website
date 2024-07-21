@@ -9,11 +9,11 @@ website:
   cookie-consent:
     type: express
     style: headline
-  title: | 
-    ![Logo](Attachments/Pictures/network_logo_circle.png){width=40px} Cornelius Holler
+  title: Cornelius Holler
   site-url: 'https://corneliusholler.de/'
   site-path: '/'
   navbar:
+    logo: "Attachments/Pictures/network_logo_circle.png"
     left:
       - href: index.qmd
         text: Home
