@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://corneliusholler.de/index.html</loc>
-    <lastmod>2024-07-22T12:38:31.783Z</lastmod>
+    <lastmod>2024-07-23T09:51:39.419Z</lastmod>
   </url>
   <url>
     <loc>https://corneliusholler.de/projects.html</loc>
@@ -30,10 +30,34 @@
   </url>
   <url>
     <loc>https://corneliusholler.de/publications.html</loc>
-    <lastmod>2024-07-22T16:29:30.567Z</lastmod>
+    <lastmod>2024-07-23T10:31:09.699Z</lastmod>
   </url>
   <url>
     <loc>https://corneliusholler.de/CV.html</loc>
     <lastmod>2024-07-21T16:11:50.707Z</lastmod>
+  </url>
+  <url>
+    <loc>https://corneliusholler.de/posts.html</loc>
+    <lastmod>2024-07-23T09:47:49.807Z</lastmod>
+  </url>
+  <url>
+    <loc>https://corneliusholler.de/posts/2024-07-23-new_paper.html</loc>
+    <lastmod>2024-07-23T09:58:02.553Z</lastmod>
+  </url>
+  <url>
+    <loc>https://corneliusholler.de/posts/2024-07-23-gauging_acceptance.html</loc>
+    <lastmod>2024-07-23T10:31:40.072Z</lastmod>
+  </url>
+  <url>
+    <loc>https://corneliusholler.de/posts/2024-07-10.html</loc>
+    <lastmod>2024-07-23T10:31:41.781Z</lastmod>
+  </url>
+  <url>
+    <loc>https://corneliusholler.de/posts/2024-07-10-group-assignment.html</loc>
+    <lastmod>2024-07-23T10:38:49.131Z</lastmod>
+  </url>
+  <url>
+    <loc>https://corneliusholler.de/posts/2024-07-23-gauging-acceptance.html</loc>
+    <lastmod>2024-07-23T10:35:39.622Z</lastmod>
   </url>
 </urlset>

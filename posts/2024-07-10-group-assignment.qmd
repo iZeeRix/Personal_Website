@@ -1,0 +1,19 @@
+---
+title: "Shiny app to assign students to topics"
+description: ""
+author:
+  - name: Cornelius Holler
+date: 2024-07-10
+categories: [R Programming, Teaching]
+draft: false
+---
+
+I teach 1-2 seminars each winter semester, where students do presentations in groups of 2-3. Over the semester, we have 10 topics to cover, so the students need to form groups and we need to assign each group a topic to present. In my experience, this is usually done by going through the topics, assigning those which only one group wants to present and then go back through and let the students decide who "wins" the topic by playing rock-paper-scissors against each other.
+
+I found this method of assigning topics both annoying and unfair, because even though there can be a bit of a strategy behind choosing the topic, it is based on luck if you win your round of rock-paper-scissors or if you are handed through to your least favorite topic. So I wanted to create a better way to assign the topics to that each group gets their highest priority possible.
+
+Luckily, I was at the EUSN 2023 Conference in Ljubljana, Slovenia, at that time and talked about it with a colleague, [Robert Panitz](https://www.uni-koblenz.de/de/informatik/ifm/panitz/robert-panitz){target="_blank"}. He suggested the algorithm that I implemented, first into a simple R function, now into a publicly available Shiny app!
+
+It essentially works by asking the students to rank each topic from 1 (best) to 10 (worst). The code then creates a square matrix with the students' rankings in the rows and the topics in the columns. It then permutates the matrix columns a certain amount of times to see, which permutation yields the smallest sum of priorities. In the app, you can adjust the amount of permutations and if the rankings should be weighted in a linear or quadratic way.
+
+I created a separate page for the app where you can find more information about how it works and how to use it: [Assigning Topics to Students - Shiny App](/group_assignment.qmd)

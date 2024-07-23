@@ -1,0 +1,23 @@
+---
+title: "New Paper published in The Journal of Early Adolescence"
+description: "Gauging Acceptance: A Multifaceted Examination of Physical Ability and Its Role for Peer Networks in Adolescent Physical Education"
+author:
+  - name: Cornelius Holler
+date: 2024-07-23
+categories: [Scientific Paper, Physical Education, Social Network Analysis]
+draft: false
+---
+
+📖 I am excited to share that our latest paper is now published in the Journal of Early Adolescence: "Gauging Acceptance: A Multifaceted Examination of Physical Ability and Its Role for Peer Networks in Adolescent Physical Education" coauthored with Annabell Schüßler!
+
+Our study explores the impact of perceived physical ability on peer collaboration in physical education through three lenses: self-concept, peer assessments, and teacher ratings. Using data from 302 students from 14 school classes, we analyzed how these perceptions influence team partner choices.
+
+**Key Findings**:
+
+-   Physical ability is a significant factor in choosing team partners. High-performing and similar-performing peers are more likely to be selected, indicating that peer perceptions of ability are strongly associated with collaboration networks in sports games. 🏆
+
+-   Of the three perspectives of ability, only peer-perceived ability was a significant predictor of team partner choices. This highlights the unique role of peer assessments, which are rarely addressed in the literature. 👥
+
+-   Gender and liking also play important roles in team partner selections. Students tend to prefer peers of the same gender and those they like, but peer-perceived ability remains a strong independent predictor even when controlling for these factors. 👫
+
+These findings emphasize the importance of understanding peer dynamics in physical education to foster positive social interactions. For more details, check out the full paper here: [https://doi.org/10.1177/02724316241265459](https://doi.org/10.1177/02724316241265459){target="_blank"}

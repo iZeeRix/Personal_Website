@@ -502,5 +502,47 @@
     "title": "Cornelius Holler",
     "section": "Contact",
     "text": "Contact\nCornelius Holler (he/him)\nInstitute of Sports and Sports Sciences\nUniversity of Heidelberg\nIm Neuenheimer Feld 700\n69120 Heidelberg\nDE - Germany\ncornelius.holler@issw.uni-heidelberg.de"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "News",
+    "section": "",
+    "text": "New Paper published in The Journal of Early Adolescence\n\n\n\n\n\n\n\nScientific Paper\n\n\nPhysical Education\n\n\nSocial Network Analysis\n\n\n\n\nGauging Acceptance: A Multifaceted Examination of Physical Ability and Its Role for Peer Networks in Adolescent Physical Education\n\n\n\n\n\n\nJul 23, 2024\n\n\nCornelius Holler\n\n\n\n\n\n\n\n\n\n\n\n\n\nShiny app to assign students to topics\n\n\n\n\n\n\n\nR Programming\n\n\nTeaching\n\n\n\n\n\n\n\n\n\n\n\nJul 10, 2024\n\n\nCornelius Holler\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+  },
+  {
+    "objectID": "posts/2024-07-23-new_paper.html",
+    "href": "posts/2024-07-23-new_paper.html",
+    "title": "New Paper published in The Journal of Early Adolescence",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "posts/2024-07-23-gauging_acceptance.html",
+    "href": "posts/2024-07-23-gauging_acceptance.html",
+    "title": "New Paper published in The Journal of Early Adolescence",
+    "section": "",
+    "text": "📖 I am excited to share that our latest paper is now published in the Journal of Early Adolescence: “Gauging Acceptance: A Multifaceted Examination of Physical Ability and Its Role for Peer Networks in Adolescent Physical Education” coauthored with Annabell Schüßler!\nOur study explores the impact of perceived physical ability on peer collaboration in physical education through three lenses: self-concept, peer assessments, and teacher ratings. Using data from 302 students from 14 school classes, we analyzed how these perceptions influence team partner choices.\nKey Findings:\n\nPhysical ability is a significant factor in choosing team partners. High-performing and similar-performing peers are more likely to be selected, indicating that peer perceptions of ability are strongly associated with collaboration networks in sports games. 🏆\nOf the three perspectives of ability, only peer-perceived ability was a significant predictor of team partner choices. This highlights the unique role of peer assessments, which are rarely addressed in the literature. 👥\nGender and liking also play important roles in team partner selections. Students tend to prefer peers of the same gender and those they like, but peer-perceived ability remains a strong independent predictor even when controlling for these factors. 👫\n\nThese findings emphasize the importance of understanding peer dynamics in physical education to foster positive social interactions. For more details, check out the full paper here: https://doi.org/10.1177/02724316241265459\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "posts/2024-07-10.html",
+    "href": "posts/2024-07-10.html",
+    "title": "Shiny app to assign students to topics",
+    "section": "",
+    "text": "I teach 1-2 seminars each winter semester, where students do presentations in groups of 2-3. Over the semester, we have 10 topics to cover, so the students need to form groups and we need to assign each group a topic to present. In my experience, this is usually done by going through the topics, assigning those which only one group wants to present and then go back through and let the students decide who “wins” the topic by playing rock-paper-scissors against each other.\nI found this method of assigning topics both annoying and unfair, because even though there can be a bit of a strategy behind choosing the topic, it is based on luck if you win your round of rock-paper-scissors or if you are handed through to your least favorite topic. So I wanted to create a better way to assign the topics to that each group gets their highest priority possible.\nLuckily, I was at the EUSN 2023 Conference in Ljubljana, Slovenia, at that time and talked about it with a colleague, Robert Panitz. He suggested the algorithm that I implemented, first into a simple R function, now into a publicly available Shiny app!\nIt essentially works by asking the students to rank each topic from 1 (best) to 10 (worst). The code then creates a square matrix with the students’ rankings in the rows and the topics in the columns. It then permutates the matrix columns a certain amount of times to see, which permutation yields the smallest sum of priorities. In the app, you can adjust the amount of permutations and if the rankings should be weighted in a linear or quadratic way.\nI created a separate page for the app where you can find more information about how it works and how to use it: Assigning Topics to Students - Shiny App\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "posts/2024-07-10-group-assignment.html",
+    "href": "posts/2024-07-10-group-assignment.html",
+    "title": "Shiny app to assign students to topics",
+    "section": "",
+    "text": "I teach 1-2 seminars each winter semester, where students do presentations in groups of 2-3. Over the semester, we have 10 topics to cover, so the students need to form groups and we need to assign each group a topic to present. In my experience, this is usually done by going through the topics, assigning those which only one group wants to present and then go back through and let the students decide who “wins” the topic by playing rock-paper-scissors against each other.\nI found this method of assigning topics both annoying and unfair, because even though there can be a bit of a strategy behind choosing the topic, it is based on luck if you win your round of rock-paper-scissors or if you are handed through to your least favorite topic. So I wanted to create a better way to assign the topics to that each group gets their highest priority possible.\nLuckily, I was at the EUSN 2023 Conference in Ljubljana, Slovenia, at that time and talked about it with a colleague, Robert Panitz. He suggested the algorithm that I implemented, first into a simple R function, now into a publicly available Shiny app!\nIt essentially works by asking the students to rank each topic from 1 (best) to 10 (worst). The code then creates a square matrix with the students’ rankings in the rows and the topics in the columns. It then permutates the matrix columns a certain amount of times to see, which permutation yields the smallest sum of priorities. In the app, you can adjust the amount of permutations and if the rankings should be weighted in a linear or quadratic way.\nI created a separate page for the app where you can find more information about how it works and how to use it: Assigning Topics to Students - Shiny App\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "posts/2024-07-23-gauging-acceptance.html",
+    "href": "posts/2024-07-23-gauging-acceptance.html",
+    "title": "New Paper published in The Journal of Early Adolescence",
+    "section": "",
+    "text": "📖 I am excited to share that our latest paper is now published in the Journal of Early Adolescence: “Gauging Acceptance: A Multifaceted Examination of Physical Ability and Its Role for Peer Networks in Adolescent Physical Education” coauthored with Annabell Schüßler!\nOur study explores the impact of perceived physical ability on peer collaboration in physical education through three lenses: self-concept, peer assessments, and teacher ratings. Using data from 302 students from 14 school classes, we analyzed how these perceptions influence team partner choices.\nKey Findings:\n\nPhysical ability is a significant factor in choosing team partners. High-performing and similar-performing peers are more likely to be selected, indicating that peer perceptions of ability are strongly associated with collaboration networks in sports games. 🏆\nOf the three perspectives of ability, only peer-perceived ability was a significant predictor of team partner choices. This highlights the unique role of peer assessments, which are rarely addressed in the literature. 👥\nGender and liking also play important roles in team partner selections. Students tend to prefer peers of the same gender and those they like, but peer-perceived ability remains a strong independent predictor even when controlling for these factors. 👫\n\nThese findings emphasize the importance of understanding peer dynamics in physical education to foster positive social interactions. For more details, check out the full paper here: https://doi.org/10.1177/02724316241265459\n\n\n\n Back to top"
   }
 ]
