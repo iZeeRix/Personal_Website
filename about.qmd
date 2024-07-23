@@ -1,13 +1,9 @@
 ---
-title: "About"
+title: "Contact"
 about:
   template: jolla
   image: Attachments/Pictures/Professionelles_Bild_Holler.jpeg
 ---
-
-I'm a doctoral candidate at the Institute of Sports and Sports Sciences at the University of Heidelberg. My research focuses on peer relationships (using social network analysis), self-concept and physical ability in physical education.
-
-## Contact
 
 Cornelius Holler (he/him)
 
@@ -21,12 +17,12 @@ DE - Germany
 
 ## Weblinks
 
-![](Attachments/Pictures/ISSW_logo.png){width="17" height="24"} [Instituts-Profil](https://www.issw.uni-heidelberg.de/personal/homepage/holler_c.html){target="_blank"}
+![](Attachments/Pictures/ISSW_logo.png){width="17" height="24"} [University Profile](https://www.issw.uni-heidelberg.de/personal/homepage/holler_c.html){target="_blank"}
 
 {{< ai researchgate size=xl >}} [Researchgate](https://www.researchgate.net/profile/Cornelius_Holler){target="_blank"}
 
 {{< ai orcid size=xl >}} [ORCID](https://orcid.org/0009-0008-6599-8971){target="_blank"}
 
-{{< iconify mdi twitter size=xl >}} [Twitter / X](https://twitter.com/CorneliusHoller){target="_blank"}
+{{< iconify ri twitter-x-fill size=xl >}} [Twitter / X](https://twitter.com/CorneliusHoller){target="_blank"}
 
 {{< iconify mdi linkedin size=xl >}} [LinkedIn](https://www.linkedin.com/in/cornelius-holler/){target="_blank"}

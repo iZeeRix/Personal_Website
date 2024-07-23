@@ -81,7 +81,7 @@
     "href": "index.html#weblinks",
     "title": "Welcome!",
     "section": "Weblinks",
-    "text": "Weblinks\n Instituts-Profil\n Researchgate\n ORCID\n Twitter / X\n LinkedIn"
+    "text": "Weblinks\n University Profile\n Researchgate\n ORCID\n Twitter / X\n LinkedIn"
   },
   {
     "objectID": "development_flyer.html",
@@ -149,9 +149,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Contact",
     "section": "",
-    "text": "I’m a doctoral candidate at the Institute of Sports and Sports Sciences at the University of Heidelberg. My research focuses on peer relationships (using social network analysis), self-concept and physical ability in physical education."
+    "text": "Cornelius Holler (he/him)\nInstitute of Sports and Sports Sciences\nUniversity of Heidelberg\nIm Neuenheimer Feld 700\n69120 Heidelberg\nDE - Germany\ncornelius.holler@issw.uni-heidelberg.de"
   },
   {
     "objectID": "about.html#über-mich",
@@ -170,9 +170,9 @@
   {
     "objectID": "about.html#weblinks",
     "href": "about.html#weblinks",
-    "title": "About",
+    "title": "Contact",
     "section": "Weblinks",
-    "text": "Weblinks\n Instituts-Profil\n Researchgate\n ORCID\n Twitter / X\n LinkedIn"
+    "text": "Weblinks\n University Profile\n Researchgate\n ORCID\n Twitter / X\n LinkedIn"
   },
   {
     "objectID": "poster_dvs2022.html",
@@ -499,9 +499,9 @@
   {
     "objectID": "about.html#contact",
     "href": "about.html#contact",
-    "title": "About",
-    "section": "Contact",
-    "text": "Contact\nCornelius Holler (he/him)\nInstitute of Sports and Sports Sciences\nUniversity of Heidelberg\nIm Neuenheimer Feld 700\n69120 Heidelberg\nDE - Germany\ncornelius.holler@issw.uni-heidelberg.de"
+    "title": "Contact",
+    "section": "",
+    "text": "Cornelius Holler (he/him)\nInstitute of Sports and Sports Sciences\nUniversity of Heidelberg\nIm Neuenheimer Feld 700\n69120 Heidelberg\nDE - Germany\ncornelius.holler@issw.uni-heidelberg.de"
   },
   {
     "objectID": "posts.html",
@@ -544,5 +544,12 @@
     "title": "New Paper published in The Journal of Early Adolescence",
     "section": "",
     "text": "📖 I am excited to share that our latest paper is now published in the Journal of Early Adolescence: “Gauging Acceptance: A Multifaceted Examination of Physical Ability and Its Role for Peer Networks in Adolescent Physical Education” coauthored with Annabell Schüßler!\nOur study explores the impact of perceived physical ability on peer collaboration in physical education through three lenses: self-concept, peer assessments, and teacher ratings. Using data from 302 students from 14 school classes, we analyzed how these perceptions influence team partner choices.\nKey Findings:\n\nPhysical ability is a significant factor in choosing team partners. High-performing and similar-performing peers are more likely to be selected, indicating that peer perceptions of ability are strongly associated with collaboration networks in sports games. 🏆\nOf the three perspectives of ability, only peer-perceived ability was a significant predictor of team partner choices. This highlights the unique role of peer assessments, which are rarely addressed in the literature. 👥\nGender and liking also play important roles in team partner selections. Students tend to prefer peers of the same gender and those they like, but peer-perceived ability remains a strong independent predictor even when controlling for these factors. 👫\n\nThese findings emphasize the importance of understanding peer dynamics in physical education to foster positive social interactions. For more details, check out the full paper here: https://doi.org/10.1177/02724316241265459\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "group_assignment.html#example",
+    "href": "group_assignment.html#example",
+    "title": "Assigning Topics to (Groups of) Students in Seminars",
+    "section": "Example",
+    "text": "Example\nThe data for this example are original rankings from one of my seminars. Here is an overview:\n\n\n\n\n\nThe best constellation I could find for this data was with 50,000 permutations and the quadratic mode:\n\n\n\n\n\nTo do this, I ran the program a few times by clicking on “Run Optimization” more often. As topic 5 was not ranked higher than 3 by any group, no better priority can be assigned here.\nTry out the program with the sample data, maybe you’ll find a lower total! Here you can download the data."
   }
 ]

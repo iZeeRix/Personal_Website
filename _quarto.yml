@@ -34,20 +34,20 @@ website:
       - href: publications.qmd
         text: Publications
       - href: about.qmd
-        text: About me
+        text: Contact
   back-to-top-navigation: true
   page-footer: 
     left: "Cornelius Holler, 2024" 
     right: 
       - text: ISSW
         href: https://www.issw.uni-heidelberg.de/personal/homepage/holler_c.html
-      - text: X
+      - text: "{{< iconify ri twitter-x-fill size=xl >}}"
         href: https://x.com/CorneliusHoller
-      - text: LinkedIn
+      - text: "{{< iconify mdi linkedin size=xl >}}"
         href: https://www.linkedin.com/in/cornelius-holler/
-      - text: Researchgate
+      - text: "{{< ai researchgate size=xl >}}"
         href: https://www.researchgate.net/profile/Cornelius_Holler
-      - text: ORCID
+      - text: "{{< ai orcid size=xl >}}"
         href: https://orcid.org/0009-0008-6599-8971
 format:
   html:

@@ -24,7 +24,7 @@ You can find the program here, and a more detailed example is shown below.
 <iframe height="800" src="https://corneliusholler.shinyapps.io/gruppenzuweisung/" id="myFrame">
 </iframe>
 ```
-## Beispiel
+## Example
 
 The data for this example are original rankings from one of my seminars. Here is an overview:
 
