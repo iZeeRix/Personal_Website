@@ -1,11 +1,9 @@
 ---
-title: ""
+title: "Poster auf der 35. Jahrestagung der Deutschen Vereinigung für Sportwissenschaft vom 16. bis 18. Juni 2022 in Münster"
 sitepath: "/projects/"
 ---
 
 [Hier geht es zurück zur Übersicht der Projekte](projects.qmd)
-
-## Poster auf der 35. Jahrestagung der Deutschen Vereinigung für Sportwissenschaft vom 16. bis 18. Juni 2022 in Münster
 
 ### Teaser
 

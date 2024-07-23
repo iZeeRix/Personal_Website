@@ -1,8 +1,6 @@
 ---
-title: ""
+title: "Publications"
 ---
-
-## Publications
 
 **Holler, C.**, & Schüßler, A. (2024). Gauging Acceptance: A Multifaceted Examination of Physical Ability and Its Role for Peer Networks in Adolescent Physical Education. *Journal of Early Adolescence*. [https://doi.org/10.1177/02724316241265459](https://doi.org/10.1177/02724316241265459){.uri target="_blank"}
 

@@ -1,11 +1,9 @@
 ---
-title: ""
+title: "Assigning Topics to (Groups of) Students in Seminars"
 sitepath: "/projects/"
 ---
 
 [You can go back to the project overview here](projects.qmd)
-
-# Assigning Topics to (Groups of) Students in Seminars
 
 I have written a small program for my seminars that assigns students (or student groups) to seminar topics by optimising the rankings that the students give to the topics.
 

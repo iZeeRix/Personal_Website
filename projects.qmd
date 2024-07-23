@@ -1,9 +1,8 @@
 ---
-title: ""
+title: "Project Overview"
 ---
 
-## Project Overview
+[Poster auf der 35. Jahrestagung der deutschen Vereinigung für Sportwissenschaft vom 16. bis 18. Juni 2022 in Münster (ger)](poster_dvs2022.qmd)
 
--   [Poster auf der 35. Jahrestagung der deutschen Vereinigung für Sportwissenschaft vom 16. bis 18. Juni 2022 in Münster (ger)](poster_dvs2022.qmd)
 -   [Entwicklung sozialer Beziehungen in Schulklasse und Sportunterricht (ger)](development_study2023.qmd)
 -   [Assigning Topics to (Groups of) Students in Seminars](group_assignment.qmd)

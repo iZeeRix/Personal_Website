@@ -1,10 +1,8 @@
 ---
-title: ""
+title: "Datenschutzmaßnahmen für die Erhebung sozialer Netzwerke"
 ---
 
 [Hier geht es zurück zum Projekt](development_study2023.qmd)
-
-## Datenschutzmaßnahmen für die Erhebung sozialer Netzwerke
 
 Das Datenschutzkonzept der vorliegenden Studie wurde gemeinsam mit dem Datenschutzbeauftragen der Universität Heidelberg konzipiert. Die Erhebung und Verarbeitung der oben beschriebenen persönlichen Daten erfolgten pseudonymisiert im Institut für Sport und Sportwissenschaft unter Verwendung einer Nummer und ohne Angabe des Namens. Dazu werden allen Schüler:innen und Lehrkräften durch eine programmierte Exceldatei Zufallszahlen zugeordnet, sodass die Beantwortungen durch eine Eintragung der passenden Ziffern erfolgt.
 

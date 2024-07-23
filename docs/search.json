@@ -18,14 +18,14 @@
     "href": "CV.html",
     "title": "CV",
     "section": "",
-    "text": "CV\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Back to top"
+    "text": "Back to top"
   },
   {
     "objectID": "call_for_teachers.html",
     "href": "call_for_teachers.html",
-    "title": "Cornelius Holler",
+    "title": "Anschreiben für (Sport-)Lehrkräfte",
     "section": "",
-    "text": "Hier geht es zurück zum Projekt"
+    "text": "Hier geht es zurück zum Projekt\n\n\n\n\n\n\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "call_for_teachers.html#anschreiben-für-sport-lehrkräfte",
@@ -37,7 +37,7 @@
   {
     "objectID": "publications.html",
     "href": "publications.html",
-    "title": "Cornelius Holler",
+    "title": "Publications",
     "section": "",
     "text": "Holler, C., & Schüßler, A. (2024). Gauging Acceptance: A Multifaceted Examination of Physical Ability and Its Role for Peer Networks in Adolescent Physical Education. Journal of Early Adolescence. https://doi.org/10.1177/02724316241265459\nHeim, R., Schüßler, A., &, Holler, C. (2023). Peerbeziehungen in der Sporthalle - Soziale Netzwerke im Sportunterricht. Zeitschrift für sportpädagogische Forschung, 11(1), 3–28. https://doi.org/10.5771/2196-5218-2023-1-5"
   },
@@ -58,7 +58,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Cornelius Holler",
+    "title": "Welcome!",
     "section": "",
     "text": "I’m a doctoral candidate at the Institute of Sports and Sports Sciences at the University of Heidelberg. My research focuses on peer relationships (using social network analysis), self-concept and physical ability in physical education.\nYou can find my CV here as well as ongoing and finished projects and publications."
   },
@@ -79,16 +79,16 @@
   {
     "objectID": "index.html#weblinks",
     "href": "index.html#weblinks",
-    "title": "Cornelius Holler",
+    "title": "Welcome!",
     "section": "Weblinks",
     "text": "Weblinks\n Instituts-Profil\n Researchgate\n ORCID\n Twitter / X\n LinkedIn"
   },
   {
     "objectID": "development_flyer.html",
     "href": "development_flyer.html",
-    "title": "Cornelius Holler",
+    "title": "Flyer zum Projekt “Entwicklung sozialer Beziehungen in Schulklasse und Sportunterricht”",
     "section": "",
-    "text": "Hier geht es zurück zum Projekt"
+    "text": "Hier geht es zurück zum Projekt\n\n\n\n\n\n\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "development_flyer.html#flyer-zum-projekt-entwicklung-sozialer-beziehungen-in-schulklasse-und-sportunterricht",
@@ -100,9 +100,9 @@
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "Cornelius Holler",
+    "title": "Project Overview",
     "section": "",
-    "text": "Poster auf der 35. Jahrestagung der deutschen Vereinigung für Sportwissenschaft vom 16. bis 18. Juni 2022 in Münster (ger)\nEntwicklung sozialer Beziehungen in Schulklasse und Sportunterricht (ger)\nAssigning Topics to (Groups of) Students in Seminars"
+    "text": "Poster auf der 35. Jahrestagung der deutschen Vereinigung für Sportwissenschaft vom 16. bis 18. Juni 2022 in Münster (ger)\n\nEntwicklung sozialer Beziehungen in Schulklasse und Sportunterricht (ger)\nAssigning Topics to (Groups of) Students in Seminars\n\n\n\n\n Back to top"
   },
   {
     "objectID": "projects.html#projektübersicht",
@@ -149,7 +149,7 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Cornelius Holler",
+    "title": "About",
     "section": "",
     "text": "I’m a doctoral candidate at the Institute of Sports and Sports Sciences at the University of Heidelberg. My research focuses on peer relationships (using social network analysis), self-concept and physical ability in physical education."
   },
@@ -170,16 +170,16 @@
   {
     "objectID": "about.html#weblinks",
     "href": "about.html#weblinks",
-    "title": "Cornelius Holler",
+    "title": "About",
     "section": "Weblinks",
     "text": "Weblinks\n Instituts-Profil\n Researchgate\n ORCID\n Twitter / X\n LinkedIn"
   },
   {
     "objectID": "poster_dvs2022.html",
     "href": "poster_dvs2022.html",
-    "title": "Cornelius Holler",
+    "title": "Poster auf der 35. Jahrestagung der Deutschen Vereinigung für Sportwissenschaft vom 16. bis 18. Juni 2022 in Münster",
     "section": "",
-    "text": "Hier geht es zurück zur Übersicht der Projekte"
+    "text": "Hier geht es zurück zur Übersicht der Projekte\n\nTeaser\n\n\n    \n\n\n\n\nPoster\n\n\n\n\n\n\n\nErgänzende Informationen zum Poster\n\nAls Regressionsanalyse für Netzwerkdaten wurde die double semi-partialling Methode der multiple regression quadratic assignment procedure (MR-QAP) verwendet (Dekker et al., 2007). Die MR-QAP verwendet Permutationen zur Berechnung der Signifikanzwerte, da die Netzwerke gegen die Annahme der Unabhängigkeit der Beobachtungen der klassischen Testtheorie verstößt. Die double semi-partialling Methode ist besonders robust gegen Autokorrelation und Kolinearität der Prädiktornetzwerke.\nUm Attributsdaten in Netzwerkregressionen zu verwenden, müssen Annahmen getroffen werden um die Attribute in Netzwerke umzuwandeln. Auf dem Poster sind zwei dieser Annahmen durch match oder receiver verdeutlicht worden. Weitere Methoden sind in Borgatti et al. (2018) in Kap. 8.4 näher erläutert\n\nmatch\n\nAuf Basis der Homophilie (McPherson et al., 2001) wird angenommen, dass Sozialbeziehungen vermehrt zwischen Menschen auftreten, die sich in gewissen Merkmalen ähnlich sind. Das Attribut des Geschlechts wird also so in Netzwerkdaten umgewandelt, indem alleinig zwischen gleichgeschlechtlichen Schüler:innen eine Beziehung angenommen wird. In der Regression wird dann überprüft, inwiefern das Kriteriumsnetzwerk auch durch diese Geschlechtertrennung charakterisiert wird.\n\nreceiver\n\nDer receiver-Effekt basiert auf der Annahme, dass Hilfesuchende sich, unabhängig des eigenen Leistungsniveaus, stets zu dem/der Besten wenden, um Rat zu suchen. Übertragen auf die Sportnote entspricht dies der Annahme, dass alle Schüler:innen mit den Mitschüler:innen mit der besten Note zusammenarbeiten wollen. Es entspricht also der Annahme einer konventionellen Regressionsanalyse.\n\n\n\n\n(Weiterführende) Literatur\nBorgatti, S. P., Everett, M. G., &, Johnson, J. C. (2018). Analyzing social networks (2nd ed.). SAGE.\nBortz, J., &, Schuster, C. (2010). Statistik für Human- und Sozialwissenschaftler (7. Aufl.). Springer.\nCohen, J. (1988). Statistical power analysis for the behavioral sciences (2nd ed). L. Erlbaum Associates.\nDekker, D., Krackhardt, D., &, Snijders, T. A. B. (2007). Sensitivity of MRQAP Tests to Collinearity and Autocorrelation Conditions. Psychometrika, 72(4), 563–581. https://doi.org/10.1007/s11336-007-9016-1\nHenke, T. (2022). Grundlagen der Messung sozialer Strukturen und Verfahren zur Analyse von Peerbeziehungen im Klassenzimmer. In M. Kreutzmann, L. Zander, & B. Hannover (Hrsg.), Aufwachsen mit Anderen. Peerbeziehungen als Bildungsfaktor (S. 24–37). Verlag W. Kohlhammer.\nMcPherson, M., Smith-Lovin, L., &, Cook, J. M. (2001). Birds of a Feather: Homophily in Social Networks. Annual Review of Sociology, 27(1), 415–444. https://doi.org/10.1146/annurev.soc.27.1.415\nMejeh, M., &, Hascher, T. (2021). Soziale Netzwerkanalyse als Erfassungsinstrument sozialer Interaktionen in der Schule. In G. Hagenauer & D. Raufelder, Soziale Eingebundenheit. Sozialbeziehungen im Fokus von Schule und Lehrer*innenbildung. Waxmann.\n\n\nKontakt\nCornelius Holler\nRuprecht-Karls-Universität Heidelberg\nInstitut für Sport und Sportwissenschaft\nIm Neuenheimer Feld 700\n69120 Heidelberg\ncornelius.holler@issw.uni-heidelberg.de\n\n\n\n\n Back to top"
   },
   {
     "objectID": "poster_dvs2022.html#poster-auf-der-35.-jahrestagung-der-deutschen-vereinigung-für-sportwissenschaft-vom-16.-bis-18.-juni-2022-in-münster",
@@ -240,7 +240,7 @@
   {
     "objectID": "index.html#contact",
     "href": "index.html#contact",
-    "title": "Cornelius Holler",
+    "title": "Welcome!",
     "section": "Contact",
     "text": "Contact\nCornelius Holler (he/him)\nInstitute of Sports and Sports Sciences\nUniversity of Heidelberg\nIm Neuenheimer Feld 700\n69120 Heidelberg\nDE - Germany\ncornelius.holler@issw.uni-heidelberg.de"
   },
@@ -254,7 +254,7 @@
   {
     "objectID": "publications.html#conference-contributions",
     "href": "publications.html#conference-contributions",
-    "title": "Cornelius Holler",
+    "title": "Publications",
     "section": "Conference Contributions",
     "text": "Conference Contributions\n\nPresentations\nSchüßler, A., Holler, C., & Hill, Y. (2024). Exploring Goal Orientation in Peer Networks: The Role of Multidimensional Achievement Goals in Physical Education. Presentation at the SUNBELT Conference by the International Network for Social Network Analysis (INSNA) from 24th-30th June 2024 in Edinburgh, Scotland.\nHoller, C. (2024). Veridikalität des sportunterrichtlichen Selbstkonzeptes und ihre Effekte auf die Anstrengungsbereitschaft und soziale Eingebundenheit im Sportunterricht [Veridicality of the physical education self-concept and it’s effects on the engagement and social embeddedness in physical education]. Presentation at the 37th yearly conference by the German Society of Sport Science (dvs) section sports pedagogy from 30th May to 1st June 2024 in Essen, Germany.\nHoller, C. &, Schüßler, A. (2023). Peerbeziehungen in der Schulklasse - Soziale Netzwerke im (Sport-)Unterricht [Peer relations in the gym - Social networks in physical education classes]. Presentation at the autumn conference of the section “Sociological Network Science” of the German Sociological Association (GSA) on 15th and 16th September 2023 in Cologne, Germany.\nHoller, C. (2023). Social networks, external and self-assessments of performance in physical education. Presentation at the 7th European Conference on Social Networks from 4th-8th September 2023 in Ljubljana, Slovenia.\nHoller, C. (2023). Soziale Netzwerke, Fremd- und Selbsteinschätzungen der sportunterrichtlichen Leistungsfähigkeit [Social networks, external and self-assessments of performance in physical education]. Presentation at the 36th yearly conference by the German Society of Sport Science (dvs) section sports pedagogy from 8th-10th June 2023 in Hamburg, Germany.\nHeim, R., &, Holler C. (2022). Peerbeziehungen in der Schulklasse. Soziale Netzwerke im (Sport-) Unterricht [Peer relations in the gym - Social networks in (physical) education classes]. Presentation at the Subject Didactics Conference 2022 by the German and Austrian Societies of Subject Didactics (GFD and ÖGFD) from 29th-31st August 2022 in Vienna, Austria.\nSchüßler, A., &, Holler, C. (2021). Soziale Netzwerke im Sportunterricht [Social networks in physical education]. Presentation at the yearly conference of the German Society of Network Science (DGNet) from 6th-7th September 2021 in Bayreuth, Germany.\n\n\nPoster\nHoller, C., Schüßler, A., &, Heim, R. (2022). Analyse des Wahlverhaltens von Schüler:innen in typischen sportunterrichtlichen Kontexten [Analysis of the nominations of students in typical collaboration settings in physical education]. Poster at the 35th yearly conference by the German Society of Sport Science (dvs) section sports pedagogy from 16th-18th June 2022 in Münster, Germany."
   },
@@ -499,7 +499,7 @@
   {
     "objectID": "about.html#contact",
     "href": "about.html#contact",
-    "title": "Cornelius Holler",
+    "title": "About",
     "section": "Contact",
     "text": "Contact\nCornelius Holler (he/him)\nInstitute of Sports and Sports Sciences\nUniversity of Heidelberg\nIm Neuenheimer Feld 700\n69120 Heidelberg\nDE - Germany\ncornelius.holler@issw.uni-heidelberg.de"
   },

@@ -1,8 +1,6 @@
 ---
-title: ""
+title: "CV"
 ---
-
-# CV
 
 ![](Attachments/Pictures/CV_eng_0.jpg){fig-align="center" width="100%"}
 

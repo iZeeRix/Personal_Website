@@ -1,10 +1,8 @@
 ---
-title: ""
+title: "Anschreiben für (Sport-)Lehrkräfte"
 ---
 
 [Hier geht es zurück zum Projekt](development_study2023.qmd)
-
-## Anschreiben für (Sport-)Lehrkräfte
 
 ![](Attachments/Documents/Anschreiben_Lehrkräfte_1.jpg){fig-align="center" width="100%"}
 
