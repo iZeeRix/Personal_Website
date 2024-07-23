@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://corneliusholler.de/index.html</loc>
-    <lastmod>2024-07-23T11:20:14.799Z</lastmod>
+    <lastmod>2024-07-23T13:09:38.315Z</lastmod>
   </url>
   <url>
     <loc>https://corneliusholler.de/projects.html</loc>
@@ -22,7 +22,7 @@
   </url>
   <url>
     <loc>https://corneliusholler.de/group_assignment.html</loc>
-    <lastmod>2024-07-15T09:37:53.772Z</lastmod>
+    <lastmod>2024-07-23T11:20:03.507Z</lastmod>
   </url>
   <url>
     <loc>https://corneliusholler.de/about.html</loc>
@@ -58,7 +58,7 @@
   </url>
   <url>
     <loc>https://corneliusholler.de/posts/2024-07-23-gauging-acceptance.html</loc>
-    <lastmod>2024-07-23T10:35:39.622Z</lastmod>
+    <lastmod>2024-07-23T13:09:12.647Z</lastmod>
   </url>
   <url>
     <loc>https://corneliusholler.de/call_for_teachers.html</loc>
@@ -67,5 +67,9 @@
   <url>
     <loc>https://corneliusholler.de/development_flyer.html</loc>
     <lastmod>2024-07-23T11:19:45.548Z</lastmod>
+  </url>
+  <url>
+    <loc>https://corneliusholler.de/data_protection_SoNiS.html</loc>
+    <lastmod>2024-07-23T11:19:14.966Z</lastmod>
   </url>
 </urlset>

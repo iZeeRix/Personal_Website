@@ -8,7 +8,7 @@ categories: [Scientific Paper, Physical Education, Social Network Analysis]
 draft: false
 ---
 
-📖 I am excited to share that our latest paper is now published in the Journal of Early Adolescence: "Gauging Acceptance: A Multifaceted Examination of Physical Ability and Its Role for Peer Networks in Adolescent Physical Education" coauthored with Annabell Schüßler!
+📖 I am excited to share that our latest paper is now published in the Journal of Early Adolescence: "Gauging Acceptance: A Multifaceted Examination of Physical Ability and Its Role for Peer Networks in Adolescent Physical Education" coauthored with [Annabell Schüßler](https://www.issw.uni-heidelberg.de/personal/wissen_personal/schuessler.html){target="_blank"}!
 
 Our study explores the impact of perceived physical ability on peer collaboration in physical education through three lenses: self-concept, peer assessments, and teacher ratings. Using data from 302 students from 14 school classes, we analyzed how these perceptions influence team partner choices.
 
