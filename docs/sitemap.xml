@@ -1,72 +1,116 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://corneliusholler.de/index.html</loc>
-    <lastmod>2024-07-23T20:44:54.583Z</lastmod>
-  </url>
-  <url>
-    <loc>https://corneliusholler.de/projects.html</loc>
-    <lastmod>2024-07-23T11:20:55.543Z</lastmod>
+    <loc>https://corneliusholler.de/group_assignment.html</loc>
+    <lastmod>2024-07-24T09:42:44.070Z</lastmod>
   </url>
   <url>
     <loc>https://corneliusholler.de/methods_and_analyses_SoNiS.html</loc>
     <lastmod>2024-07-15T09:39:04.260Z</lastmod>
   </url>
   <url>
-    <loc>https://corneliusholler.de/development_study2023.html</loc>
-    <lastmod>2024-07-15T09:38:38.128Z</lastmod>
-  </url>
-  <url>
-    <loc>https://corneliusholler.de/poster_dvs2022.html</loc>
-    <lastmod>2024-07-23T11:20:36.782Z</lastmod>
-  </url>
-  <url>
-    <loc>https://corneliusholler.de/group_assignment.html</loc>
-    <lastmod>2024-07-24T08:10:18.796Z</lastmod>
-  </url>
-  <url>
-    <loc>https://corneliusholler.de/about.html</loc>
-    <lastmod>2024-07-23T20:44:36.392Z</lastmod>
-  </url>
-  <url>
-    <loc>https://corneliusholler.de/publications.html</loc>
-    <lastmod>2024-07-23T11:18:09.693Z</lastmod>
-  </url>
-  <url>
-    <loc>https://corneliusholler.de/CV.html</loc>
-    <lastmod>2024-07-23T11:18:51.949Z</lastmod>
-  </url>
-  <url>
     <loc>https://corneliusholler.de/posts.html</loc>
     <lastmod>2024-07-23T09:47:49.807Z</lastmod>
   </url>
   <url>
-    <loc>https://corneliusholler.de/posts/2024-07-23-new_paper.html</loc>
-    <lastmod>2024-07-23T09:58:02.553Z</lastmod>
+    <loc>https://corneliusholler.de/call_for_teachers.html</loc>
+    <lastmod>2024-07-24T09:46:13.189Z</lastmod>
   </url>
   <url>
-    <loc>https://corneliusholler.de/posts/2024-07-23-gauging_acceptance.html</loc>
-    <lastmod>2024-07-23T10:31:40.072Z</lastmod>
+    <loc>https://corneliusholler.de/about.html</loc>
+    <lastmod>2024-07-24T09:46:10.330Z</lastmod>
   </url>
   <url>
-    <loc>https://corneliusholler.de/posts/2024-07-10.html</loc>
-    <lastmod>2024-07-23T10:31:41.781Z</lastmod>
+    <loc>https://corneliusholler.de/development_study2023.html</loc>
+    <lastmod>2024-07-15T09:38:38.128Z</lastmod>
+  </url>
+  <url>
+    <loc>https://corneliusholler.de/projects.html</loc>
+    <lastmod>2024-07-23T11:20:55.543Z</lastmod>
+  </url>
+  <url>
+    <loc>https://corneliusholler.de/development_flyer.html</loc>
+    <lastmod>2024-07-23T20:16:13.643Z</lastmod>
   </url>
   <url>
     <loc>https://corneliusholler.de/posts/2024-07-10-group-assignment.html</loc>
-    <lastmod>2024-07-23T10:38:49.131Z</lastmod>
+    <lastmod>2024-07-24T09:45:12.012Z</lastmod>
+  </url>
+  <url>
+    <loc>https://corneliusholler.de/Archiv/2024-07-08-Personal_Website (for englischer Übersetzung)/data_protection_SoNiS.html</loc>
+    <lastmod>2024-07-08T10:28:44.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://corneliusholler.de/Archiv/2024-07-08-Personal_Website (for englischer Übersetzung)/CV.html</loc>
+    <lastmod>2024-07-08T10:28:44.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://corneliusholler.de/Archiv/2024-07-08-Personal_Website (for englischer Übersetzung)/call_for_teachers.html</loc>
+    <lastmod>2024-07-08T10:28:44.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://corneliusholler.de/Archiv/2024-07-08-Personal_Website (for englischer Übersetzung)/about.html</loc>
+    <lastmod>2024-07-08T10:28:44.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://corneliusholler.de/Archiv/2024-07-08-Personal_Website (for englischer Übersetzung)/development_study2023.html</loc>
+    <lastmod>2024-07-08T10:28:44.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://corneliusholler.de/Archiv/2024-07-08-Personal_Website (for englischer Übersetzung)/projects.html</loc>
+    <lastmod>2024-07-08T10:28:44.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://corneliusholler.de/Archiv/2024-07-08-Personal_Website (for englischer Übersetzung)/development_flyer.html</loc>
+    <lastmod>2024-07-08T10:28:44.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://corneliusholler.de/Archiv/2024-07-08-Personal_Website (for englischer Übersetzung)/index.html</loc>
+    <lastmod>2024-07-08T10:28:44.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://corneliusholler.de/Archiv/2024-07-08-Personal_Website (for englischer Übersetzung)/publications.html</loc>
+    <lastmod>2024-07-08T10:28:44.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://corneliusholler.de/Archiv/2024-07-08-Personal_Website (for englischer Übersetzung)/group_designation.html</loc>
+    <lastmod>2024-07-08T10:28:44.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://corneliusholler.de/Archiv/2024-07-08-Personal_Website (for englischer Übersetzung)/poster_dvs2022.html</loc>
+    <lastmod>2024-07-08T10:28:44.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://corneliusholler.de/Archiv/2024-07-08-Personal_Website (for englischer Übersetzung)/methods_and_analyses_SoNiS.html</loc>
+    <lastmod>2024-07-08T10:28:44.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://corneliusholler.de/Archiv/2024-07-08-Personal_Website (for englischer Übersetzung)/group_assignment.html</loc>
+    <lastmod>2024-07-08T10:28:44.000Z</lastmod>
   </url>
   <url>
     <loc>https://corneliusholler.de/posts/2024-07-23-gauging-acceptance.html</loc>
     <lastmod>2024-07-23T13:09:12.647Z</lastmod>
   </url>
   <url>
-    <loc>https://corneliusholler.de/call_for_teachers.html</loc>
-    <lastmod>2024-07-23T11:18:42.772Z</lastmod>
+    <loc>https://corneliusholler.de/index.html</loc>
+    <lastmod>2024-07-24T09:45:42.731Z</lastmod>
   </url>
   <url>
-    <loc>https://corneliusholler.de/development_flyer.html</loc>
-    <lastmod>2024-07-23T20:16:13.643Z</lastmod>
+    <loc>https://corneliusholler.de/publications.html</loc>
+    <lastmod>2024-07-24T09:45:37.336Z</lastmod>
+  </url>
+  <url>
+    <loc>https://corneliusholler.de/group_designation.html</loc>
+    <lastmod>2024-07-08T07:48:02.420Z</lastmod>
+  </url>
+  <url>
+    <loc>https://corneliusholler.de/poster_dvs2022.html</loc>
+    <lastmod>2024-07-23T11:20:36.782Z</lastmod>
+  </url>
+  <url>
+    <loc>https://corneliusholler.de/CV.html</loc>
+    <lastmod>2024-07-23T11:18:51.949Z</lastmod>
   </url>
   <url>
     <loc>https://corneliusholler.de/data_protection_SoNiS.html</loc>

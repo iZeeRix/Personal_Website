@@ -45,6 +45,9 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
 <link href="../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="../site_libs/quarto-contrib/iconify-1.0.7/iconify-icon.min.js"></script>
+<link href="../site_libs/quarto-contrib/academicons-1.9.2/all.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/academicons-1.9.2/size.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -164,7 +167,7 @@ cookieconsent.run({
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../about.html"> 
-<span class="menu-text">About me</span></a>
+<span class="menu-text">Contact</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -221,7 +224,7 @@ cookieconsent.run({
 <p>I teach 1-2 seminars each winter semester, where students do presentations in groups of 2-3. Over the semester, we have 10 topics to cover, so the students need to form groups and we need to assign each group a topic to present. In my experience, this is usually done by going through the topics, assigning those which only one group wants to present and then go back through and let the students decide who “wins” the topic by playing rock-paper-scissors against each other.</p>
 <p>I found this method of assigning topics both annoying and unfair, because even though there can be a bit of a strategy behind choosing the topic, it is based on luck if you win your round of rock-paper-scissors or if you are handed through to your least favorite topic. So I wanted to create a better way to assign the topics to that each group gets their highest priority possible.</p>
 <p>Luckily, I was at the EUSN 2023 Conference in Ljubljana, Slovenia, at that time and talked about it with a colleague, <a href="https://www.uni-koblenz.de/de/informatik/ifm/panitz/robert-panitz" target="_blank">Robert Panitz</a>. He suggested the algorithm that I implemented, first into a simple R function, now into a publicly available Shiny app!</p>
-<p>It essentially works by asking the students to rank each topic from 1 (best) to 10 (worst). The code then creates a square matrix with the students’ rankings in the rows and the topics in the columns. It then permutates the matrix columns a certain amount of times to see, which permutation yields the smallest sum of priorities. In the app, you can adjust the amount of permutations and if the rankings should be weighted in a linear or quadratic way.</p>
+<p>It essentially works by asking the students to rank each topic from 1 (best) to 10 (worst). The code then creates a square matrix with the students’ rankings in the rows and the topics in the columns. It then permutates the matrix columns a certain amount of times to see, which permutation yields the smallest sum of priorities. In the app, it of course works with any size of matrix and you can adjust the amount of permutations and if the rankings should be weighted in a linear or quadratic way.</p>
 <p>I created a separate page for the app where you can find more information about how it works and how to use it: <a href="../group_assignment.html">Assigning Topics to Students - Shiny App</a></p>
 
 
@@ -733,22 +736,22 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   </li>  
     <li class="nav-item">
     <a class="nav-link" href="https://x.com/CorneliusHoller">
-<p>X</p>
+<p><iconify-icon inline="" icon="ri:twitter-x-fill" style="font-size: 1.5em;"></iconify-icon></p>
 </a>
   </li>  
     <li class="nav-item">
     <a class="nav-link" href="https://www.linkedin.com/in/cornelius-holler/">
-<p>LinkedIn</p>
+<p><iconify-icon inline="" icon="mdi:linkedin" style="font-size: 1.5em;"></iconify-icon></p>
 </a>
   </li>  
     <li class="nav-item">
     <a class="nav-link" href="https://www.researchgate.net/profile/Cornelius_Holler">
-<p>Researchgate</p>
+<p><i class="ai  ai-researchgate ai-xl"></i></p>
 </a>
   </li>  
     <li class="nav-item">
     <a class="nav-link" href="https://orcid.org/0009-0008-6599-8971">
-<p>ORCID</p>
+<p><i class="ai  ai-orcid ai-xl"></i></p>
 </a>
   </li>  
 </ul>

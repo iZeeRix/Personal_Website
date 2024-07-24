@@ -15,7 +15,7 @@ In my seminars last year, I was able to assign the topics to all student groups 
 
 You can find the program here, and a more detailed example is shown below.
 
-## Application 
+## Application
 
 ```{=html}
 

@@ -14,6 +14,6 @@ I found this method of assigning topics both annoying and unfair, because even t
 
 Luckily, I was at the EUSN 2023 Conference in Ljubljana, Slovenia, at that time and talked about it with a colleague, [Robert Panitz](https://www.uni-koblenz.de/de/informatik/ifm/panitz/robert-panitz){target="_blank"}. He suggested the algorithm that I implemented, first into a simple R function, now into a publicly available Shiny app!
 
-It essentially works by asking the students to rank each topic from 1 (best) to 10 (worst). The code then creates a square matrix with the students' rankings in the rows and the topics in the columns. It then permutates the matrix columns a certain amount of times to see, which permutation yields the smallest sum of priorities. In the app, you can adjust the amount of permutations and if the rankings should be weighted in a linear or quadratic way.
+It essentially works by asking the students to rank each topic from 1 (best) to 10 (worst). The code then creates a square matrix with the students' rankings in the rows and the topics in the columns. It then permutates the matrix columns a certain amount of times to see, which permutation yields the smallest sum of priorities. In the app, it of course works with any size of matrix and you can adjust the amount of permutations and if the rankings should be weighted in a linear or quadratic way.
 
 I created a separate page for the app where you can find more information about how it works and how to use it: [Assigning Topics to Students - Shiny App](/group_assignment.qmd)

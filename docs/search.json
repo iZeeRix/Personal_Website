@@ -1,24 +1,45 @@
 [
   {
-    "objectID": "data_protection_SoNiS.html",
-    "href": "data_protection_SoNiS.html",
-    "title": "Datenschutzmaßnahmen für die Erhebung sozialer Netzwerke",
+    "objectID": "group_assignment.html",
+    "href": "group_assignment.html",
+    "title": "Assigning Topics to (Groups of) Students in Seminars",
     "section": "",
-    "text": "Hier geht es zurück zum Projekt\nDas Datenschutzkonzept der vorliegenden Studie wurde gemeinsam mit dem Datenschutzbeauftragen der Universität Heidelberg konzipiert. Die Erhebung und Verarbeitung der oben beschriebenen persönlichen Daten erfolgten pseudonymisiert im Institut für Sport und Sportwissenschaft unter Verwendung einer Nummer und ohne Angabe des Namens. Dazu werden allen Schüler:innen und Lehrkräften durch eine programmierte Exceldatei Zufallszahlen zugeordnet, sodass die Beantwortungen durch eine Eintragung der passenden Ziffern erfolgt.\nDie eingetragenen Zifferncodes werden im Anschluss an die Datenerhebung nach der Löschung der ersten Zuordnung durch Mitarbeiter:innen unserer Forschungsgruppe wiederum verschlüsselt. Ihr Name und der Name der Schüler:innen taucht also an keiner Stelle des Fragebogens auf. Daher kann aus der vorliegenden Befragung nicht auf einzelne Personen geschlossen werden. Zudem werden in allen Auswertungen und Berichten die Schulnamen ebenfalls nicht genannt und pseudonymisiert, damit niemand mehr die Daten mit Ihnen und Ihrer Schule in Verbindung bringen kann.\nAlle Informationen, die wir von Ihnen erheben, werden vertraulich behandelt, unterliegen dem Datenschutz, dienen allein wissenschaftlichen Zwecken und werden nicht an Dritte außerhalb unserer Forschungsgruppe weitergegeben. Weder Lehrkräfte noch Schulleitung erhalten Einblicke in die Daten oder die Auswertungen. Die Veröffentlichung der Ergebnisse der Studie erfolgt anonymisiert, d.h. sie können nicht mehr einer Person oder Schule zugeordnet werden. Aufgrund der beschriebenen vollständigen Anonymisierung, die nach der zweiten Verschlüsselung erfolgt, wird eine Löschung einzelner, personenbezogener Datensätze nicht mehr möglich sein.\n\n\n\n Back to top"
+    "text": "You can go back to the project overview here\nI have written a small program for my seminars that assigns students (or student groups) to seminar topics by optimising the rankings that the students give to the topics.\nThe way it works is that a square matrix is entered into an Excel file with the students (groups) in the rows and the topics in the columns. Each student (group) gives each topic a ranking (1 = highest ranked topic). If not all topics are to be ranked, the topics with missing values are set to 20. The Excel file needs both column and row labels to be registered correctly.\nThe algorithm then takes this matrix and attempts to minimize the sum of the diagonals through permutations. To do this, the order of the columns is randomly changed and the assignment and the sum are saved. After the specified number of permutations, the constellation with the lowest sum is selected and displayed as the result. The default setting is 10,000 permutations, which I would adjust depending on the size of the group. For my seminars with approx. 10 groups and topics, approx. 50,000 permutations work very well for me. The linear mode is also set by default, which gives each ranking a linear weight. This means that no distinction is made as to whether a low total is the result of all topics being assigned priority 1, but one topic only being assigned priority 9, or whether the overall priorities are more likely to be 2. The quadratic mode is used to penalize low rankings more strongly. Here, the rankings are squared, then the optimization is carried out and only at the end is the original ranking calculated again. This may result in individual rankings being lower, but overall it means that low rankings are awarded less frequently.\nIn my seminars last year, I was able to assign the topics to all student groups in such a way that everyone got their 1st to 4th preference. Due to the large number of possibilities, it is helpful to run the program several times (even with 50,000 permutations) and then look at both the highest assigned priority and the total sum in order to minimize both.\nYou can find the program here, and a more detailed example is shown below."
   },
   {
-    "objectID": "data_protection_SoNiS.html#datenschutzmaßnahmen-für-die-erhebung-sozialer-netzwerke",
-    "href": "data_protection_SoNiS.html#datenschutzmaßnahmen-für-die-erhebung-sozialer-netzwerke",
+    "objectID": "group_assignment.html#application",
+    "href": "group_assignment.html#application",
+    "title": "Assigning Topics to (Groups of) Students in Seminars",
+    "section": "Application",
+    "text": "Application"
+  },
+  {
+    "objectID": "group_assignment.html#example",
+    "href": "group_assignment.html#example",
+    "title": "Assigning Topics to (Groups of) Students in Seminars",
+    "section": "Example",
+    "text": "Example\nThe data for this example are original rankings from one of my seminars. Here is an overview:\n\n\n\n\n\nThe best constellation I could find for this data was with 50,000 permutations and the quadratic mode:\n\n\n\n\n\nTo do this, I ran the program a few times by clicking on “Run Optimization” more often. As topic 5 was not ranked higher than 3 by any group, no better priority can be assigned here.\nTry out the program with the sample data, maybe you’ll find a lower total! Here you can download the data."
+  },
+  {
+    "objectID": "methods_and_analyses_SoNiS.html",
+    "href": "methods_and_analyses_SoNiS.html",
     "title": "Cornelius Holler",
-    "section": "Datenschutzmaßnahmen für die Erhebung sozialer Netzwerke",
-    "text": "Datenschutzmaßnahmen für die Erhebung sozialer Netzwerke\nDas Datenschutzkonzept der vorliegenden Studie wurde gemeinsam mit dem Datenschutzbeauftragen der Universität Heidelberg konzipiert. Die Erhebung und Verarbeitung der oben beschriebenen persönlichen Daten erfolgten pseudonymisiert im Institut für Sport und Sportwissenschaft unter Verwendung einer Nummer und ohne Angabe des Namens. Dazu werden allen Schüler:innen und Lehrkräften durch eine programmierte Exceldatei Zufallszahlen zugeordnet, sodass die Beantwortungen durch eine Eintragung der passenden Ziffern erfolgt.\nDie eingetragenen Zifferncodes werden im Anschluss an die Datenerhebung nach der Löschung der ersten Zuordnung durch Mitarbeiter:innen unserer Forschungsgruppe wiederum verschlüsselt. Ihr Name und der Name der Schüler:innen taucht also an keiner Stelle des Fragebogens auf. Daher kann aus der vorliegenden Befragung nicht auf einzelne Personen geschlossen werden. Zudem werden in allen Auswertungen und Berichten die Schulnamen ebenfalls nicht genannt und pseudonymisiert, damit niemand mehr die Daten mit Ihnen und Ihrer Schule in Verbindung bringen kann.\nAlle Informationen, die wir von Ihnen erheben, werden vertraulich behandelt, unterliegen dem Datenschutz, dienen allein wissenschaftlichen Zwecken und werden nicht an Dritte außerhalb unserer Forschungsgruppe weitergegeben. Weder Lehrkräfte noch Schulleitung erhalten Einblicke in die Daten oder die Auswertungen. Die Veröffentlichung der Ergebnisse der Studie erfolgt anonymisiert, d.h. sie können nicht mehr einer Person oder Schule zugeordnet werden. Aufgrund der beschriebenen vollständigen Anonymisierung, die nach der zweiten Verschlüsselung erfolgt, wird eine Löschung einzelner, personenbezogener Datensätze nicht mehr möglich sein."
+    "section": "",
+    "text": "Hier geht es zurück zum Projekt"
   },
   {
-    "objectID": "CV.html",
-    "href": "CV.html",
-    "title": "CV",
+    "objectID": "methods_and_analyses_SoNiS.html#erhebung-und-auswertung-sozialer-netzwerke",
+    "href": "methods_and_analyses_SoNiS.html#erhebung-und-auswertung-sozialer-netzwerke",
+    "title": "Cornelius Holler",
+    "section": "Erhebung und Auswertung sozialer Netzwerke",
+    "text": "Erhebung und Auswertung sozialer Netzwerke\nDie Erhebung sozialer Netzwerkdaten erfolgt mittels Nominierungsfragen. Hierbei werden die Schüler:innen gebeten, für Interaktions- oder Beziehungsbeschreibungen die Zahlencodes (siehe Datenschutzmaßnahmen) der Mitschüler:innen aufzuschreiben, die auf diese Beschreibungen zutreffen. Eine Beispielfrage würde z.B. so aussehen:\n\n\n\n\n\nDie Daten einer Nominierungsfrage werden in einer sog. “Nodelist” gespeichert, die hier beispielhaft aufgeführt wird:\n\n\n\nZahlencode\nZsmarbeiten_01\nZsmarbeiten_02\nZsmarbeiten_03\n\n\n\n\n1\n\n\n\n\n\n2\n4\n5\n\n\n\n3\n8\n9\n\n\n\n4\n2\n6\n7\n\n\n5\n3\n9\n\n\n\n…\n…\n…\n…\n\n\n\nDie Daten aus der Nodelist werden dann mit einem Statistikprogramm (z.B. UCINET) oder einer Programmiersprache (z.B. R) in sog. “Adjacency Matrix” umgewandelt, die Beziehungen mit “1” und fehlende Beziehungen mit “0” kennzeichnet. Aus ihr können sowohl individuelle Maße wie z.B. der “Indegree” (Anzahl an eingehenden Nominierungen) berechnet oder Netzwerkgraphen geplottet werden, die Netzwerke können jedoch auch direkt in statistische Verfahren einfließen.\nEin Beispiel für eine Adjacency Matrix mit einem entsprechenden Netzwerkgraphen ist hier abgebildet. Die Zeilen symbolisieren die ausgehenden Nominierungen während die Spalten die eingehenden Nominierungen darstellen."
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "News",
     "section": "",
-    "text": "Back to top"
+    "text": "New Paper published in The Journal of Early Adolescence\n\n\n\n\n\n\n\nScientific Paper\n\n\nPhysical Education\n\n\nSocial Network Analysis\n\n\n\n\nGauging Acceptance: A Multifaceted Examination of Physical Ability and Its Role for Peer Networks in Adolescent Physical Education\n\n\n\n\n\n\nJul 23, 2024\n\n\nCornelius Holler\n\n\n\n\n\n\n\n\n\n\n\n\n\nShiny app to assign students to topics\n\n\n\n\n\n\n\nR Programming\n\n\nTeaching\n\n\n\n\n\n\n\n\n\n\n\nJul 10, 2024\n\n\nCornelius Holler\n\n\n\n\n\n\nNo matching items\n\n Back to top"
   },
   {
     "objectID": "call_for_teachers.html",
@@ -28,88 +49,18 @@
     "text": "Hier geht es zurück zum Projekt\n\n\n\n\n\n\n\n\n\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "call_for_teachers.html#anschreiben-für-sport-lehrkräfte",
-    "href": "call_for_teachers.html#anschreiben-für-sport-lehrkräfte",
-    "title": "Cornelius Holler",
-    "section": "Anschreiben für (Sport-)Lehrkräfte",
-    "text": "Anschreiben für (Sport-)Lehrkräfte"
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Contact",
     "section": "",
-    "text": "Holler, C., & Schüßler, A. (2024). Gauging Acceptance: A Multifaceted Examination of Physical Ability and Its Role for Peer Networks in Adolescent Physical Education. Journal of Early Adolescence. https://doi.org/10.1177/02724316241265459\nHeim, R., Schüßler, A., &, Holler, C. (2023). Peerbeziehungen in der Sporthalle - Soziale Netzwerke im Sportunterricht. Zeitschrift für sportpädagogische Forschung, 11(1), 3–28. https://doi.org/10.5771/2196-5218-2023-1-5"
+    "text": "Cornelius Holler (he/him)\nInstitute of Sports and Sports Sciences\nUniversity of Heidelberg\nIm Neuenheimer Feld 700\n69120 Heidelberg\nDE - Germany\ncornelius.holler@issw.uni-heidelberg.de"
   },
   {
-    "objectID": "publications.html#publikationen",
-    "href": "publications.html#publikationen",
-    "title": "Cornelius Holler",
-    "section": "",
-    "text": "Heim, R., Schüßler, A., &, Holler, C. (2023). Peerbeziehungen in der Sporthalle - Soziale Netzwerke im Sportunterricht. Zeitschrift für sportpädagogische Forschung, 11(1), 3–28. https://doi.org/10.5771/2196-5218-2023-1-3"
-  },
-  {
-    "objectID": "publications.html#konferenzbeiträge",
-    "href": "publications.html#konferenzbeiträge",
-    "title": "Cornelius Holler",
-    "section": "Konferenzbeiträge",
-    "text": "Konferenzbeiträge\n\nVorträge\nHoller, C. &, Schüßler, A. (2023). Peerbeziehungen in der Schulklasse - Soziale Netzwerke im (Sport-)Unterricht. Vortrag auf der Herbsttagung der Sektion “Soziologische Netzwerkforschung” der Deutschen Gesellschaft für Soziologie (DGS) am 15. und 16. September 2023 in Köln.\nHoller, C. (2023). Social networks, external and self-assessments of performance in physical education. Vortrag auf der 7. European Conference on Social Networks vom 4.-8. September 2023 in Ljubljana, Slowenien.\nHoller, C. (2023). Soziale Netzwerke, Fremd- und Selbsteinschätzungen der sportunterrichtlichen Leistungsfähigkeit. Vortrag auf der 36. Jahrestagung der Deutschen Vereinigung für Sportwissenschaft vom 8. bis 10. Juni 2023 in Hamburg.\nHeim, R., &, Holler C. (2022). Peerbeziehungen in der Schulklasse. Soziale Netzwerke im (Sport-) Unterricht. Vortrag auf der ÖGFD und GFD-Tagung vom 29. bis 31. August 2022 in Wien, Österreich.\nSchüßler, A., &, Holler, C. (2021). Soziale Netzwerke im Sportunterricht. Vortrag auf der Arbeitskreistagung der Deutschen Gesellschaft für Netzwerkforschung (DGNet) am 6. und 7. September 2021 in Bayreuth.\n\n\nPoster\nHoller, C., Schüßler, A., &, Heim, R. (2022). Analyse des Wahlverhaltens von Schüler:innen in typischen sportunterrichtlichen Kontexten. Poster auf der 35. Jahrestagung der Deutschen Vereinigung für Sportwissenschaft vom 16. bis 18. Juni 2022 in Münster."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome!",
-    "section": "",
-    "text": "I’m a doctoral candidate at the Institute of Sports and Sports Sciences at the University of Heidelberg. My research focuses on peer relationships (using social network analysis), self-concept and physical ability in physical education.\nYou can find my CV here as well as ongoing and finished projects and publications."
-  },
-  {
-    "objectID": "index.html#willkommen",
-    "href": "index.html#willkommen",
-    "title": "Cornelius Holler",
-    "section": "",
-    "text": "Ich bin Doktorand am Institut für Sport und Sportwissenschaft der Universität Heidelberg. Meine Forschungsschwerpunkte sind Soziale Netzwerke, Selbstkonzepte und Sportunterricht.\nMeinen Lebenslauf können Sie hier finden. Des Weiteren gibt es Informationen über laufende oder abgeschlossene Projekte und Publikationen."
-  },
-  {
-    "objectID": "index.html#kontakt",
-    "href": "index.html#kontakt",
-    "title": "Cornelius Holler",
-    "section": "Kontakt",
-    "text": "Kontakt\nCornelius Holler\nInstitut für Sport und Sportwissenschaft\nUniversität Heidelberg\nIm Neuenheimer Feld 700\n69120 Heidelberg\ncornelius.holler@issw.uni-heidelberg.de"
-  },
-  {
-    "objectID": "index.html#weblinks",
-    "href": "index.html#weblinks",
-    "title": "Welcome!",
+    "objectID": "about.html#weblinks",
+    "href": "about.html#weblinks",
+    "title": "Contact",
     "section": "Weblinks",
     "text": "Weblinks\n University Profile\n Researchgate\n ORCID\n Twitter / X\n LinkedIn"
-  },
-  {
-    "objectID": "development_flyer.html",
-    "href": "development_flyer.html",
-    "title": "Flyer zum Projekt “Entwicklung sozialer Beziehungen in Schulklasse und Sportunterricht”",
-    "section": "",
-    "text": "Hier geht es zurück zum Projekt\n\n\n\n\n\n\n\n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "development_flyer.html#flyer-zum-projekt-entwicklung-sozialer-beziehungen-in-schulklasse-und-sportunterricht",
-    "href": "development_flyer.html#flyer-zum-projekt-entwicklung-sozialer-beziehungen-in-schulklasse-und-sportunterricht",
-    "title": "Cornelius Holler",
-    "section": "Flyer zum Projekt “Entwicklung sozialer Beziehungen in Schulklasse und Sportunterricht”",
-    "text": "Flyer zum Projekt “Entwicklung sozialer Beziehungen in Schulklasse und Sportunterricht”"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Project Overview",
-    "section": "",
-    "text": "Poster auf der 35. Jahrestagung der deutschen Vereinigung für Sportwissenschaft vom 16. bis 18. Juni 2022 in Münster (ger)\n\nEntwicklung sozialer Beziehungen in Schulklasse und Sportunterricht (ger)\nAssigning Topics to (Groups of) Students in Seminars\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "projects.html#projektübersicht",
-    "href": "projects.html#projektübersicht",
-    "title": "Cornelius Holler",
-    "section": "",
-    "text": "Poster auf der 35. Jahrestagung der deutschen Vereinigung für Sportwissenschaft vom 16. bis 18. Juni 2022 in Münster\nEntwicklung sozialer Beziehungen in Schulklasse und Sportunterricht\nGruppenzuweisungsprogramm"
   },
   {
     "objectID": "development_study2023.html",
@@ -147,123 +98,25 @@
     "text": "Kontakt\n\n\n\nStudienleiter\nProjektleiter\n\n\n\n\nCornelius Holler\nInstitut für Sport und Sportwissenschaft\nUniversität Heidelberg\nIm Neuenheimer Feld 700\n60210 Heidelberg\ncornelius.holler@issw.uni-heidelberg.de\n+49 6221 54-4348\nProf. Dr. Rüdiger Heim\nInstitut für Sport und Sportwissenschaft\nUniversität Heidelberg\nIm Neuenheimer Feld 700\n60210 Heidelberg\nruediger.heim@issw.uni-heidelberg.de\n+49 6221 54-8622"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Contact",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Project Overview",
     "section": "",
-    "text": "Cornelius Holler (he/him)\nInstitute of Sports and Sports Sciences\nUniversity of Heidelberg\nIm Neuenheimer Feld 700\n69120 Heidelberg\nDE - Germany\ncornelius.holler@issw.uni-heidelberg.de"
+    "text": "Poster auf der 35. Jahrestagung der deutschen Vereinigung für Sportwissenschaft vom 16. bis 18. Juni 2022 in Münster (ger)\n\nEntwicklung sozialer Beziehungen in Schulklasse und Sportunterricht (ger)\nAssigning Topics to (Groups of) Students in Seminars\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "about.html#über-mich",
-    "href": "about.html#über-mich",
-    "title": "Cornelius Holler",
+    "objectID": "development_flyer.html",
+    "href": "development_flyer.html",
+    "title": "Flyer zum Projekt “Entwicklung sozialer Beziehungen in Schulklasse und Sportunterricht”",
     "section": "",
-    "text": "Ich bin Doktorand am Institut für Sport und Sportwissenschaft der Universität Heidelberg. Meine Forschungsinteressen sind Soziale Netzwerke, Selbstkonzept und Sportunterrichtsforschung."
+    "text": "Hier geht es zurück zum Projekt\n\n\n\n\n\n\n\n\n\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "about.html#kontakt",
-    "href": "about.html#kontakt",
-    "title": "Cornelius Holler",
-    "section": "Kontakt",
-    "text": "Kontakt\nCornelius Holler\nInstitut für Sport und Sportwissenschaft\nUniversität Heidelberg\nIm Neuenheimer Feld 700\n69120 Heidelberg\ncornelius.holler@issw.uni-heidelberg.de"
-  },
-  {
-    "objectID": "about.html#weblinks",
-    "href": "about.html#weblinks",
-    "title": "Contact",
-    "section": "Weblinks",
-    "text": "Weblinks\n University Profile\n Researchgate\n ORCID\n Twitter / X\n LinkedIn"
-  },
-  {
-    "objectID": "poster_dvs2022.html",
-    "href": "poster_dvs2022.html",
-    "title": "Poster auf der 35. Jahrestagung der Deutschen Vereinigung für Sportwissenschaft vom 16. bis 18. Juni 2022 in Münster",
+    "objectID": "posts/2024-07-10-group-assignment.html",
+    "href": "posts/2024-07-10-group-assignment.html",
+    "title": "Shiny app to assign students to topics",
     "section": "",
-    "text": "Hier geht es zurück zur Übersicht der Projekte\n\nTeaser\n\n\n    \n\n\n\n\nPoster\n\n\n\n\n\n\n\nErgänzende Informationen zum Poster\n\nAls Regressionsanalyse für Netzwerkdaten wurde die double semi-partialling Methode der multiple regression quadratic assignment procedure (MR-QAP) verwendet (Dekker et al., 2007). Die MR-QAP verwendet Permutationen zur Berechnung der Signifikanzwerte, da die Netzwerke gegen die Annahme der Unabhängigkeit der Beobachtungen der klassischen Testtheorie verstößt. Die double semi-partialling Methode ist besonders robust gegen Autokorrelation und Kolinearität der Prädiktornetzwerke.\nUm Attributsdaten in Netzwerkregressionen zu verwenden, müssen Annahmen getroffen werden um die Attribute in Netzwerke umzuwandeln. Auf dem Poster sind zwei dieser Annahmen durch match oder receiver verdeutlicht worden. Weitere Methoden sind in Borgatti et al. (2018) in Kap. 8.4 näher erläutert\n\nmatch\n\nAuf Basis der Homophilie (McPherson et al., 2001) wird angenommen, dass Sozialbeziehungen vermehrt zwischen Menschen auftreten, die sich in gewissen Merkmalen ähnlich sind. Das Attribut des Geschlechts wird also so in Netzwerkdaten umgewandelt, indem alleinig zwischen gleichgeschlechtlichen Schüler:innen eine Beziehung angenommen wird. In der Regression wird dann überprüft, inwiefern das Kriteriumsnetzwerk auch durch diese Geschlechtertrennung charakterisiert wird.\n\nreceiver\n\nDer receiver-Effekt basiert auf der Annahme, dass Hilfesuchende sich, unabhängig des eigenen Leistungsniveaus, stets zu dem/der Besten wenden, um Rat zu suchen. Übertragen auf die Sportnote entspricht dies der Annahme, dass alle Schüler:innen mit den Mitschüler:innen mit der besten Note zusammenarbeiten wollen. Es entspricht also der Annahme einer konventionellen Regressionsanalyse.\n\n\n\n\n(Weiterführende) Literatur\nBorgatti, S. P., Everett, M. G., &, Johnson, J. C. (2018). Analyzing social networks (2nd ed.). SAGE.\nBortz, J., &, Schuster, C. (2010). Statistik für Human- und Sozialwissenschaftler (7. Aufl.). Springer.\nCohen, J. (1988). Statistical power analysis for the behavioral sciences (2nd ed). L. Erlbaum Associates.\nDekker, D., Krackhardt, D., &, Snijders, T. A. B. (2007). Sensitivity of MRQAP Tests to Collinearity and Autocorrelation Conditions. Psychometrika, 72(4), 563–581. https://doi.org/10.1007/s11336-007-9016-1\nHenke, T. (2022). Grundlagen der Messung sozialer Strukturen und Verfahren zur Analyse von Peerbeziehungen im Klassenzimmer. In M. Kreutzmann, L. Zander, & B. Hannover (Hrsg.), Aufwachsen mit Anderen. Peerbeziehungen als Bildungsfaktor (S. 24–37). Verlag W. Kohlhammer.\nMcPherson, M., Smith-Lovin, L., &, Cook, J. M. (2001). Birds of a Feather: Homophily in Social Networks. Annual Review of Sociology, 27(1), 415–444. https://doi.org/10.1146/annurev.soc.27.1.415\nMejeh, M., &, Hascher, T. (2021). Soziale Netzwerkanalyse als Erfassungsinstrument sozialer Interaktionen in der Schule. In G. Hagenauer & D. Raufelder, Soziale Eingebundenheit. Sozialbeziehungen im Fokus von Schule und Lehrer*innenbildung. Waxmann.\n\n\nKontakt\nCornelius Holler\nRuprecht-Karls-Universität Heidelberg\nInstitut für Sport und Sportwissenschaft\nIm Neuenheimer Feld 700\n69120 Heidelberg\ncornelius.holler@issw.uni-heidelberg.de\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "poster_dvs2022.html#poster-auf-der-35.-jahrestagung-der-deutschen-vereinigung-für-sportwissenschaft-vom-16.-bis-18.-juni-2022-in-münster",
-    "href": "poster_dvs2022.html#poster-auf-der-35.-jahrestagung-der-deutschen-vereinigung-für-sportwissenschaft-vom-16.-bis-18.-juni-2022-in-münster",
-    "title": "Cornelius Holler",
-    "section": "Poster auf der 35. Jahrestagung der Deutschen Vereinigung für Sportwissenschaft vom 16. bis 18. Juni 2022 in Münster",
-    "text": "Poster auf der 35. Jahrestagung der Deutschen Vereinigung für Sportwissenschaft vom 16. bis 18. Juni 2022 in Münster\n\nTeaser\n\n\n    \n\n\n\n\nPoster\n\n\n\n\n\n\n\nErgänzende Informationen zum Poster\n\nAls Regressionsanalyse für Netzwerkdaten wurde die double semi-partialling Methode der multiple regression quadratic assignment procedure (MR-QAP) verwendet (Dekker et al., 2007). Die MR-QAP verwendet Permutationen zur Berechnung der Signifikanzwerte, da die Netzwerke gegen die Annahme der Unabhängigkeit der Beobachtungen der klassischen Testtheorie verstößt. Die double semi-partialling Methode ist besonders robust gegen Autokorrelation und Kolinearität der Prädiktornetzwerke.\nUm Attributsdaten in Netzwerkregressionen zu verwenden, müssen Annahmen getroffen werden um die Attribute in Netzwerke umzuwandeln. Auf dem Poster sind zwei dieser Annahmen durch match oder receiver verdeutlicht worden. Weitere Methoden sind in Borgatti et al. (2018) in Kap. 8.4 näher erläutert\n\nmatch\n\nAuf Basis der Homophilie (McPherson et al., 2001) wird angenommen, dass Sozialbeziehungen vermehrt zwischen Menschen auftreten, die sich in gewissen Merkmalen ähnlich sind. Das Attribut des Geschlechts wird also so in Netzwerkdaten umgewandelt, indem alleinig zwischen gleichgeschlechtlichen Schüler:innen eine Beziehung angenommen wird. In der Regression wird dann überprüft, inwiefern das Kriteriumsnetzwerk auch durch diese Geschlechtertrennung charakterisiert wird.\n\nreceiver\n\nDer receiver-Effekt basiert auf der Annahme, dass Hilfesuchende sich, unabhängig des eigenen Leistungsniveaus, stets zu dem/der Besten wenden, um Rat zu suchen. Übertragen auf die Sportnote entspricht dies der Annahme, dass alle Schüler:innen mit den Mitschüler:innen mit der besten Note zusammenarbeiten wollen. Es entspricht also der Annahme einer konventionellen Regressionsanalyse.\n\n\n\n\n(Weiterführende) Literatur\nBorgatti, S. P., Everett, M. G., &, Johnson, J. C. (2018). Analyzing social networks (2nd ed.). SAGE.\nBortz, J., &, Schuster, C. (2010). Statistik für Human- und Sozialwissenschaftler (7. Aufl.). Springer.\nCohen, J. (1988). Statistical power analysis for the behavioral sciences (2nd ed). L. Erlbaum Associates.\nDekker, D., Krackhardt, D., &, Snijders, T. A. B. (2007). Sensitivity of MRQAP Tests to Collinearity and Autocorrelation Conditions. Psychometrika, 72(4), 563–581. https://doi.org/10.1007/s11336-007-9016-1\nHenke, T. (2022). Grundlagen der Messung sozialer Strukturen und Verfahren zur Analyse von Peerbeziehungen im Klassenzimmer. In M. Kreutzmann, L. Zander, & B. Hannover (Hrsg.), Aufwachsen mit Anderen. Peerbeziehungen als Bildungsfaktor (S. 24–37). Verlag W. Kohlhammer.\nMcPherson, M., Smith-Lovin, L., &, Cook, J. M. (2001). Birds of a Feather: Homophily in Social Networks. Annual Review of Sociology, 27(1), 415–444. https://doi.org/10.1146/annurev.soc.27.1.415\nMejeh, M., &, Hascher, T. (2021). Soziale Netzwerkanalyse als Erfassungsinstrument sozialer Interaktionen in der Schule. In G. Hagenauer & D. Raufelder, Soziale Eingebundenheit. Sozialbeziehungen im Fokus von Schule und Lehrer*innenbildung. Waxmann.\n\n\nKontakt\nCornelius Holler\nRuprecht-Karls-Universität Heidelberg\nInstitut für Sport und Sportwissenschaft\nIm Neuenheimer Feld 700\n69120 Heidelberg\ncornelius.holler@issw.uni-heidelberg.de"
-  },
-  {
-    "objectID": "methods_and_analyses_SoNiS.html",
-    "href": "methods_and_analyses_SoNiS.html",
-    "title": "Cornelius Holler",
-    "section": "",
-    "text": "Hier geht es zurück zum Projekt"
-  },
-  {
-    "objectID": "methods_and_analyses_SoNiS.html#erhebung-und-auswertung-sozialer-netzwerke",
-    "href": "methods_and_analyses_SoNiS.html#erhebung-und-auswertung-sozialer-netzwerke",
-    "title": "Cornelius Holler",
-    "section": "Erhebung und Auswertung sozialer Netzwerke",
-    "text": "Erhebung und Auswertung sozialer Netzwerke\nDie Erhebung sozialer Netzwerkdaten erfolgt mittels Nominierungsfragen. Hierbei werden die Schüler:innen gebeten, für Interaktions- oder Beziehungsbeschreibungen die Zahlencodes (siehe Datenschutzmaßnahmen) der Mitschüler:innen aufzuschreiben, die auf diese Beschreibungen zutreffen. Eine Beispielfrage würde z.B. so aussehen:\n\n\n\n\n\nDie Daten einer Nominierungsfrage werden in einer sog. “Nodelist” gespeichert, die hier beispielhaft aufgeführt wird:\n\n\n\nZahlencode\nZsmarbeiten_01\nZsmarbeiten_02\nZsmarbeiten_03\n\n\n\n\n1\n\n\n\n\n\n2\n4\n5\n\n\n\n3\n8\n9\n\n\n\n4\n2\n6\n7\n\n\n5\n3\n9\n\n\n\n…\n…\n…\n…\n\n\n\nDie Daten aus der Nodelist werden dann mit einem Statistikprogramm (z.B. UCINET) oder einer Programmiersprache (z.B. R) in sog. “Adjacency Matrix” umgewandelt, die Beziehungen mit “1” und fehlende Beziehungen mit “0” kennzeichnet. Aus ihr können sowohl individuelle Maße wie z.B. der “Indegree” (Anzahl an eingehenden Nominierungen) berechnet oder Netzwerkgraphen geplottet werden, die Netzwerke können jedoch auch direkt in statistische Verfahren einfließen.\nEin Beispiel für eine Adjacency Matrix mit einem entsprechenden Netzwerkgraphen ist hier abgebildet. Die Zeilen symbolisieren die ausgehenden Nominierungen während die Spalten die eingehenden Nominierungen darstellen."
-  },
-  {
-    "objectID": "group_designation.html",
-    "href": "group_designation.html",
-    "title": "Gruppenzuweisung",
-    "section": "",
-    "text": "Ich habe für meine Seminare ein kleines Programm geschrieben, welches Studierenden(gruppen) zu Seminarthemen zuordnet, indem es die Rankings, die die Studierenden den Themen geben, optimiert.\nEs funktioniert so, dass eine quadratische Matrix über eine Excel Datei eingegeben wird mit den Personen(gruppen) in den Zeilen und den Themen in den Spalten. Jede Gruppe gibt jedem Thema ein Ranking (1 = bestes Thema). Falls nicht alle Themen geranked werden soll, werden die Themen, bei denen fehlende Werte stehen, auf 20 gesetzt. Die Excel Datei braucht zur Eingabe sowohl Spalten- als auch Zeilenbeschriftungen.\nDer Algorithmus nimmt dann diese Matrix und versucht, durch Permutationen die Summe der Diagonalen zu minimieren. Hierfür wird die Reihenfolge der Spalten zufällig geändert und die Zuordnung sowie die Summe gespeichert. Nach der angegebenen Anzahl an Permutationen wird dann die Konstellation mit der niedrigsten Summe ausgewählt und als Ergebnis dargestellt. Per default sind 1.000 Permutationen eingestellt, die ich je nach Gruppengröße anpassen würde. Für meine Seminare mit ca. 10 Gruppen und Themen funktionieren bei mir ca. 50.000 Permutationen sehr gut. Auch per default eingestellt ist der lineare Modus, der jedem Ranking ein lineares Gewicht gibt. Es wird hierbei also nicht unterschieden, ob eine niedrige Summe dadurch zustande kommt, dass alle Themen mit Priorität 1 vergeben werden, dadurch aber ein Thema nur mit Priorität 9 vergeben wird, oder ob die Prioritäten insgesamt eher bei 2 liegen. Um niedrige Rankings stärker zu bestrafen, gibt es den quadratischen Modus. Hierbei werden die Rankings quadriert, dann wird die Optimierung vorgenommen und erst am Ende wird wieder auf das Originalranking zurückgerechnet. Vielleicht werden dadurch einzelne Rankings niedriger, insgesamt kommt es dadurch aber seltener dazu, dass niedrige Rankings vergeben werden.\nIn meinen Seminaren letztes Jahr konnte ich dadurch allen Studierendengruppen die Themen so zuordnen, dass alle ihre 1.-4. Präferenz bekommen haben. Durch die so große Anzahl an Möglichkeiten ist es hilfreich, mehrmals das Programm durchlaufen zu lassen (auch bei 50.000 Permutationen) und dann sowohl auf die höchste vergebene Priorität als auch auf die Gesamtsumme zu schauen, um beides zu minimieren.\nHier findet ihr das Programm, unten ist noch ein detaillierteres Beispiel dargestellt.\n\n\n\n\n\n\n\n\nDie Daten für das Beispiel sind Originalrankings aus einem meiner Seminare. Hier ein Überblick:\n\n\n\n\n\nDie beste Konstellation, die ich für diese Daten finden konnte, war mit 50.000 Permutationen und dem quadratischen Modus:\n\n\n\n\n\nHierfür habe ich einige Male das Programm durchlaufen lassen, indem ich häufiger auf “Run Optimization” geklickt habe.\nProbier das Programm mit den Beispieldaten gerne aus, vielleicht findest du ja noch eine niedrigere Gesamtsumme! Hier findest du die Daten."
-  },
-  {
-    "objectID": "group_designation.html#beispiel",
-    "href": "group_designation.html#beispiel",
-    "title": "Gruppenzuweisung",
-    "section": "",
-    "text": "Die Daten für das Beispiel sind Originalrankings aus einem meiner Seminare. Hier ein Überblick:\n\n\n\n\n\nDie beste Konstellation, die ich für diese Daten finden konnte, war mit 50.000 Permutationen und dem quadratischen Modus:\n\n\n\n\n\nHierfür habe ich einige Male das Programm durchlaufen lassen, indem ich häufiger auf “Run Optimization” geklickt habe.\nProbier das Programm mit den Beispieldaten gerne aus, vielleicht findest du ja noch eine niedrigere Gesamtsumme! Hier findest du die Daten."
-  },
-  {
-    "objectID": "group_assignment.html",
-    "href": "group_assignment.html",
-    "title": "Assigning Topics to (Groups of) Students in Seminars",
-    "section": "",
-    "text": "You can go back to the project overview here\nI have written a small program for my seminars that assigns students (or student groups) to seminar topics by optimising the rankings that the students give to the topics.\nThe way it works is that a square matrix is entered into an Excel file with the students (groups) in the rows and the topics in the columns. Each student (group) gives each topic a ranking (1 = highest ranked topic). If not all topics are to be ranked, the topics with missing values are set to 20. The Excel file needs both column and row labels to be registered correctly.\nThe algorithm then takes this matrix and attempts to minimize the sum of the diagonals through permutations. To do this, the order of the columns is randomly changed and the assignment and the sum are saved. After the specified number of permutations, the constellation with the lowest sum is selected and displayed as the result. The default setting is 10,000 permutations, which I would adjust depending on the size of the group. For my seminars with approx. 10 groups and topics, approx. 50,000 permutations work very well for me. The linear mode is also set by default, which gives each ranking a linear weight. This means that no distinction is made as to whether a low total is the result of all topics being assigned priority 1, but one topic only being assigned priority 9, or whether the overall priorities are more likely to be 2. The quadratic mode is used to penalize low rankings more strongly. Here, the rankings are squared, then the optimization is carried out and only at the end is the original ranking calculated again. This may result in individual rankings being lower, but overall it means that low rankings are awarded less frequently.\nIn my seminars last year, I was able to assign the topics to all student groups in such a way that everyone got their 1st to 4th preference. Due to the large number of possibilities, it is helpful to run the program several times (even with 50,000 permutations) and then look at both the highest assigned priority and the total sum in order to minimize both.\nYou can find the program here, and a more detailed example is shown below."
-  },
-  {
-    "objectID": "group_assignment.html#beispiel",
-    "href": "group_assignment.html#beispiel",
-    "title": "Assigning Topics to (Groups of) Students in Seminars",
-    "section": "Beispiel",
-    "text": "Beispiel\nThe data for this example are original rankings from one of my seminars. Here is an overview:\n\n\n\n\n\nThe best constellation I could find for this data was with 50,000 permutations and the quadratic mode:\n\n\n\n\n\nTo do this, I ran the program a few times by clicking on “Run Optimization” more often. As topic 5 was not ranked higher than 3 by any group, no better priority can be assigned here.\nTry out the program with the sample data, maybe you’ll find a lower total! Here you can download the data."
-  },
-  {
-    "objectID": "index.html#welcome",
-    "href": "index.html#welcome",
-    "title": "Cornelius Holler",
-    "section": "",
-    "text": "I’m a doctoral candidate at the Institute of Sports and Sports Sciences at the University of Heidelberg. My research focuses on peer relationships (using social network analysis), self-concept and physical ability in physical education.\nYou can find my CV here as well as ongoing and finished projects and publications."
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Welcome!",
-    "section": "Contact",
-    "text": "Contact\nCornelius Holler (he/him)\nInstitute of Sports and Sports Sciences\nUniversity of Heidelberg\nIm Neuenheimer Feld 700\n69120 Heidelberg\nDE - Germany\ncornelius.holler@issw.uni-heidelberg.de"
-  },
-  {
-    "objectID": "publications.html#publications",
-    "href": "publications.html#publications",
-    "title": "Cornelius Holler",
-    "section": "",
-    "text": "Holler, C., & Schüßler, A. (2024). Gauging Acceptance: A Multifaceted Examination of Physical Ability and Its Role for Peer Networks in Adolescent Physical Education. Journal of Early Adolescence. https://doi.org/10.1177/02724316241265459\nHeim, R., Schüßler, A., &, Holler, C. (2023). Peerbeziehungen in der Sporthalle - Soziale Netzwerke im Sportunterricht. Zeitschrift für sportpädagogische Forschung, 11(1), 3–28. https://doi.org/10.5771/2196-5218-2023-1-5"
-  },
-  {
-    "objectID": "publications.html#conference-contributions",
-    "href": "publications.html#conference-contributions",
-    "title": "Publications",
-    "section": "Conference Contributions",
-    "text": "Conference Contributions\n\nPresentations\nSchüßler, A., Holler, C., & Hill, Y. (2024). Exploring Goal Orientation in Peer Networks: The Role of Multidimensional Achievement Goals in Physical Education. Presentation at the SUNBELT Conference by the International Network for Social Network Analysis (INSNA) from 24th-30th June 2024 in Edinburgh, Scotland.\nHoller, C. (2024). Veridikalität des sportunterrichtlichen Selbstkonzeptes und ihre Effekte auf die Anstrengungsbereitschaft und soziale Eingebundenheit im Sportunterricht [Veridicality of the physical education self-concept and it’s effects on the engagement and social embeddedness in physical education]. Presentation at the 37th yearly conference by the German Society of Sport Science (dvs) section sports pedagogy from 30th May to 1st June 2024 in Essen, Germany.\nHoller, C. &, Schüßler, A. (2023). Peerbeziehungen in der Schulklasse - Soziale Netzwerke im (Sport-)Unterricht [Peer relations in the gym - Social networks in physical education classes]. Presentation at the autumn conference of the section “Sociological Network Science” of the German Sociological Association (GSA) on 15th and 16th September 2023 in Cologne, Germany.\nHoller, C. (2023). Social networks, external and self-assessments of performance in physical education. Presentation at the 7th European Conference on Social Networks from 4th-8th September 2023 in Ljubljana, Slovenia.\nHoller, C. (2023). Soziale Netzwerke, Fremd- und Selbsteinschätzungen der sportunterrichtlichen Leistungsfähigkeit [Social networks, external and self-assessments of performance in physical education]. Presentation at the 36th yearly conference by the German Society of Sport Science (dvs) section sports pedagogy from 8th-10th June 2023 in Hamburg, Germany.\nHeim, R., &, Holler C. (2022). Peerbeziehungen in der Schulklasse. Soziale Netzwerke im (Sport-) Unterricht [Peer relations in the gym - Social networks in (physical) education classes]. Presentation at the Subject Didactics Conference 2022 by the German and Austrian Societies of Subject Didactics (GFD and ÖGFD) from 29th-31st August 2022 in Vienna, Austria.\nSchüßler, A., &, Holler, C. (2021). Soziale Netzwerke im Sportunterricht [Social networks in physical education]. Presentation at the yearly conference of the German Society of Network Science (DGNet) from 6th-7th September 2021 in Bayreuth, Germany.\n\n\nPoster\nHoller, C., Schüßler, A., &, Heim, R. (2022). Analyse des Wahlverhaltens von Schüler:innen in typischen sportunterrichtlichen Kontexten [Analysis of the nominations of students in typical collaboration settings in physical education]. Poster at the 35th yearly conference by the German Society of Sport Science (dvs) section sports pedagogy from 16th-18th June 2022 in Münster, Germany."
-  },
-  {
-    "objectID": "projects.html#project-overview",
-    "href": "projects.html#project-overview",
-    "title": "Cornelius Holler",
-    "section": "",
-    "text": "Poster auf der 35. Jahrestagung der deutschen Vereinigung für Sportwissenschaft vom 16. bis 18. Juni 2022 in Münster (ger)\nEntwicklung sozialer Beziehungen in Schulklasse und Sportunterricht (ger)\nAssigning Topics to (Groups of) Students in Seminars"
+    "text": "I teach 1-2 seminars each winter semester, where students do presentations in groups of 2-3. Over the semester, we have 10 topics to cover, so the students need to form groups and we need to assign each group a topic to present. In my experience, this is usually done by going through the topics, assigning those which only one group wants to present and then go back through and let the students decide who “wins” the topic by playing rock-paper-scissors against each other.\nI found this method of assigning topics both annoying and unfair, because even though there can be a bit of a strategy behind choosing the topic, it is based on luck if you win your round of rock-paper-scissors or if you are handed through to your least favorite topic. So I wanted to create a better way to assign the topics to that each group gets their highest priority possible.\nLuckily, I was at the EUSN 2023 Conference in Ljubljana, Slovenia, at that time and talked about it with a colleague, Robert Panitz. He suggested the algorithm that I implemented, first into a simple R function, now into a publicly available Shiny app!\nIt essentially works by asking the students to rank each topic from 1 (best) to 10 (worst). The code then creates a square matrix with the students’ rankings in the rows and the topics in the columns. It then permutates the matrix columns a certain amount of times to see, which permutation yields the smallest sum of priorities. In the app, it of course works with any size of matrix and you can adjust the amount of permutations and if the rankings should be weighted in a linear or quadratic way.\nI created a separate page for the app where you can find more information about how it works and how to use it: Assigning Topics to Students - Shiny App\n\n\n\n Back to top"
   },
   {
     "objectID": "Archiv/2024-07-08-Personal_Website (for englischer Übersetzung)/data_protection_SoNiS.html",
@@ -490,55 +343,6 @@
     "text": "Beispiel\nDie Daten für das Beispiel sind Originalrankings aus einem meiner Seminare. Hier ein Überblick:\n\n\n\n\n\nDie beste Konstellation, die ich für diese Daten finden konnte, war mit 50.000 Permutationen und dem quadratischen Modus:\n\n\n\n\n\nHierfür habe ich einige Male das Programm durchlaufen lassen, indem ich häufiger auf “Run Optimization” geklickt habe. Da das Thema 5 von keiner Gruppe höher als 3 geranked wurde, kann hier keine bessere Priorität vergeben werden.\nProbier das Programm mit den Beispieldaten gerne aus, vielleicht findest du ja noch eine niedrigere Gesamtsumme! Hier findest du die Daten."
   },
   {
-    "objectID": "about.html#about-me",
-    "href": "about.html#about-me",
-    "title": "Cornelius Holler",
-    "section": "",
-    "text": "I’m a doctoral candidate at the Institute of Sports and Sports Sciences at the University of Heidelberg. My research focuses on peer relationships (using social network analysis), self-concept and physical ability in physical education."
-  },
-  {
-    "objectID": "about.html#contact",
-    "href": "about.html#contact",
-    "title": "Contact",
-    "section": "",
-    "text": "Cornelius Holler (he/him)\nInstitute of Sports and Sports Sciences\nUniversity of Heidelberg\nIm Neuenheimer Feld 700\n69120 Heidelberg\nDE - Germany\ncornelius.holler@issw.uni-heidelberg.de"
-  },
-  {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "News",
-    "section": "",
-    "text": "New Paper published in The Journal of Early Adolescence\n\n\n\n\n\n\n\nScientific Paper\n\n\nPhysical Education\n\n\nSocial Network Analysis\n\n\n\n\nGauging Acceptance: A Multifaceted Examination of Physical Ability and Its Role for Peer Networks in Adolescent Physical Education\n\n\n\n\n\n\nJul 23, 2024\n\n\nCornelius Holler\n\n\n\n\n\n\n\n\n\n\n\n\n\nShiny app to assign students to topics\n\n\n\n\n\n\n\nR Programming\n\n\nTeaching\n\n\n\n\n\n\n\n\n\n\n\nJul 10, 2024\n\n\nCornelius Holler\n\n\n\n\n\n\nNo matching items\n\n Back to top"
-  },
-  {
-    "objectID": "posts/2024-07-23-new_paper.html",
-    "href": "posts/2024-07-23-new_paper.html",
-    "title": "New Paper published in The Journal of Early Adolescence",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "posts/2024-07-23-gauging_acceptance.html",
-    "href": "posts/2024-07-23-gauging_acceptance.html",
-    "title": "New Paper published in The Journal of Early Adolescence",
-    "section": "",
-    "text": "📖 I am excited to share that our latest paper is now published in the Journal of Early Adolescence: “Gauging Acceptance: A Multifaceted Examination of Physical Ability and Its Role for Peer Networks in Adolescent Physical Education” coauthored with Annabell Schüßler!\nOur study explores the impact of perceived physical ability on peer collaboration in physical education through three lenses: self-concept, peer assessments, and teacher ratings. Using data from 302 students from 14 school classes, we analyzed how these perceptions influence team partner choices.\nKey Findings:\n\nPhysical ability is a significant factor in choosing team partners. High-performing and similar-performing peers are more likely to be selected, indicating that peer perceptions of ability are strongly associated with collaboration networks in sports games. 🏆\nOf the three perspectives of ability, only peer-perceived ability was a significant predictor of team partner choices. This highlights the unique role of peer assessments, which are rarely addressed in the literature. 👥\nGender and liking also play important roles in team partner selections. Students tend to prefer peers of the same gender and those they like, but peer-perceived ability remains a strong independent predictor even when controlling for these factors. 👫\n\nThese findings emphasize the importance of understanding peer dynamics in physical education to foster positive social interactions. For more details, check out the full paper here: https://doi.org/10.1177/02724316241265459\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "posts/2024-07-10.html",
-    "href": "posts/2024-07-10.html",
-    "title": "Shiny app to assign students to topics",
-    "section": "",
-    "text": "I teach 1-2 seminars each winter semester, where students do presentations in groups of 2-3. Over the semester, we have 10 topics to cover, so the students need to form groups and we need to assign each group a topic to present. In my experience, this is usually done by going through the topics, assigning those which only one group wants to present and then go back through and let the students decide who “wins” the topic by playing rock-paper-scissors against each other.\nI found this method of assigning topics both annoying and unfair, because even though there can be a bit of a strategy behind choosing the topic, it is based on luck if you win your round of rock-paper-scissors or if you are handed through to your least favorite topic. So I wanted to create a better way to assign the topics to that each group gets their highest priority possible.\nLuckily, I was at the EUSN 2023 Conference in Ljubljana, Slovenia, at that time and talked about it with a colleague, Robert Panitz. He suggested the algorithm that I implemented, first into a simple R function, now into a publicly available Shiny app!\nIt essentially works by asking the students to rank each topic from 1 (best) to 10 (worst). The code then creates a square matrix with the students’ rankings in the rows and the topics in the columns. It then permutates the matrix columns a certain amount of times to see, which permutation yields the smallest sum of priorities. In the app, you can adjust the amount of permutations and if the rankings should be weighted in a linear or quadratic way.\nI created a separate page for the app where you can find more information about how it works and how to use it: Assigning Topics to Students - Shiny App\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "posts/2024-07-10-group-assignment.html",
-    "href": "posts/2024-07-10-group-assignment.html",
-    "title": "Shiny app to assign students to topics",
-    "section": "",
-    "text": "I teach 1-2 seminars each winter semester, where students do presentations in groups of 2-3. Over the semester, we have 10 topics to cover, so the students need to form groups and we need to assign each group a topic to present. In my experience, this is usually done by going through the topics, assigning those which only one group wants to present and then go back through and let the students decide who “wins” the topic by playing rock-paper-scissors against each other.\nI found this method of assigning topics both annoying and unfair, because even though there can be a bit of a strategy behind choosing the topic, it is based on luck if you win your round of rock-paper-scissors or if you are handed through to your least favorite topic. So I wanted to create a better way to assign the topics to that each group gets their highest priority possible.\nLuckily, I was at the EUSN 2023 Conference in Ljubljana, Slovenia, at that time and talked about it with a colleague, Robert Panitz. He suggested the algorithm that I implemented, first into a simple R function, now into a publicly available Shiny app!\nIt essentially works by asking the students to rank each topic from 1 (best) to 10 (worst). The code then creates a square matrix with the students’ rankings in the rows and the topics in the columns. It then permutates the matrix columns a certain amount of times to see, which permutation yields the smallest sum of priorities. In the app, you can adjust the amount of permutations and if the rankings should be weighted in a linear or quadratic way.\nI created a separate page for the app where you can find more information about how it works and how to use it: Assigning Topics to Students - Shiny App\n\n\n\n Back to top"
-  },
-  {
     "objectID": "posts/2024-07-23-gauging-acceptance.html",
     "href": "posts/2024-07-23-gauging-acceptance.html",
     "title": "New Paper published in The Journal of Early Adolescence",
@@ -546,17 +350,66 @@
     "text": "📖 I am excited to share that our latest paper is now published in the Journal of Early Adolescence: “Gauging Acceptance: A Multifaceted Examination of Physical Ability and Its Role for Peer Networks in Adolescent Physical Education” coauthored with Annabell Schüßler!\nOur study explores the impact of perceived physical ability on peer collaboration in physical education through three lenses: self-concept, peer assessments, and teacher ratings. Using data from 302 students from 14 school classes, we analyzed how these perceptions influence team partner choices.\nKey Findings:\n\nPhysical ability is a significant factor in choosing team partners. High-performing and similar-performing peers are more likely to be selected, indicating that peer perceptions of ability are strongly associated with collaboration networks in sports games. 🏆\nOf the three perspectives of ability, only peer-perceived ability was a significant predictor of team partner choices. This highlights the unique role of peer assessments, which are rarely addressed in the literature. 👥\nGender and liking also play important roles in team partner selections. Students tend to prefer peers of the same gender and those they like, but peer-perceived ability remains a strong independent predictor even when controlling for these factors. 👫\n\nThese findings emphasize the importance of understanding peer dynamics in physical education to foster positive social interactions. For more details, check out the full paper here: https://doi.org/10.1177/02724316241265459\n\n\n\n Back to top"
   },
   {
-    "objectID": "group_assignment.html#example",
-    "href": "group_assignment.html#example",
-    "title": "Assigning Topics to (Groups of) Students in Seminars",
-    "section": "Example",
-    "text": "Example\nThe data for this example are original rankings from one of my seminars. Here is an overview:\n\n\n\n\n\nThe best constellation I could find for this data was with 50,000 permutations and the quadratic mode:\n\n\n\n\n\nTo do this, I ran the program a few times by clicking on “Run Optimization” more often. As topic 5 was not ranked higher than 3 by any group, no better priority can be assigned here.\nTry out the program with the sample data, maybe you’ll find a lower total! Here you can download the data."
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome!",
+    "section": "",
+    "text": "I’m a doctoral candidate at the Institute of Sports and Sports Sciences at the University of Heidelberg. My research focuses on peer relationships (using social network analysis), self-concept and physical ability in physical education.\nYou can find my CV here as well as ongoing and finished projects and publications."
   },
   {
-    "objectID": "group_assignment.html#application",
-    "href": "group_assignment.html#application",
-    "title": "Assigning Topics to (Groups of) Students in Seminars",
-    "section": "Application",
-    "text": "Application"
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Welcome!",
+    "section": "Contact",
+    "text": "Contact\nCornelius Holler (he/him)\nInstitute of Sports and Sports Sciences\nUniversity of Heidelberg\nIm Neuenheimer Feld 700\n69120 Heidelberg\nDE - Germany\ncornelius.holler@issw.uni-heidelberg.de"
+  },
+  {
+    "objectID": "index.html#weblinks",
+    "href": "index.html#weblinks",
+    "title": "Welcome!",
+    "section": "Weblinks",
+    "text": "Weblinks\n University Profile\n Researchgate\n ORCID\n Twitter / X\n LinkedIn"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Holler, C., & Schüßler, A. (2024). Gauging Acceptance: A Multifaceted Examination of Physical Ability and Its Role for Peer Networks in Adolescent Physical Education. Journal of Early Adolescence. https://doi.org/10.1177/02724316241265459\nHeim, R., Schüßler, A., &, Holler, C. (2023). Peerbeziehungen in der Sporthalle - Soziale Netzwerke im Sportunterricht. Zeitschrift für sportpädagogische Forschung, 11(1), 3–28. https://doi.org/10.5771/2196-5218-2023-1-5"
+  },
+  {
+    "objectID": "publications.html#conference-contributions",
+    "href": "publications.html#conference-contributions",
+    "title": "Publications",
+    "section": "Conference Contributions",
+    "text": "Conference Contributions\n\nPresentations\nSchüßler, A., Holler, C., & Hill, Y. (2024). Exploring Goal Orientation in Peer Networks: The Role of Multidimensional Achievement Goals in Physical Education. Presentation at the SUNBELT Conference by the International Network for Social Network Analysis (INSNA) from 24th-30th June 2024 in Edinburgh, Scotland.\nHoller, C. (2024). Veridikalität des sportunterrichtlichen Selbstkonzeptes und ihre Effekte auf die Anstrengungsbereitschaft und soziale Eingebundenheit im Sportunterricht [Veridicality of the physical education self-concept and it’s effects on the engagement and social embeddedness in physical education]. Presentation at the 37th yearly conference by the German Society of Sport Science (dvs) section sports pedagogy from 30th May to 1st June 2024 in Essen, Germany.\nHoller, C. &, Schüßler, A. (2023). Peerbeziehungen in der Schulklasse - Soziale Netzwerke im (Sport-)Unterricht [Peer relations in the gym - Social networks in physical education classes]. Presentation at the autumn conference of the section “Sociological Network Science” of the German Sociological Association (GSA) on 15th and 16th September 2023 in Cologne, Germany.\nHoller, C. (2023). Social networks, external and self-assessments of performance in physical education. Presentation at the 7th European Conference on Social Networks from 4th-8th September 2023 in Ljubljana, Slovenia.\nHoller, C. (2023). Soziale Netzwerke, Fremd- und Selbsteinschätzungen der sportunterrichtlichen Leistungsfähigkeit [Social networks, external and self-assessments of performance in physical education]. Presentation at the 36th yearly conference by the German Society of Sport Science (dvs) section sports pedagogy from 8th-10th June 2023 in Hamburg, Germany.\nHeim, R., &, Holler C. (2022). Peerbeziehungen in der Schulklasse. Soziale Netzwerke im (Sport-) Unterricht [Peer relations in the gym - Social networks in (physical) education classes]. Presentation at the Subject Didactics Conference 2022 by the German and Austrian Societies of Subject Didactics (GFD and ÖGFD) from 29th-31st August 2022 in Vienna, Austria.\nSchüßler, A., &, Holler, C. (2021). Soziale Netzwerke im Sportunterricht [Social networks in physical education]. Presentation at the yearly conference of the German Society of Network Science (DGNet) from 6th-7th September 2021 in Bayreuth, Germany.\n\n\nPoster\nHoller, C., Schüßler, A., &, Heim, R. (2022). Analyse des Wahlverhaltens von Schüler:innen in typischen sportunterrichtlichen Kontexten [Analysis of the nominations of students in typical collaboration settings in physical education]. Poster at the 35th yearly conference by the German Society of Sport Science (dvs) section sports pedagogy from 16th-18th June 2022 in Münster, Germany."
+  },
+  {
+    "objectID": "group_designation.html",
+    "href": "group_designation.html",
+    "title": "Gruppenzuweisung",
+    "section": "",
+    "text": "Ich habe für meine Seminare ein kleines Programm geschrieben, welches Studierenden(gruppen) zu Seminarthemen zuordnet, indem es die Rankings, die die Studierenden den Themen geben, optimiert.\n&lt;style&gt;\n    #myFrame { width:100%; height:100%; }\n&lt;/style&gt;\n\n&lt;iframe src=\"html_intro.asp\" id=\"myFrame\"&gt;\n&lt;p&gt;Hi SOF&lt;/p&gt;\n&lt;/iframe&gt;\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "poster_dvs2022.html",
+    "href": "poster_dvs2022.html",
+    "title": "Poster auf der 35. Jahrestagung der Deutschen Vereinigung für Sportwissenschaft vom 16. bis 18. Juni 2022 in Münster",
+    "section": "",
+    "text": "Hier geht es zurück zur Übersicht der Projekte\n\nTeaser\n\n\n    \n\n\n\n\nPoster\n\n\n\n\n\n\n\nErgänzende Informationen zum Poster\n\nAls Regressionsanalyse für Netzwerkdaten wurde die double semi-partialling Methode der multiple regression quadratic assignment procedure (MR-QAP) verwendet (Dekker et al., 2007). Die MR-QAP verwendet Permutationen zur Berechnung der Signifikanzwerte, da die Netzwerke gegen die Annahme der Unabhängigkeit der Beobachtungen der klassischen Testtheorie verstößt. Die double semi-partialling Methode ist besonders robust gegen Autokorrelation und Kolinearität der Prädiktornetzwerke.\nUm Attributsdaten in Netzwerkregressionen zu verwenden, müssen Annahmen getroffen werden um die Attribute in Netzwerke umzuwandeln. Auf dem Poster sind zwei dieser Annahmen durch match oder receiver verdeutlicht worden. Weitere Methoden sind in Borgatti et al. (2018) in Kap. 8.4 näher erläutert\n\nmatch\n\nAuf Basis der Homophilie (McPherson et al., 2001) wird angenommen, dass Sozialbeziehungen vermehrt zwischen Menschen auftreten, die sich in gewissen Merkmalen ähnlich sind. Das Attribut des Geschlechts wird also so in Netzwerkdaten umgewandelt, indem alleinig zwischen gleichgeschlechtlichen Schüler:innen eine Beziehung angenommen wird. In der Regression wird dann überprüft, inwiefern das Kriteriumsnetzwerk auch durch diese Geschlechtertrennung charakterisiert wird.\n\nreceiver\n\nDer receiver-Effekt basiert auf der Annahme, dass Hilfesuchende sich, unabhängig des eigenen Leistungsniveaus, stets zu dem/der Besten wenden, um Rat zu suchen. Übertragen auf die Sportnote entspricht dies der Annahme, dass alle Schüler:innen mit den Mitschüler:innen mit der besten Note zusammenarbeiten wollen. Es entspricht also der Annahme einer konventionellen Regressionsanalyse.\n\n\n\n\n(Weiterführende) Literatur\nBorgatti, S. P., Everett, M. G., &, Johnson, J. C. (2018). Analyzing social networks (2nd ed.). SAGE.\nBortz, J., &, Schuster, C. (2010). Statistik für Human- und Sozialwissenschaftler (7. Aufl.). Springer.\nCohen, J. (1988). Statistical power analysis for the behavioral sciences (2nd ed). L. Erlbaum Associates.\nDekker, D., Krackhardt, D., &, Snijders, T. A. B. (2007). Sensitivity of MRQAP Tests to Collinearity and Autocorrelation Conditions. Psychometrika, 72(4), 563–581. https://doi.org/10.1007/s11336-007-9016-1\nHenke, T. (2022). Grundlagen der Messung sozialer Strukturen und Verfahren zur Analyse von Peerbeziehungen im Klassenzimmer. In M. Kreutzmann, L. Zander, & B. Hannover (Hrsg.), Aufwachsen mit Anderen. Peerbeziehungen als Bildungsfaktor (S. 24–37). Verlag W. Kohlhammer.\nMcPherson, M., Smith-Lovin, L., &, Cook, J. M. (2001). Birds of a Feather: Homophily in Social Networks. Annual Review of Sociology, 27(1), 415–444. https://doi.org/10.1146/annurev.soc.27.1.415\nMejeh, M., &, Hascher, T. (2021). Soziale Netzwerkanalyse als Erfassungsinstrument sozialer Interaktionen in der Schule. In G. Hagenauer & D. Raufelder, Soziale Eingebundenheit. Sozialbeziehungen im Fokus von Schule und Lehrer*innenbildung. Waxmann.\n\n\nKontakt\nCornelius Holler\nRuprecht-Karls-Universität Heidelberg\nInstitut für Sport und Sportwissenschaft\nIm Neuenheimer Feld 700\n69120 Heidelberg\ncornelius.holler@issw.uni-heidelberg.de\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "CV",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "data_protection_SoNiS.html",
+    "href": "data_protection_SoNiS.html",
+    "title": "Datenschutzmaßnahmen für die Erhebung sozialer Netzwerke",
+    "section": "",
+    "text": "Hier geht es zurück zum Projekt\nDas Datenschutzkonzept der vorliegenden Studie wurde gemeinsam mit dem Datenschutzbeauftragen der Universität Heidelberg konzipiert. Die Erhebung und Verarbeitung der oben beschriebenen persönlichen Daten erfolgten pseudonymisiert im Institut für Sport und Sportwissenschaft unter Verwendung einer Nummer und ohne Angabe des Namens. Dazu werden allen Schüler:innen und Lehrkräften durch eine programmierte Exceldatei Zufallszahlen zugeordnet, sodass die Beantwortungen durch eine Eintragung der passenden Ziffern erfolgt.\nDie eingetragenen Zifferncodes werden im Anschluss an die Datenerhebung nach der Löschung der ersten Zuordnung durch Mitarbeiter:innen unserer Forschungsgruppe wiederum verschlüsselt. Ihr Name und der Name der Schüler:innen taucht also an keiner Stelle des Fragebogens auf. Daher kann aus der vorliegenden Befragung nicht auf einzelne Personen geschlossen werden. Zudem werden in allen Auswertungen und Berichten die Schulnamen ebenfalls nicht genannt und pseudonymisiert, damit niemand mehr die Daten mit Ihnen und Ihrer Schule in Verbindung bringen kann.\nAlle Informationen, die wir von Ihnen erheben, werden vertraulich behandelt, unterliegen dem Datenschutz, dienen allein wissenschaftlichen Zwecken und werden nicht an Dritte außerhalb unserer Forschungsgruppe weitergegeben. Weder Lehrkräfte noch Schulleitung erhalten Einblicke in die Daten oder die Auswertungen. Die Veröffentlichung der Ergebnisse der Studie erfolgt anonymisiert, d.h. sie können nicht mehr einer Person oder Schule zugeordnet werden. Aufgrund der beschriebenen vollständigen Anonymisierung, die nach der zweiten Verschlüsselung erfolgt, wird eine Löschung einzelner, personenbezogener Datensätze nicht mehr möglich sein.\n\n\n\n Back to top"
   }
 ]

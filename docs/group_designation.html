@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Cornelius Holler -</title>
+<title>Cornelius Holler - Gruppenzuweisung</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/cookie-consent/cookie-consent.js"></script>
+<link href="site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -41,6 +43,9 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="site_libs/quarto-contrib/iconify-1.0.7/iconify-icon.min.js"></script>
+<link href="site_libs/quarto-contrib/academicons-1.9.2/all.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/academicons-1.9.2/size.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -67,6 +72,33 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-YM0QDTJY3S"></script>
+
+<script type="text/plain" cookie-consent="tracking">
+
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-YM0QDTJY3S', { 'anonymize_ip': true});
+</script>
+
+<script type="text/javascript" charset="UTF-8">
+document.addEventListener('DOMContentLoaded', function () {
+cookieconsent.run({
+  "notice_banner_type":"headline",
+  "consent_type":"express",
+  "palette":"light",
+  "language":"en",
+  "page_load_consent_levels":["strictly-necessary"],
+  "notice_banner_reject_button_hide":false,
+  "preferences_center_close_button_hide":false,
+  "website_name":""
+  ,
+"language":"en"
+  });
+});
+</script> 
+  
 
 
 <link rel="stylesheet" href="styles.css">
@@ -79,6 +111,9 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./Attachments/Pictures/network_logo_circle.png" alt="" class="navbar-logo">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Cornelius Holler</span>
     </a>
@@ -94,35 +129,43 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="./posts.html"> 
+<span class="menu-text">News</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="./CV.html"> 
-<span class="menu-text">Lebenslauf</span></a>
+<span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-projekte" role="button" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Projekte</span>
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-projects" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Projects</span>
     </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-projekte">    
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-projects">    
         <li>
     <a class="dropdown-item" href="./projects.html">
- <span class="dropdown-text">Übersicht</span></a>
+ <span class="dropdown-text">Overview</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./poster_dvs2022.html">
- <span class="dropdown-text">Poster dvs-Tagung 2022</span></a>
+ <span class="dropdown-text">Poster dvs-Tagung 2022 (ger)</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./development_study2023.html">
- <span class="dropdown-text">Entwicklung von Sozialbeziehungen in Schulklasse und Sportunterricht</span></a>
+ <span class="dropdown-text">Entwicklung von Sozialbeziehungen im Sportunterricht (ger)</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./group_assignment.html">
+ <span class="dropdown-text">Assigning Topics to Students</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
     <a class="nav-link" href="./publications.html"> 
-<span class="menu-text">Publikationen</span></a>
+<span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./about.html"> 
-<span class="menu-text">Über mich</span></a>
+<span class="menu-text">Contact</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -137,57 +180,40 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#gruppenzuweisung" id="toc-gruppenzuweisung" class="nav-link active" data-scroll-target="#gruppenzuweisung">Gruppenzuweisung</a>
-  <ul class="collapse">
-  <li><a href="#beispiel" id="toc-beispiel" class="nav-link" data-scroll-target="#beispiel">Beispiel</a></li>
-  </ul></li>
-  </ul>
-</nav>
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Gruppenzuweisung</h1>
+</div>
 
 
-<section id="gruppenzuweisung" class="level1">
-<h1>Gruppenzuweisung</h1>
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
 <p>Ich habe für meine Seminare ein kleines Programm geschrieben, welches Studierenden(gruppen) zu Seminarthemen zuordnet, indem es die Rankings, die die Studierenden den Themen geben, optimiert.</p>
-<p>Es funktioniert so, dass eine quadratische Matrix über eine Excel Datei eingegeben wird mit den Personen(gruppen) in den Zeilen und den Themen in den Spalten. Jede Gruppe gibt jedem Thema ein Ranking (1 = bestes Thema). Falls nicht alle Themen geranked werden soll, werden die Themen, bei denen fehlende Werte stehen, auf 20 gesetzt. Die Excel Datei braucht zur Eingabe sowohl Spalten- als auch Zeilenbeschriftungen.</p>
-<p>Der Algorithmus nimmt dann diese Matrix und versucht, durch Permutationen die Summe der Diagonalen zu minimieren. Hierfür wird die Reihenfolge der Spalten zufällig geändert und die Zuordnung sowie die Summe gespeichert. Nach der angegebenen Anzahl an Permutationen wird dann die Konstellation mit der niedrigsten Summe ausgewählt und als Ergebnis dargestellt. Per default sind 1.000 Permutationen eingestellt, die ich je nach Gruppengröße anpassen würde. Für meine Seminare mit ca. 10 Gruppen und Themen funktionieren bei mir ca. 50.000 Permutationen sehr gut. Auch per default eingestellt ist der lineare Modus, der jedem Ranking ein lineares Gewicht gibt. Es wird hierbei also nicht unterschieden, ob eine niedrige Summe dadurch zustande kommt, dass alle Themen mit Priorität 1 vergeben werden, dadurch aber ein Thema nur mit Priorität 9 vergeben wird, oder ob die Prioritäten insgesamt eher bei 2 liegen. Um niedrige Rankings stärker zu bestrafen, gibt es den quadratischen Modus. Hierbei werden die Rankings quadriert, dann wird die Optimierung vorgenommen und erst am Ende wird wieder auf das Originalranking zurückgerechnet. Vielleicht werden dadurch einzelne Rankings niedriger, insgesamt kommt es dadurch aber seltener dazu, dass niedrige Rankings vergeben werden.</p>
-<p>In meinen Seminaren letztes Jahr konnte ich dadurch allen Studierendengruppen die Themen so zuordnen, dass alle ihre 1.-4. Präferenz bekommen haben. Durch die so große Anzahl an Möglichkeiten ist es hilfreich, mehrmals das Programm durchlaufen zu lassen (auch bei 50.000 Permutationen) und dann sowohl auf die höchste vergebene Priorität als auch auf die Gesamtsumme zu schauen, um beides zu minimieren.</p>
-<p>Hier findet ihr das Programm, unten ist noch ein detaillierteres Beispiel dargestellt.</p>
+<pre class="{html}"><code>&lt;style&gt;
+    #myFrame { width:100%; height:100%; }
+&lt;/style&gt;
 
-<style>
-    #myFrame {width:100%}
-</style>
-
-<iframe height="800" src="https://corneliusholler.shinyapps.io/gruppenzuweisung/" id="myFrame">
-</iframe>
-
-<section id="beispiel" class="level2">
-<h2 class="anchored" data-anchor-id="beispiel">Beispiel</h2>
-<p>Die Daten für das Beispiel sind Originalrankings aus einem meiner Seminare. Hier ein Überblick:</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="Attachments/Pictures/group_assignment_example_data.png" class="img-fluid figure-img" style="width:100.0%"></p>
-</figure>
-</div>
-<p>Die beste Konstellation, die ich für diese Daten finden konnte, war mit 50.000 Permutationen und dem quadratischen Modus:</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="Attachments/Pictures/group_assignment_example_res.png" class="img-fluid figure-img" style="width:100.0%"></p>
-</figure>
-</div>
-<p>Hierfür habe ich einige Male das Programm durchlaufen lassen, indem ich häufiger auf “Run Optimization” geklickt habe.</p>
-<p>Probier das Programm mit den Beispieldaten gerne aus, vielleicht findest du ja noch eine niedrigere Gesamtsumme! Hier findest du die <a href="./Attachments/Documents/group_assignment_example.xlsx">Daten</a>.</p>
+&lt;iframe src="html_intro.asp" id="myFrame"&gt;
+&lt;p&gt;Hi SOF&lt;/p&gt;
+&lt;/iframe&gt;
+</code></pre>
 
 
-</section>
-</section>
 
 <a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -682,11 +708,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>Cornelius Holler, 2023</p>
+<p>Cornelius Holler, 2024</p>
 </div>   
     <div class="nav-footer-center">
-      &nbsp;
-    </div>
+
+<div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item">
@@ -695,13 +721,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </a>
   </li>  
     <li class="nav-item">
-    <a class="nav-link" href="https://twitter.com/CorneliusHoller">
-<p>Twitter/X</p>
+    <a class="nav-link" href="https://x.com/CorneliusHoller">
+<p><iconify-icon inline="" icon="ri:twitter-x-fill" style="font-size: 1.5em;"></iconify-icon></p>
+</a>
+  </li>  
+    <li class="nav-item">
+    <a class="nav-link" href="https://www.linkedin.com/in/cornelius-holler/">
+<p><iconify-icon inline="" icon="mdi:linkedin" style="font-size: 1.5em;"></iconify-icon></p>
 </a>
   </li>  
     <li class="nav-item">
     <a class="nav-link" href="https://www.researchgate.net/profile/Cornelius_Holler">
-<p>Researchgate</p>
+<p><i class="ai  ai-researchgate ai-xl"></i></p>
+</a>
+  </li>  
+    <li class="nav-item">
+    <a class="nav-link" href="https://orcid.org/0009-0008-6599-8971">
+<p><i class="ai  ai-orcid ai-xl"></i></p>
 </a>
   </li>  
 </ul>
