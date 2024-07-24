@@ -25,6 +25,8 @@ DE - Germany
 
 ![](Attachments/Pictures/ISSW_logo.png){width="17" height="24"} [University Profile](https://www.issw.uni-heidelberg.de/personal/homepage/holler_c.html){target="_blank"}
 
+{{< iconify academicons google-scholar-square size=xl >}} [Google Scholar](https://scholar.google.com/citations?hl=de&user=QUCCKq0AAAAJ){target="_blank"}
+
 {{< ai researchgate size=xl >}} [Researchgate](https://www.researchgate.net/profile/Cornelius_Holler){target="_blank"}
 
 {{< ai orcid size=xl >}} [ORCID](https://orcid.org/0009-0008-6599-8971){target="_blank"}
