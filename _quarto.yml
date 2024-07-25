@@ -33,6 +33,10 @@ website:
             text: Assigning Topics to Students
       - href: publications.qmd
         text: Publications
+      - text: Private
+        menu:
+          - href: private/ultimate_frisbee.qmd
+            text: Ultimate Frisbee
       - href: about.qmd
         text: Contact
   back-to-top-navigation: true

@@ -1,0 +1,67 @@
+---
+title: Heidees Women Streams
+---
+
+[Back to the overview](/private/ultimate_frisbee.qmd)
+
+# Outdoor
+## 2023
+### Heidees vs. East Block at EUCF 2023 in Wrocklaw, Poland
+```{=html}
+<center>
+
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/pAWNqqJxTl8"></iframe>
+
+</center>
+```
+
+### Heidees vs. Seagulls Game to EUCF at the EUCR 2023 in Ghent, Belgium
+```{=html}
+<center>
+
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/ZkuOYr85xQg"></iframe>
+
+</center>
+```
+
+### Heidees vs. Woodchicas semi final at the German Championship 2023 in Freiburg, Germany
+```{=html}
+<center>
+
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/UlsdtM0T4dc"></iframe>
+
+</center>
+```
+
+### Heidees vs. Seagulls at the German Championship 2023 in Freiburg, Germany
+```{=html}
+<center>
+
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/zpEc_YPLq4M"></iframe>
+
+</center>
+```
+
+## 2013
+### Heidees vs. Jinx at the German Championship 2013 in Frankfurt a.M., Germany
+```{=html}
+<center>
+
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/rwyM3SHc1x4"></iframe>
+
+</center>
+```
+
+
+# Indoor
+## 2020
+### Heidees vs. U de Cologne game for 5th place at the German Indoor Championships 2024 in Eppelheim, Germany
+```{=html}
+<center>
+
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/Nagmi9YtXLk"></iframe>
+
+</center>
+```
+
+

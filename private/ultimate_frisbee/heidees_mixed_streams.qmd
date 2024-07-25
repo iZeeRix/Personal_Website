@@ -1,0 +1,101 @@
+---
+title: Heidees Mixed Streams
+---
+
+[Back to the overview](/private/ultimate_frisbee.qmd)
+
+# Outdoor
+## 2024
+### Heidees vs. Frizzly Bears at the German Championships 2024 in Aachen, Germany
+```{=html}
+<center>
+
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/qzTx0ljt-Lw"></iframe>
+
+</center>
+```
+
+### Heidees vs. Nullacht! Ultimate at the German Championships 2024 in Aachen, Germany
+```{=html}
+<center>
+
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/RPzYGCWwcFw"></iframe>
+
+</center>
+```
+
+
+## 2014
+### Heidees vs. Element at the WUCC 2014 in Lecco, Italy
+```{=html}
+<center>
+
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/x_VLeIU3KU0"></iframe>
+
+</center>
+```
+
+### Heidees vs. Drag'n Thrust at the WUCC 2014 in Lecco, Italy
+```{=html}
+<center>
+
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/blCxCYpDWB8"></iframe>
+
+</center>
+```
+
+### Heidees vs. Vaasa Saints at the WUCC 2014 in Lecco, Italy
+```{=html}
+<center>
+
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/AKBd8c695UA"></iframe>
+
+</center>
+```
+
+### Heidees vs. Union at the WUCC 2014 in Lecco, Italy
+```{=html}
+<center>
+
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/OwK-SI5sik8"></iframe>
+
+</center>
+```
+
+# Indoor
+## 2024
+### Heidees vs. Hucks Ultimate Club at the German Indoor Championship 2024 in Geretsried, Germany
+```{=html}
+<center>
+
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/CwBH-S3_J4w"></iframe>
+
+</center>
+```
+
+### Heidees vs. Frizzly Bears at the German Indoor Championship 2024 in Geretsried, Germany
+```{=html}
+<center>
+
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/P341JYOyREI"></iframe>
+
+</center>
+```
+
+### Heidees vs. Maultaschen at the German Indoor Championship 2024 in Geretsried, Germany
+```{=html}
+<center>
+
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/PN_00viIhMk"></iframe>
+
+</center>
+```
+
+### Heidees vs. Mainzelrenner at the German Indoor Championship 2024 in Geretsried, Germany
+```{=html}
+<center>
+
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/9xKbEcbCblA"></iframe>
+
+</center>
+```
