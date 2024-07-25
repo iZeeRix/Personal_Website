@@ -4,9 +4,14 @@ title: Heidees Mixed Streams
 
 [Back to the overview](/private/ultimate_frisbee.qmd)
 
+Here are some of the streamed games I found of the Heidees Mixed team. Please note that this is not meant as an exhaustive list. If you found a video that I should add, please write me a message!
+
 # Outdoor
+
 ## 2024
+
 ### Heidees vs. Frizzly Bears at the German Championships 2024 in Aachen, Germany
+
 ```{=html}
 <center>
 
@@ -14,8 +19,8 @@ title: Heidees Mixed Streams
 
 </center>
 ```
-
 ### Heidees vs. Nullacht! Ultimate at the German Championships 2024 in Aachen, Germany
+
 ```{=html}
 <center>
 
@@ -23,10 +28,10 @@ title: Heidees Mixed Streams
 
 </center>
 ```
-
-
 ## 2014
+
 ### Heidees vs. Element at the WUCC 2014 in Lecco, Italy
+
 ```{=html}
 <center>
 
@@ -34,8 +39,8 @@ title: Heidees Mixed Streams
 
 </center>
 ```
-
 ### Heidees vs. Drag'n Thrust at the WUCC 2014 in Lecco, Italy
+
 ```{=html}
 <center>
 
@@ -43,8 +48,8 @@ title: Heidees Mixed Streams
 
 </center>
 ```
-
 ### Heidees vs. Vaasa Saints at the WUCC 2014 in Lecco, Italy
+
 ```{=html}
 <center>
 
@@ -52,8 +57,8 @@ title: Heidees Mixed Streams
 
 </center>
 ```
-
 ### Heidees vs. Union at the WUCC 2014 in Lecco, Italy
+
 ```{=html}
 <center>
 
@@ -61,10 +66,12 @@ title: Heidees Mixed Streams
 
 </center>
 ```
-
 # Indoor
+
 ## 2024
+
 ### Heidees vs. Hucks Ultimate Club at the German Indoor Championship 2024 in Geretsried, Germany
+
 ```{=html}
 <center>
 
@@ -72,8 +79,8 @@ title: Heidees Mixed Streams
 
 </center>
 ```
-
 ### Heidees vs. Frizzly Bears at the German Indoor Championship 2024 in Geretsried, Germany
+
 ```{=html}
 <center>
 
@@ -81,8 +88,8 @@ title: Heidees Mixed Streams
 
 </center>
 ```
-
 ### Heidees vs. Maultaschen at the German Indoor Championship 2024 in Geretsried, Germany
+
 ```{=html}
 <center>
 
@@ -90,8 +97,8 @@ title: Heidees Mixed Streams
 
 </center>
 ```
-
 ### Heidees vs. Mainzelrenner at the German Indoor Championship 2024 in Geretsried, Germany
+
 ```{=html}
 <center>
 

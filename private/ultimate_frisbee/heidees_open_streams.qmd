@@ -4,8 +4,12 @@ title: Heidees Open Streams
 
 [Back to the overview](/private/ultimate_frisbee.qmd)
 
+Here are some of the streamed games I found of the Heidees Open team. Please note that this is not meant as an exhaustive list. If you found a video that I should add, please write me a message!
+
 # Outdoor
+
 ## 2024
+
 ### Heidees vs. Hardfish quarter final at the DFV Pokal 2024 in Gemmrigheim, Germany
 
 ```{=html}
@@ -111,11 +115,12 @@ title: Heidees Open Streams
 
 </center>
 ```
-
-
 # Indoor
+
 ## 2024
+
 ### Heidees vs. Hässliche Erdferkel semi final at the German Indoor Championship 2024 in Gemmrigheim, Germany
+
 ```{=html}
 <center>
 

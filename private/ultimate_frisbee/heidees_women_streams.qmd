@@ -4,9 +4,14 @@ title: Heidees Women Streams
 
 [Back to the overview](/private/ultimate_frisbee.qmd)
 
+Here are some of the streamed games I found of the Heidees Women team. Please note that this is not meant as an exhaustive list. If you found a video that I should add, please write me a message!
+
 # Outdoor
+
 ## 2023
+
 ### Heidees vs. East Block at EUCF 2023 in Wrocklaw, Poland
+
 ```{=html}
 <center>
 
@@ -14,8 +19,8 @@ title: Heidees Women Streams
 
 </center>
 ```
-
 ### Heidees vs. Seagulls Game to EUCF at the EUCR 2023 in Ghent, Belgium
+
 ```{=html}
 <center>
 
@@ -23,8 +28,8 @@ title: Heidees Women Streams
 
 </center>
 ```
-
 ### Heidees vs. Woodchicas semi final at the German Championship 2023 in Freiburg, Germany
+
 ```{=html}
 <center>
 
@@ -32,8 +37,8 @@ title: Heidees Women Streams
 
 </center>
 ```
-
 ### Heidees vs. Seagulls at the German Championship 2023 in Freiburg, Germany
+
 ```{=html}
 <center>
 
@@ -41,9 +46,10 @@ title: Heidees Women Streams
 
 </center>
 ```
-
 ## 2013
+
 ### Heidees vs. Jinx at the German Championship 2013 in Frankfurt a.M., Germany
+
 ```{=html}
 <center>
 
@@ -51,11 +57,12 @@ title: Heidees Women Streams
 
 </center>
 ```
-
-
 # Indoor
+
 ## 2020
+
 ### Heidees vs. U de Cologne game for 5th place at the German Indoor Championships 2024 in Eppelheim, Germany
+
 ```{=html}
 <center>
 
@@ -63,5 +70,3 @@ title: Heidees Women Streams
 
 </center>
 ```
-
-
