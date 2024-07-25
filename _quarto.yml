@@ -43,20 +43,28 @@ website:
         text: Contact
   back-to-top-navigation: true
   page-footer: 
-    left: "Cornelius Holler, 2024" 
+    left: 
+      - text: Cornelius Holler, 2024
+        href: index.html
+        target: _blank
     right: 
       - text: ISSW
         href: https://www.issw.uni-heidelberg.de/personal/homepage/holler_c.html
+        target: _blank
       - text: "{{< iconify academicons google-scholar-square size=xl >}}"
         href: https://scholar.google.com/citations?hl=de&user=QUCCKq0AAAAJ
       - text: "{{< iconify ri twitter-x-fill size=xl >}}"
         href: https://x.com/CorneliusHoller
+        target: _blank
       - text: "{{< iconify mdi linkedin size=xl >}}"
         href: https://www.linkedin.com/in/cornelius-holler/
+        target: _blank
       - text: "{{< ai researchgate size=xl >}}"
         href: https://www.researchgate.net/profile/Cornelius_Holler
+        target: _blank
       - text: "{{< ai orcid size=xl >}}"
         href: https://orcid.org/0009-0008-6599-8971
+        target: _blank
 format:
   html:
     theme: 
