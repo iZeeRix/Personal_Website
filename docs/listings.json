@@ -5,5 +5,18 @@
       "/posts/2024-07-23-gauging-acceptance.html",
       "/posts/2024-07-10-group-assignment.html"
     ]
+  },
+  {
+    "listing": "/private/private_news.html",
+    "items": [
+      "/private/private_posts/german_championship_first_weekend.html"
+    ]
+  },
+  {
+    "listing": "/news.html",
+    "items": [
+      "/posts/2024-07-23-gauging-acceptance.html",
+      "/posts/2024-07-10-group-assignment.html"
+    ]
   }
 ]

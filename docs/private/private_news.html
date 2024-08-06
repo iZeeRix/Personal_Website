@@ -6,10 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Cornelius Holler">
-<meta name="dcterms.date" content="2024-07-10">
 
-<title>Cornelius Holler - Shiny app to assign students to topics</title>
+<title>Cornelius Holler - Private News</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -32,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/cookie-consent/cookie-consent.js"></script>
 <link href="../site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
 <script src="../site_libs/quarto-html/quarto.js"></script>
@@ -74,6 +74,35 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-YM0QDTJY3S"></script>
 
 <script type="text/plain" cookie-consent="tracking">
@@ -102,6 +131,8 @@ cookieconsent.run({
 </script> 
   
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -198,36 +229,20 @@ cookieconsent.run({
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    </div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="2024">2024 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="German Championships">German Championships <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Ultimate Frisbee">Ultimate Frisbee <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Shiny app to assign students to topics</h1>
-  <div class="quarto-categories">
-    <div class="quarto-category">R Programming</div>
-    <div class="quarto-category">Teaching</div>
-  </div>
-  </div>
+<h1 class="title">Private News</h1>
+</div>
 
 
 
 <div class="quarto-title-meta">
 
-    <div>
-    <div class="quarto-title-meta-heading">Author</div>
-    <div class="quarto-title-meta-contents">
-             <p>Cornelius Holler </p>
-          </div>
-  </div>
     
-    <div>
-    <div class="quarto-title-meta-heading">Published</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">July 10, 2024</p>
-    </div>
-  </div>
   
     
   </div>
@@ -236,15 +251,60 @@ cookieconsent.run({
 
 </header>
 
-<p>I teach 1-2 seminars each winter semester, where students do presentations in groups of 2-3. Over the semester, we have 10 topics to cover, so the students need to form groups and we need to assign each group a topic to present. In my experience, this is usually done by going through the topics, assigning those which only one group wants to present and then go back through and let the students decide who “wins” the topic by playing rock-paper-scissors against each other.</p>
-<p>I found this method of assigning topics both annoying and unfair, because even though there can be a bit of a strategy behind choosing the topic, it is based on luck if you win your round of rock-paper-scissors or if you are handed through to your least favorite topic. So I wanted to create a better way to assign the topics to that each group gets their highest priority possible.</p>
-<p>Luckily, I was at the EUSN 2023 Conference in Ljubljana, Slovenia, at that time and talked about it with a colleague, <a href="https://www.uni-koblenz.de/de/informatik/ifm/panitz/robert-panitz" target="_blank">Robert Panitz</a>. He suggested the algorithm that I implemented, first into a simple R function, now into a publicly available Shiny app!</p>
-<p>It essentially works by asking the students to rank each topic from 1 (best) to 10 (worst). The code then creates a square matrix with the students’ rankings in the rows and the topics in the columns. It then permutates the matrix columns a certain amount of times to see, which permutation yields the smallest sum of priorities. In the app, it of course works with any size of matrix and you can adjust the amount of permutations and if the rankings should be weighted in a linear or quadratic way.</p>
-<p>I created a separate page for the app where you can find more information about how it works and how to use it: <a href="../group_assignment.html">Assigning Topics to Students - Shiny App</a></p>
 
 
 
-<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="Ultimate Frisbee,German Championships,2024" data-listing-date-sort="1722895200000" data-listing-file-modified-sort="1722957433903" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<div class="thumbnail">
+<p><a href="../private/private_posts/german_championship_first_weekend.html"></a></p><a href="../private/private_posts/german_championship_first_weekend.html">
+<p class="card-img-top"><img src="../Attachments/Pictures/2024_08_1.DM_WE_Nuremberg.png"  class="thumbnail-image card-img"/></p>
+</a><p><a href="../private/private_posts/german_championship_first_weekend.html"></a></p>
+</div>
+<div class="body">
+<p><a href="../private/private_posts/german_championship_first_weekend.html"></a></p><a href="../private/private_posts/german_championship_first_weekend.html">
+<h3 class="no-anchor listing-title">
+First Weekend of the German Championships is coming up
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Ultimate Frisbee'); return false;">
+Ultimate Frisbee
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('German Championships'); return false;">
+German Championships
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('2024'); return false;">
+2024
+</div>
+</div>
+<p><a href="../private/private_posts/german_championship_first_weekend.html"></a></p><a href="../private/private_posts/german_championship_first_weekend.html">
+<div class="listing-description">
+<p>See the schedule and links to streamed games here.</p>
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../private/private_posts/german_championship_first_weekend.html">
+<div class="listing-date">
+Aug 6, 2024
+</div>
+<div class="listing-author">
+Cornelius Holler
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div><a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

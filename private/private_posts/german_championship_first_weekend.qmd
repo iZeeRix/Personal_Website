@@ -1,0 +1,17 @@
+---
+title: "First Weekend of the Open German Championships is coming up"
+description: "I will be playing with Heidees in Nuremberg. See the schedule and links to streamed games here."
+author:
+  - name: Cornelius Holler
+date: 2024-08-06
+categories: [Ultimate Frisbee, German Championships, '2024']
+draft: false
+---
+
+## Schedule
+
+![](/Attachments/Pictures/2024_08_1.DM_WE_Nuremberg.png){fig-align="center" width="100%"}
+
+## Streaming
+
+The streams will be on the [Youtube Channel of the German Frisbee Association (DFV)](https://www.youtube.com/@DeutscherFrisbeesportVerband/streams){target="_blank"}. I will update this page with links to our games when they come out.
