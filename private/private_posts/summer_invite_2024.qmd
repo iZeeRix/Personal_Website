@@ -1,0 +1,27 @@
+---
+title: "Summer Invite 2024"
+description: "We are trying to qualify for the european championships in September."
+author:
+  - name: Cornelius Holler
+date: 2024-08-14
+categories: [Ultimate Frisbee, European Ultimate Federation, '2024']
+draft: false
+---
+
+## Qualification for the European Championships (EUCF)
+
+Starting this year, the [European Ultimate Federation (EUF)](https://www.ultimatefederation.eu/){target="_blank"} has introduced a ranking system that calculates and updates a ranking of all registered teams after each set of tournaments. A detailed description of how it is calculated, why it is used and the current ranking is presented [here](https://ranking.ultimatefederation.eu/){target="_blank"}.
+
+We are currently (14th August 2024) ranked 19th. To qualify for the EUCF we need to get at least rank 16 or win the Summer Invite to get a wildcard to the finals. Luckily, we have some really good teams in our pool on Saturday and other great teams at the tournament who we hope to match up against on Sunday.
+
+## Schedule
+
+![](/Attachments/Pictures/2024-08_Summer_Invite_Heilbronn.png){fig-align="center" width="80%"}
+
+## Streaming
+
+The games will be streamed on Solidsports, a paid platform that is the new streaming partner of the EUF from 2024-2027. If you want, you can find the platform and buy a pass [here](https://live.ultimatefederation.eu/){target="_blank"}.
+
+It seems all of our three games on Saturday will be streamed on the platform. The streamed games for Sunday are not yet determined.
+
+![](/Attachments/Pictures/2024-08_Summer_Invite_Streams.png){fig-align="center" width="80%"}
