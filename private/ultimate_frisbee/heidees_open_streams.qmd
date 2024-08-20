@@ -10,6 +10,34 @@ Here are some of the streamed games I found of the Heidees Open team. Please not
 
 ## 2024
 
+### Heidees vs. Munic Masters Open Pool B at the German Championships 2024 in Nuremberg, Germany
+
+```{=html}
+<center>
+
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/VqGFhPKdvzA"></iframe>
+
+</center>
+```
+### Heidees vs. 7 Schwaben Pool B at the German Championships 2024 in Nuremberg, Germany
+
+```{=html}
+<center>
+
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/hiDxg4TxGvU"></iframe>
+
+</center>
+```
+### Heidees vs. FrankN Pool B at the German Championships 2024 in Nuremberg, Germany
+
+```{=html}
+<center>
+
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/NsuiPsTE1dw"></iframe>
+
+</center>
+```
+
 ### Heidees vs. Hardfish quarter final at the DFV Pokal 2024 in Gemmrigheim, Germany
 
 ```{=html}
@@ -20,6 +48,42 @@ Here are some of the streamed games I found of the Heidees Open team. Please not
 </center>
 ```
 ## 2023
+
+### Heidees vs. Wall City semi-final at the German Championships 2023 in Marburg, Germany
+```{=html}
+<center>
+
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/7VV1b98iS0A"></iframe>
+
+</center>
+```
+
+### Heidees vs. BORA Pool B at the German Championships 2023 in Marburg, Germany
+```{=html}
+<center>
+
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/iNYBJxuYUeE"></iframe>
+
+</center>
+```
+
+### Heidees vs. Lahntalknaben Pool B at the German Championships 2023 in Marburg, Germany
+```{=html}
+<center>
+
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/7MdbTcJl7ms"></iframe>
+
+</center>
+```
+
+### Heidees vs. WaldStadt Pool B at the German Championships 2023 in Marburg, Germany
+```{=html}
+<center>
+
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/shAdH0rBDnA"></iframe>
+
+</center>
+```
 
 ### Heidees vs. BFD La Fotta quarter final at the Elite Invite 2023 in Bern, Switzerland
 
