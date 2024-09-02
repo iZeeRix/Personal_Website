@@ -1,13 +1,13 @@
 ---
-title: "Welcome!"
-image: /Attachments/Pictures/Professionelles_Bild_Holler.jpeg
+title: "Cornelius Holler"
+about:
+  template: marquee
+  image: /Attachments/Pictures/Muenster_Poster_Holler.jpg
 ---
 
-+---------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](Attachments/Pictures/Muenster_Poster_Holler.jpg){fig-align="center" width="100%"} | I'm a doctoral candidate at the Institute of Sports and Sports Sciences at the University of Heidelberg. My research focuses on peer relationships (using social network analysis), self-concept and physical ability in physical education. |
-|                                                                                       |                                                                                                                                                                                                                                              |
-|                                                                                       | You can find my CV [here](CV.qmd) as well as ongoing and finished [projects](projects.qmd) and [publications](publications.qmd).                                                                                                             |
-+---------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+I'm a doctoral candidate at the Institute of Sports and Sports Sciences at the University of Heidelberg. My research focuses on peer relationships (using social network analysis), self-concept and physical ability in physical education.
+
+You can find my CV [here](CV.qmd) as well as ongoing and finished [projects](projects.qmd) and [publications](publications.qmd).
 
 ## Contact
 

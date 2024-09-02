@@ -23,14 +23,14 @@
   {
     "objectID": "methods_and_analyses_SoNiS.html",
     "href": "methods_and_analyses_SoNiS.html",
-    "title": "Cornelius Holler",
+    "title": "CH",
     "section": "",
     "text": "Hier geht es zurück zum Projekt"
   },
   {
     "objectID": "methods_and_analyses_SoNiS.html#erhebung-und-auswertung-sozialer-netzwerke",
     "href": "methods_and_analyses_SoNiS.html#erhebung-und-auswertung-sozialer-netzwerke",
-    "title": "Cornelius Holler",
+    "title": "CH",
     "section": "Erhebung und Auswertung sozialer Netzwerke",
     "text": "Erhebung und Auswertung sozialer Netzwerke\nDie Erhebung sozialer Netzwerkdaten erfolgt mittels Nominierungsfragen. Hierbei werden die Schüler:innen gebeten, für Interaktions- oder Beziehungsbeschreibungen die Zahlencodes (siehe Datenschutzmaßnahmen) der Mitschüler:innen aufzuschreiben, die auf diese Beschreibungen zutreffen. Eine Beispielfrage würde z.B. so aussehen:\n\n\n\n\n\nDie Daten einer Nominierungsfrage werden in einer sog. “Nodelist” gespeichert, die hier beispielhaft aufgeführt wird:\n\n\n\nZahlencode\nZsmarbeiten_01\nZsmarbeiten_02\nZsmarbeiten_03\n\n\n\n\n1\n\n\n\n\n\n2\n4\n5\n\n\n\n3\n8\n9\n\n\n\n4\n2\n6\n7\n\n\n5\n3\n9\n\n\n\n…\n…\n…\n…\n\n\n\nDie Daten aus der Nodelist werden dann mit einem Statistikprogramm (z.B. UCINET) oder einer Programmiersprache (z.B. R) in sog. “Adjacency Matrix” umgewandelt, die Beziehungen mit “1” und fehlende Beziehungen mit “0” kennzeichnet. Aus ihr können sowohl individuelle Maße wie z.B. der “Indegree” (Anzahl an eingehenden Nominierungen) berechnet oder Netzwerkgraphen geplottet werden, die Netzwerke können jedoch auch direkt in statistische Verfahren einfließen.\nEin Beispiel für eine Adjacency Matrix mit einem entsprechenden Netzwerkgraphen ist hier abgebildet. Die Zeilen symbolisieren die ausgehenden Nominierungen während die Spalten die eingehenden Nominierungen darstellen."
   },
@@ -142,35 +142,35 @@
   {
     "objectID": "development_study2023.html",
     "href": "development_study2023.html",
-    "title": "Cornelius Holler",
+    "title": "CH",
     "section": "",
     "text": "Hier geht es zurück zur Übersicht der Projekte"
   },
   {
     "objectID": "development_study2023.html#entwicklung-sozialer-beziehungen-in-schulklasse-und-sportunterricht",
     "href": "development_study2023.html#entwicklung-sozialer-beziehungen-in-schulklasse-und-sportunterricht",
-    "title": "Cornelius Holler",
+    "title": "CH",
     "section": "Entwicklung sozialer Beziehungen in Schulklasse und Sportunterricht",
     "text": "Entwicklung sozialer Beziehungen in Schulklasse und Sportunterricht\nHerzlich Willkommen auf der Website zum Projekt “Entwicklung sozialer Beziehungen in Schulklasse und Sportunterricht” des Forschungsprogramms Soziale Netzwerke im Sportunterricht (SoNiS) des Instituts für Sport und Sportwissenschaft der Universität Heidelberg.\nAuf diesen Seiten finden Sie alle Informationen über die Planung, Durchführung und Ziele des Projekts. Wenn Sie an der Studie teilnehmen wollen, bitte kontaktieren Sie den Studienleiter Cornelius Holler oder den Projektleiter Prof. Dr. Rüdiger Heim über die unten stehenden Kontaktmöglichkeiten."
   },
   {
     "objectID": "development_study2023.html#informationen-über-die-studie",
     "href": "development_study2023.html#informationen-über-die-studie",
-    "title": "Cornelius Holler",
+    "title": "CH",
     "section": "Informationen über die Studie",
     "text": "Informationen über die Studie\n\nAnschreiben für (Sport-)Lehrkräfte\nFlyer zum Projekt"
   },
   {
     "objectID": "development_study2023.html#informationen-zum-datenschutz-und-zur-erhebungsmethodik",
     "href": "development_study2023.html#informationen-zum-datenschutz-und-zur-erhebungsmethodik",
-    "title": "Cornelius Holler",
+    "title": "CH",
     "section": "Informationen zum Datenschutz und zur Erhebungsmethodik",
     "text": "Informationen zum Datenschutz und zur Erhebungsmethodik\n\nDatenschutzmaßnahmen für die Erhebung sozialer Netzwerke\nErhebung und Auswertung sozialer Netzwerke"
   },
   {
     "objectID": "development_study2023.html#kontakt",
     "href": "development_study2023.html#kontakt",
-    "title": "Cornelius Holler",
+    "title": "CH",
     "section": "Kontakt",
     "text": "Kontakt\n\n\n\nStudienleiter\nProjektleiter\n\n\n\n\nCornelius Holler\nInstitut für Sport und Sportwissenschaft\nUniversität Heidelberg\nIm Neuenheimer Feld 700\n60210 Heidelberg\ncornelius.holler@issw.uni-heidelberg.de\n+49 6221 54-4348\nProf. Dr. Rüdiger Heim\nInstitut für Sport und Sportwissenschaft\nUniversität Heidelberg\nIm Neuenheimer Feld 700\n60210 Heidelberg\nruediger.heim@issw.uni-heidelberg.de\n+49 6221 54-8622"
   },
@@ -212,21 +212,21 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome!",
+    "title": "Cornelius Holler",
     "section": "",
     "text": "I’m a doctoral candidate at the Institute of Sports and Sports Sciences at the University of Heidelberg. My research focuses on peer relationships (using social network analysis), self-concept and physical ability in physical education.\nYou can find my CV here as well as ongoing and finished projects and publications."
   },
   {
     "objectID": "index.html#contact",
     "href": "index.html#contact",
-    "title": "Welcome!",
+    "title": "Cornelius Holler",
     "section": "Contact",
     "text": "Contact\nCornelius Holler (he/him)\nInstitute of Sports and Sports Sciences\nUniversity of Heidelberg\nIm Neuenheimer Feld 700\n69120 Heidelberg\nDE - Germany\ncornelius.holler@issw.uni-heidelberg.de"
   },
   {
     "objectID": "index.html#weblinks",
     "href": "index.html#weblinks",
-    "title": "Welcome!",
+    "title": "Cornelius Holler",
     "section": "Weblinks",
     "text": "Weblinks\n University Profile\n Google Scholar\n Researchgate\n ORCID\n Twitter / X\n LinkedIn"
   },

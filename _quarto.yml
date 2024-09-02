@@ -8,10 +8,8 @@ website:
   google-analytics: 
     tracking-id: "G-YM0QDTJY3S"
     anonymize-ip: true
-  cookie-consent:
-    type: express
-    style: headline
-  title: Cornelius Holler
+  cookie-consent: false
+  title: CH
   site-url: 'https://corneliusholler.de/'
   site-path: '/'
   navbar:
@@ -40,8 +38,6 @@ website:
             text: Private News
           - href: private/ultimate_frisbee.qmd
             text: Ultimate Frisbee
-      - href: about.qmd
-        text: Contact
   back-to-top-navigation: true
   page-footer: 
     left: 
