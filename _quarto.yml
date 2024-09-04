@@ -39,11 +39,11 @@ website:
           - href: private/ultimate_frisbee.qmd
             text: Ultimate Frisbee
   back-to-top-navigation: true
-  page-footer: 
-    left: 
-      - text: Cornelius Holler, 2024
-        href: index.html
-        target: _blank
+  page-footer: "Cornelius Holler, 2024"
+    # left: 
+      # - text: Cornelius Holler, 2024
+      #   href: index.html
+        # target: _blank
     # right: 
     #   - text: ISSW
     #     href: https://www.issw.uni-heidelberg.de/personal/homepage/holler_c.html
