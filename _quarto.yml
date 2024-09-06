@@ -34,10 +34,10 @@ website:
         text: Publications
       - text: Private
         menu:
-          - href: private/private_news.qmd
-            text: Private News
           - href: private/ultimate_frisbee.qmd
             text: Ultimate Frisbee
+          - href: private/private_news.qmd
+            text: Tournaments
   back-to-top-navigation: true
   page-footer: "Cornelius Holler, 2024"
     # left: 
