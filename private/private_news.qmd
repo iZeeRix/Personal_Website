@@ -1,5 +1,5 @@
 ---
-title: "Private News"
+title: "Tournaments"
 listing: 
   contents: private_posts
   type: default 
