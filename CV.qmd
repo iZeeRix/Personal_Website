@@ -2,6 +2,8 @@
 title: "CV"
 ---
 
+Last updated October 2024
+
 ![](Attachments/Pictures/CV_eng_0.jpg){fig-align="center" width="100%"}
 
 ![](Attachments/Pictures/CV_eng_1.jpg){fig-align="center" width="100%"}
