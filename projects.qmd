@@ -1,9 +1,22 @@
 ---
-title: "Project Overview"
+title: "Projects"
 ---
+
+## Projects related to my Dissertation
+
+These are projects I did as a part of my dissertation.
 
 -   [Poster auf der 35. Jahrestagung der deutschen Vereinigung für Sportwissenschaft vom 16. bis 18. Juni 2022 in Münster (ger)](poster_dvs2022.qmd)
 
+    -   You can find the video teaser and the poster I presented on the yearly conference by the section Sports Pedagogy of the German Society of Sport Science (dvs). It is both in German.
+
 -   [Entwicklung sozialer Beziehungen in Schulklasse und Sportunterricht (ger)](development_study2023.qmd)
 
+    -   I planned and conducted a 1-year longitudinal social network study on peer relationships in physical education. This project page was sent to teachers and parents to inform them about the procedure and goal of the project.
+
+## Teaching and Seminars
+
+These are projects I did in besides my dissertation.
+
 -   [Assigning Topics to (Groups of) Students in Seminars](group_assignment.qmd)
+    -   This is a program that I wrote to assign the students in my seminars to their preferred topic to present on. The students fill out a ranking of topics and tries to optimize the choices in a way that is preferential to the whole group. First I used it only inside of R but now I have published the program as a shiny app that is embedded into the page and you can use it yourself.

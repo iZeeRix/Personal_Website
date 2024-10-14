@@ -20,24 +20,26 @@ website:
         text: News
       - href: CV.qmd
         text: CV
-      - text: Projects
-        menu:
-          - href: projects.qmd
-            text: Overview
-          - href: poster_dvs2022.qmd
-            text: Poster dvs-Tagung 2022 (ger)
-          - href: development_study2023.qmd
-            text: Entwicklung von Sozialbeziehungen im Sportunterricht (ger)
-          - href: group_assignment.qmd
-            text: Assigning Topics to Students
+      - href: projects.qmd
+        text: Projects
+        # menu:
+        #   - href: projects.qmd
+        #     text: Overview
+        #   - href: poster_dvs2022.qmd
+        #     text: Poster dvs-Tagung 2022 (ger)
+        #   - href: development_study2023.qmd
+        #     text: Entwicklung von Sozialbeziehungen im Sportunterricht (ger)
+        #   - href: group_assignment.qmd
+        #     text: Assigning Topics to Students
       - href: publications.qmd
         text: Publications
-      - text: Private
-        menu:
-          - href: private/ultimate_frisbee.qmd
-            text: Ultimate Frisbee
-          - href: private/private_news.qmd
-            text: Tournaments
+      - href: private.qmd
+        text: Private
+        # menu:
+        #   - href: private/ultimate_frisbee.qmd
+        #     text: Ultimate Frisbee
+        #   - href: private/private_news.qmd
+        #     text: Tournaments
   back-to-top-navigation: true
   page-footer: "Cornelius Holler, 2024"
     # left: 

@@ -35,95 +35,88 @@
     "text": "Erhebung und Auswertung sozialer Netzwerke\nDie Erhebung sozialer Netzwerkdaten erfolgt mittels Nominierungsfragen. Hierbei werden die Schüler:innen gebeten, für Interaktions- oder Beziehungsbeschreibungen die Zahlencodes (siehe Datenschutzmaßnahmen) der Mitschüler:innen aufzuschreiben, die auf diese Beschreibungen zutreffen. Eine Beispielfrage würde z.B. so aussehen:\n\n\n\n\n\nDie Daten einer Nominierungsfrage werden in einer sog. “Nodelist” gespeichert, die hier beispielhaft aufgeführt wird:\n\n\n\nZahlencode\nZsmarbeiten_01\nZsmarbeiten_02\nZsmarbeiten_03\n\n\n\n\n1\n\n\n\n\n\n2\n4\n5\n\n\n\n3\n8\n9\n\n\n\n4\n2\n6\n7\n\n\n5\n3\n9\n\n\n\n…\n…\n…\n…\n\n\n\nDie Daten aus der Nodelist werden dann mit einem Statistikprogramm (z.B. UCINET) oder einer Programmiersprache (z.B. R) in sog. “Adjacency Matrix” umgewandelt, die Beziehungen mit “1” und fehlende Beziehungen mit “0” kennzeichnet. Aus ihr können sowohl individuelle Maße wie z.B. der “Indegree” (Anzahl an eingehenden Nominierungen) berechnet oder Netzwerkgraphen geplottet werden, die Netzwerke können jedoch auch direkt in statistische Verfahren einfließen.\nEin Beispiel für eine Adjacency Matrix mit einem entsprechenden Netzwerkgraphen ist hier abgebildet. Die Zeilen symbolisieren die ausgehenden Nominierungen während die Spalten die eingehenden Nominierungen darstellen."
   },
   {
-    "objectID": "poster_dvs2022.html",
-    "href": "poster_dvs2022.html",
-    "title": "Poster auf der 35. Jahrestagung der Deutschen Vereinigung für Sportwissenschaft vom 16. bis 18. Juni 2022 in Münster",
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "CV",
     "section": "",
-    "text": "Hier geht es zurück zur Übersicht der Projekte\n\nTeaser\n\n\n    \n\n\n\n\nPoster\n\n\n\n\n\n\n\nErgänzende Informationen zum Poster\n\nAls Regressionsanalyse für Netzwerkdaten wurde die double semi-partialling Methode der multiple regression quadratic assignment procedure (MR-QAP) verwendet (Dekker et al., 2007). Die MR-QAP verwendet Permutationen zur Berechnung der Signifikanzwerte, da die Netzwerke gegen die Annahme der Unabhängigkeit der Beobachtungen der klassischen Testtheorie verstößt. Die double semi-partialling Methode ist besonders robust gegen Autokorrelation und Kolinearität der Prädiktornetzwerke.\nUm Attributsdaten in Netzwerkregressionen zu verwenden, müssen Annahmen getroffen werden um die Attribute in Netzwerke umzuwandeln. Auf dem Poster sind zwei dieser Annahmen durch match oder receiver verdeutlicht worden. Weitere Methoden sind in Borgatti et al. (2018) in Kap. 8.4 näher erläutert\n\nmatch\n\nAuf Basis der Homophilie (McPherson et al., 2001) wird angenommen, dass Sozialbeziehungen vermehrt zwischen Menschen auftreten, die sich in gewissen Merkmalen ähnlich sind. Das Attribut des Geschlechts wird also so in Netzwerkdaten umgewandelt, indem alleinig zwischen gleichgeschlechtlichen Schüler:innen eine Beziehung angenommen wird. In der Regression wird dann überprüft, inwiefern das Kriteriumsnetzwerk auch durch diese Geschlechtertrennung charakterisiert wird.\n\nreceiver\n\nDer receiver-Effekt basiert auf der Annahme, dass Hilfesuchende sich, unabhängig des eigenen Leistungsniveaus, stets zu dem/der Besten wenden, um Rat zu suchen. Übertragen auf die Sportnote entspricht dies der Annahme, dass alle Schüler:innen mit den Mitschüler:innen mit der besten Note zusammenarbeiten wollen. Es entspricht also der Annahme einer konventionellen Regressionsanalyse.\n\n\n\n\n(Weiterführende) Literatur\nBorgatti, S. P., Everett, M. G., &, Johnson, J. C. (2018). Analyzing social networks (2nd ed.). SAGE.\nBortz, J., &, Schuster, C. (2010). Statistik für Human- und Sozialwissenschaftler (7. Aufl.). Springer.\nCohen, J. (1988). Statistical power analysis for the behavioral sciences (2nd ed). L. Erlbaum Associates.\nDekker, D., Krackhardt, D., &, Snijders, T. A. B. (2007). Sensitivity of MRQAP Tests to Collinearity and Autocorrelation Conditions. Psychometrika, 72(4), 563–581. https://doi.org/10.1007/s11336-007-9016-1\nHenke, T. (2022). Grundlagen der Messung sozialer Strukturen und Verfahren zur Analyse von Peerbeziehungen im Klassenzimmer. In M. Kreutzmann, L. Zander, & B. Hannover (Hrsg.), Aufwachsen mit Anderen. Peerbeziehungen als Bildungsfaktor (S. 24–37). Verlag W. Kohlhammer.\nMcPherson, M., Smith-Lovin, L., &, Cook, J. M. (2001). Birds of a Feather: Homophily in Social Networks. Annual Review of Sociology, 27(1), 415–444. https://doi.org/10.1146/annurev.soc.27.1.415\nMejeh, M., &, Hascher, T. (2021). Soziale Netzwerkanalyse als Erfassungsinstrument sozialer Interaktionen in der Schule. In G. Hagenauer & D. Raufelder, Soziale Eingebundenheit. Sozialbeziehungen im Fokus von Schule und Lehrer*innenbildung. Waxmann.\n\n\nKontakt\nCornelius Holler\nRuprecht-Karls-Universität Heidelberg\nInstitut für Sport und Sportwissenschaft\nIm Neuenheimer Feld 700\n69120 Heidelberg\ncornelius.holler@issw.uni-heidelberg.de\n\n\n\n\n Back to top"
+    "text": "Last updated October 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "private/ultimate_frisbee/heidees_open_streams.html",
-    "href": "private/ultimate_frisbee/heidees_open_streams.html",
-    "title": "Heidees Open Streams",
+    "objectID": "call_for_teachers.html",
+    "href": "call_for_teachers.html",
+    "title": "Anschreiben für (Sport-)Lehrkräfte",
     "section": "",
-    "text": "Back to the overview\nHere are some of the streamed games I found of the Heidees Open team. Please note that this is not meant as an exhaustive list. If you found a video that I should add, please write me a message!"
+    "text": "Hier geht es zurück zum Projekt\n\n\n\n\n\n\n\n\n\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "private/ultimate_frisbee/heidees_open_streams.html#section",
-    "href": "private/ultimate_frisbee/heidees_open_streams.html#section",
-    "title": "Heidees Open Streams",
+    "objectID": "private/ultimate_frisbee/heidees_mixed_streams.html",
+    "href": "private/ultimate_frisbee/heidees_mixed_streams.html",
+    "title": "Heidees Mixed Streams",
+    "section": "",
+    "text": "Back to the overview\nHere are some of the streamed games I found of the Heidees Mixed team. Please note that this is not meant as an exhaustive list. If you found a video that I should add, please write me a message!"
+  },
+  {
+    "objectID": "private/ultimate_frisbee/heidees_mixed_streams.html#section",
+    "href": "private/ultimate_frisbee/heidees_mixed_streams.html#section",
+    "title": "Heidees Mixed Streams",
     "section": "2024",
-    "text": "2024\n\nHeidees vs. Munic Masters Open Pool B at the German Championships 2024 in Nuremberg, Germany\n\n\n    \n\n\n\n\nHeidees vs. 7 Schwaben Pool B at the German Championships 2024 in Nuremberg, Germany\n\n\n    \n\n\n\n\nHeidees vs. FrankN Pool B at the German Championships 2024 in Nuremberg, Germany\n\n\n    \n\n\n\n\nHeidees vs. Hardfish quarter final at the DFV Pokal 2024 in Gemmrigheim, Germany"
+    "text": "2024\n\nHeidees vs. Frizzly Bears at the German Championships 2024 in Aachen, Germany\n\n\n    \n\n\n\n\nHeidees vs. Nullacht! Ultimate at the German Championships 2024 in Aachen, Germany"
   },
   {
-    "objectID": "private/ultimate_frisbee/heidees_open_streams.html#section-1",
-    "href": "private/ultimate_frisbee/heidees_open_streams.html#section-1",
-    "title": "Heidees Open Streams",
-    "section": "2023",
-    "text": "2023\n\nHeidees vs. Wall City semi-final at the German Championships 2023 in Marburg, Germany\n\n\n    \n\n\n\n\nHeidees vs. BORA Pool B at the German Championships 2023 in Marburg, Germany\n\n\n    \n\n\n\n\nHeidees vs. Lahntalknaben Pool B at the German Championships 2023 in Marburg, Germany\n\n\n    \n\n\n\n\nHeidees vs. WaldStadt Pool B at the German Championships 2023 in Marburg, Germany\n\n\n    \n\n\n\n\nHeidees vs. BFD La Fotta quarter final at the Elite Invite 2023 in Bern, Switzerland\n\n\n    \n\n\n\n\nHeidees vs. FrankN match for 5th place at the DFV Pokal 2023 in Massenbach, Germany\n\n\n    \n\n\n\n\nHeidees vs. Ars Ludendi semi-final for 5th place at the DFV Pokal 2023 in Massenbach, Germany\n\n\n    \n\n\n\n\nHeidees vs. MUC cross-over game at the DFV Pokal 2023 in Massenbach, Germany"
+    "objectID": "private/ultimate_frisbee/heidees_mixed_streams.html#section-1",
+    "href": "private/ultimate_frisbee/heidees_mixed_streams.html#section-1",
+    "title": "Heidees Mixed Streams",
+    "section": "2014",
+    "text": "2014\n\nHeidees vs. Element at the WUCC 2014 in Lecco, Italy\n\n\n    \n\n\n\n\nHeidees vs. Drag’n Thrust at the WUCC 2014 in Lecco, Italy\n\n\n    \n\n\n\n\nHeidees vs. Vaasa Saints at the WUCC 2014 in Lecco, Italy\n\n\n    \n\n\n\n\nHeidees vs. Union at the WUCC 2014 in Lecco, Italy"
   },
   {
-    "objectID": "private/ultimate_frisbee/heidees_open_streams.html#section-2",
-    "href": "private/ultimate_frisbee/heidees_open_streams.html#section-2",
-    "title": "Heidees Open Streams",
-    "section": "2022",
-    "text": "2022\n\nHeidees vs. Ranelagh semi final at the EUCF 2022 in Caorle, Italy\n\n\n    \n\n\n\n\nHeidees vs. Bad Skid at the German Championships 2022 in Neuss, Germany\n\n\n    \n\n\n\n\nHeidees vs. Wall City Final at the German Championships 2022 in Neuss, Germany\n\n\n    \n\n\n\n\nHeidees vs. Bad Skid Game for 3rd Place at the DFV Pokal 2022 in Massenbach, Germany"
-  },
-  {
-    "objectID": "private/ultimate_frisbee/heidees_open_streams.html#section-3",
-    "href": "private/ultimate_frisbee/heidees_open_streams.html#section-3",
-    "title": "Heidees Open Streams",
-    "section": "2021",
-    "text": "2021\n\nHeidees vs. Bad Skid Qualification Tournament for WUCC 2021 in Strausberg, Germany\n\n\n    \n\n\n\n\nHeidees vs. Bad Skid at the Restart DM 2021 in Massenbach, Germany"
-  },
-  {
-    "objectID": "private/ultimate_frisbee/heidees_open_streams.html#section-4",
-    "href": "private/ultimate_frisbee/heidees_open_streams.html#section-4",
-    "title": "Heidees Open Streams",
+    "objectID": "private/ultimate_frisbee/heidees_mixed_streams.html#section-2",
+    "href": "private/ultimate_frisbee/heidees_mixed_streams.html#section-2",
+    "title": "Heidees Mixed Streams",
     "section": "2024",
-    "text": "2024\n\nHeidees vs. Hässliche Erdferkel semi final at the German Indoor Championship 2024 in Gemmrigheim, Germany"
+    "text": "2024\n\nHeidees vs. Hucks Ultimate Club at the German Indoor Championship 2024 in Geretsried, Germany\n\n\n    \n\n\n\n\nHeidees vs. Frizzly Bears at the German Indoor Championship 2024 in Geretsried, Germany\n\n\n    \n\n\n\n\nHeidees vs. Maultaschen at the German Indoor Championship 2024 in Geretsried, Germany\n\n\n    \n\n\n\n\nHeidees vs. Mainzelrenner at the German Indoor Championship 2024 in Geretsried, Germany"
   },
   {
-    "objectID": "private/ultimate_frisbee/heidees_women_streams.html",
-    "href": "private/ultimate_frisbee/heidees_women_streams.html",
-    "title": "Heidees Women Streams",
+    "objectID": "private/private_posts/summer_invite_2024.html",
+    "href": "private/private_posts/summer_invite_2024.html",
+    "title": "Summer Invite 2024",
     "section": "",
-    "text": "Back to the overview\nHere are some of the streamed games I found of the Heidees Women team. Please note that this is not meant as an exhaustive list. If you found a video that I should add, please write me a message!"
+    "text": "Starting this year, the European Ultimate Federation (EUF) has introduced a ranking system that calculates and updates a ranking of all registered teams after each set of tournaments. A detailed description of how it is calculated, why it is used and the current ranking is presented here.\nWe are currently (14th August 2024) ranked 19th. To qualify for the EUCF we need to get at least rank 16 or win the Summer Invite to get a wildcard to the finals. Luckily, we have some really good teams in our pool on Saturday and other great teams at the tournament who we hope to match up against on Sunday."
   },
   {
-    "objectID": "private/ultimate_frisbee/heidees_women_streams.html#section",
-    "href": "private/ultimate_frisbee/heidees_women_streams.html#section",
-    "title": "Heidees Women Streams",
-    "section": "2023",
-    "text": "2023\n\nHeidees vs. East Block at EUCF 2023 in Wrocklaw, Poland\n\n\n    \n\n\n\n\nHeidees vs. Seagulls Game to EUCF at the EUCR 2023 in Ghent, Belgium\n\n\n    \n\n\n\n\nHeidees vs. Woodchicas semi final at the German Championship 2023 in Freiburg, Germany\n\n\n    \n\n\n\n\nHeidees vs. Seagulls at the German Championship 2023 in Freiburg, Germany"
+    "objectID": "private/private_posts/summer_invite_2024.html#qualification-for-the-european-championships-eucf",
+    "href": "private/private_posts/summer_invite_2024.html#qualification-for-the-european-championships-eucf",
+    "title": "Summer Invite 2024",
+    "section": "",
+    "text": "Starting this year, the European Ultimate Federation (EUF) has introduced a ranking system that calculates and updates a ranking of all registered teams after each set of tournaments. A detailed description of how it is calculated, why it is used and the current ranking is presented here.\nWe are currently (14th August 2024) ranked 19th. To qualify for the EUCF we need to get at least rank 16 or win the Summer Invite to get a wildcard to the finals. Luckily, we have some really good teams in our pool on Saturday and other great teams at the tournament who we hope to match up against on Sunday."
   },
   {
-    "objectID": "private/ultimate_frisbee/heidees_women_streams.html#section-1",
-    "href": "private/ultimate_frisbee/heidees_women_streams.html#section-1",
-    "title": "Heidees Women Streams",
-    "section": "2013",
-    "text": "2013\n\nHeidees vs. Jinx at the German Championship 2013 in Frankfurt a.M., Germany"
+    "objectID": "private/private_posts/summer_invite_2024.html#schedule",
+    "href": "private/private_posts/summer_invite_2024.html#schedule",
+    "title": "Summer Invite 2024",
+    "section": "Schedule",
+    "text": "Schedule"
   },
   {
-    "objectID": "private/ultimate_frisbee/heidees_women_streams.html#section-2",
-    "href": "private/ultimate_frisbee/heidees_women_streams.html#section-2",
-    "title": "Heidees Women Streams",
-    "section": "2020",
-    "text": "2020\n\nHeidees vs. U de Cologne game for 5th place at the German Indoor Championships 2024 in Eppelheim, Germany"
-  },
-  {
-    "objectID": "private/private_posts/german_championship_first_weekend.html#streaming",
-    "href": "private/private_posts/german_championship_first_weekend.html#streaming",
-    "title": "First Weekend of the Open German Championships is coming up",
+    "objectID": "private/private_posts/summer_invite_2024.html#streaming",
+    "href": "private/private_posts/summer_invite_2024.html#streaming",
+    "title": "Summer Invite 2024",
     "section": "Streaming",
-    "text": "Streaming\nThe streams will be on the Youtube Channel of the German Frisbee Association (DFV).\n\nHeidees vs. Munic Masters Open (Sa., 9:00):\n\n\n    \n\n\n\n\nHeidees vs. 7 Schwaben (Sa., 12:20):\n\n\n    \n\n\n\n\nHeidees vs. FrankN (Su., 12:20):"
+    "text": "Streaming\nThe games will be streamed on Solidsports, a paid platform that is the new streaming partner of the EUF from 2024-2027. If you want, you can find the platform and buy a pass here.\nIt seems all of our three games on Saturday will be streamed on the platform. The streamed games for Sunday are not yet determined."
   },
   {
-    "objectID": "private/private_news.html",
-    "href": "private/private_news.html",
-    "title": "Tournaments",
+    "objectID": "private/ultimate_frisbee.html",
+    "href": "private/ultimate_frisbee.html",
+    "title": "Ultimate Frisbee",
     "section": "",
-    "text": "Summer Invite 2024\n\n\n\n\n\n\n\nUltimate Frisbee\n\n\nEuropean Ultimate Federation\n\n\n2024\n\n\n\n\nWe are trying to qualify for the european championships in September.\n\n\n\n\n\n\nAug 14, 2024\n\n\nCornelius Holler\n\n\n\n\n\n\n\n\n\n\n\n\n\nFirst Weekend of the Open German Championships is coming up\n\n\n\n\n\n\n\nUltimate Frisbee\n\n\nGerman Championships\n\n\n2024\n\n\n\n\nI will be playing with Heidees in Nuremberg. See the schedule and links to streamed games here.\n\n\n\n\n\n\nAug 6, 2024\n\n\nCornelius Holler\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+    "text": "I play Ultimate Frisbee actively since 2022 and competitively since 2023, where I first joined the Heidees Open team, which plays national and international tournaments. This year is my second season with the team and it is tons of fun.\nIf you don’t know what Ultimate is, here is the website on Ultimate by the World Flying Disc Federation (WFDF): https://wfdf.sport/disciplines/ultimate/"
+  },
+  {
+    "objectID": "private/ultimate_frisbee.html#want-to-watch-some-games",
+    "href": "private/ultimate_frisbee.html#want-to-watch-some-games",
+    "title": "Ultimate Frisbee",
+    "section": "Want to watch some games?",
+    "text": "Want to watch some games?\nIf you want to watch us and other Heidees teams play, here are some pages with numerous games by our different teams:\n\nHeidees Open streams\nHeidees Women streams\nHeidees Mixed streams"
   },
   {
     "objectID": "about.html",
@@ -177,9 +170,23 @@
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "Project Overview",
+    "title": "Projects",
     "section": "",
-    "text": "Poster auf der 35. Jahrestagung der deutschen Vereinigung für Sportwissenschaft vom 16. bis 18. Juni 2022 in Münster (ger)\nEntwicklung sozialer Beziehungen in Schulklasse und Sportunterricht (ger)\nAssigning Topics to (Groups of) Students in Seminars\n\n\n\n\n Back to top"
+    "text": "These are projects I did as a part of my dissertation.\n\nPoster auf der 35. Jahrestagung der deutschen Vereinigung für Sportwissenschaft vom 16. bis 18. Juni 2022 in Münster (ger)\n\nYou can find the video teaser and the poster I presented on the yearly conference by the section Sports Pedagogy of the German Society of Sport Science (dvs). It is both in German.\n\nEntwicklung sozialer Beziehungen in Schulklasse und Sportunterricht (ger)\n\nI planned and conducted a 1-year longitudinal social network study on peer relationships in physical education. This project page was sent to teachers and parents to inform them about the procedure and goal of the project."
+  },
+  {
+    "objectID": "projects.html#projects-related-to-my-dissertation",
+    "href": "projects.html#projects-related-to-my-dissertation",
+    "title": "Projects",
+    "section": "",
+    "text": "These are projects I did as a part of my dissertation.\n\nPoster auf der 35. Jahrestagung der deutschen Vereinigung für Sportwissenschaft vom 16. bis 18. Juni 2022 in Münster (ger)\n\nYou can find the video teaser and the poster I presented on the yearly conference by the section Sports Pedagogy of the German Society of Sport Science (dvs). It is both in German.\n\nEntwicklung sozialer Beziehungen in Schulklasse und Sportunterricht (ger)\n\nI planned and conducted a 1-year longitudinal social network study on peer relationships in physical education. This project page was sent to teachers and parents to inform them about the procedure and goal of the project."
+  },
+  {
+    "objectID": "projects.html#teaching-and-seminars",
+    "href": "projects.html#teaching-and-seminars",
+    "title": "Projects",
+    "section": "Teaching and Seminars",
+    "text": "Teaching and Seminars\nThese are projects I did in besides my dissertation.\n\nAssigning Topics to (Groups of) Students in Seminars\n\nThis is a program that I wrote to assign the students in my seminars to their preferred topic to present on. The students fill out a ranking of topics and tries to optimize the choices in a way that is preferential to the whole group. First I used it only inside of R but now I have published the program as a shiny app that is embedded into the page and you can use it yourself."
   },
   {
     "objectID": "posts/2024-07-23-gauging-acceptance.html",
@@ -252,95 +259,102 @@
     "text": "Conference Contributions\n\nPresentations\nSchüßler, A., Holler, C., & Hill, Y. (2024). Exploring Goal Orientation in Peer Networks: The Role of Multidimensional Achievement Goals in Physical Education. Presentation at the SUNBELT Conference by the International Network for Social Network Analysis (INSNA) from 24th-30th June 2024 in Edinburgh, Scotland.\nHoller, C. (2024). Veridikalität des sportunterrichtlichen Selbstkonzeptes und ihre Effekte auf die Anstrengungsbereitschaft und soziale Eingebundenheit im Sportunterricht [Veridicality of the physical education self-concept and it’s effects on the engagement and social embeddedness in physical education]. Presentation at the 37th yearly conference by the German Society of Sport Science (dvs) section sports pedagogy from 30th May to 1st June 2024 in Essen, Germany.\nHoller, C. &, Schüßler, A. (2023). Peerbeziehungen in der Schulklasse - Soziale Netzwerke im (Sport-)Unterricht [Peer relations in the gym - Social networks in physical education classes]. Presentation at the autumn conference of the section “Sociological Network Science” of the German Sociological Association (GSA) on 15th and 16th September 2023 in Cologne, Germany.\nHoller, C. (2023). Social networks, external and self-assessments of performance in physical education. Presentation at the 7th European Conference on Social Networks from 4th-8th September 2023 in Ljubljana, Slovenia.\nHoller, C. (2023). Soziale Netzwerke, Fremd- und Selbsteinschätzungen der sportunterrichtlichen Leistungsfähigkeit [Social networks, external and self-assessments of performance in physical education]. Presentation at the 36th yearly conference by the German Society of Sport Science (dvs) section sports pedagogy from 8th-10th June 2023 in Hamburg, Germany.\nHeim, R., &, Holler C. (2022). Peerbeziehungen in der Schulklasse. Soziale Netzwerke im (Sport-) Unterricht [Peer relations in the gym - Social networks in (physical) education classes]. Presentation at the Subject Didactics Conference 2022 by the German and Austrian Societies of Subject Didactics (GFD and ÖGFD) from 29th-31st August 2022 in Vienna, Austria.\nSchüßler, A., &, Holler, C. (2021). Soziale Netzwerke im Sportunterricht [Social networks in physical education]. Presentation at the yearly conference of the German Society of Network Science (DGNet) from 6th-7th September 2021 in Bayreuth, Germany.\n\n\nPoster\nHoller, C., Schüßler, A., &, Heim, R. (2022). Analyse des Wahlverhaltens von Schüler:innen in typischen sportunterrichtlichen Kontexten [Analysis of the nominations of students in typical collaboration settings in physical education]. Poster at the 35th yearly conference by the German Society of Sport Science (dvs) section sports pedagogy from 16th-18th June 2022 in Münster, Germany."
   },
   {
-    "objectID": "group_designation.html",
-    "href": "group_designation.html",
-    "title": "Gruppenzuweisung",
+    "objectID": "private/private_news.html",
+    "href": "private/private_news.html",
+    "title": "Tournaments",
     "section": "",
-    "text": "Ich habe für meine Seminare ein kleines Programm geschrieben, welches Studierenden(gruppen) zu Seminarthemen zuordnet, indem es die Rankings, die die Studierenden den Themen geben, optimiert.\n&lt;style&gt;\n    #myFrame { width:100%; height:100%; }\n&lt;/style&gt;\n\n&lt;iframe src=\"html_intro.asp\" id=\"myFrame\"&gt;\n&lt;p&gt;Hi SOF&lt;/p&gt;\n&lt;/iframe&gt;\n\n\n\n\n Back to top"
+    "text": "Summer Invite 2024\n\n\n\n\n\n\n\nUltimate Frisbee\n\n\nEuropean Ultimate Federation\n\n\n2024\n\n\n\n\nWe are trying to qualify for the european championships in September.\n\n\n\n\n\n\nAug 14, 2024\n\n\nCornelius Holler\n\n\n\n\n\n\n\n\n\n\n\n\n\nFirst Weekend of the Open German Championships is coming up\n\n\n\n\n\n\n\nUltimate Frisbee\n\n\nGerman Championships\n\n\n2024\n\n\n\n\nI will be playing with Heidees in Nuremberg. See the schedule and links to streamed games here.\n\n\n\n\n\n\nAug 6, 2024\n\n\nCornelius Holler\n\n\n\n\n\n\nNo matching items\n\n Back to top"
   },
   {
-    "objectID": "private/ultimate_frisbee.html",
-    "href": "private/ultimate_frisbee.html",
-    "title": "Ultimate Frisbee",
-    "section": "",
-    "text": "I play Ultimate Frisbee actively since 2022 and competitively since 2023, where I first joined the Heidees Open team, which plays national and international tournaments. This year is my second season with the team and it is tons of fun.\nIf you don’t know what Ultimate is, here is the website on Ultimate by the World Flying Disc Federation (WFDF): https://wfdf.sport/disciplines/ultimate/"
-  },
-  {
-    "objectID": "private/ultimate_frisbee.html#want-to-watch-some-games",
-    "href": "private/ultimate_frisbee.html#want-to-watch-some-games",
-    "title": "Ultimate Frisbee",
-    "section": "Want to watch some games?",
-    "text": "Want to watch some games?\nIf you want to watch us and other Heidees teams play, here are some pages with numerous games by our different teams:\n\nHeidees Open streams\nHeidees Women streams\nHeidees Mixed streams"
-  },
-  {
-    "objectID": "private/private_posts/summer_invite_2024.html",
-    "href": "private/private_posts/summer_invite_2024.html",
-    "title": "Summer Invite 2024",
-    "section": "",
-    "text": "Starting this year, the European Ultimate Federation (EUF) has introduced a ranking system that calculates and updates a ranking of all registered teams after each set of tournaments. A detailed description of how it is calculated, why it is used and the current ranking is presented here.\nWe are currently (14th August 2024) ranked 19th. To qualify for the EUCF we need to get at least rank 16 or win the Summer Invite to get a wildcard to the finals. Luckily, we have some really good teams in our pool on Saturday and other great teams at the tournament who we hope to match up against on Sunday."
-  },
-  {
-    "objectID": "private/private_posts/summer_invite_2024.html#qualification-for-the-european-championships-eucf",
-    "href": "private/private_posts/summer_invite_2024.html#qualification-for-the-european-championships-eucf",
-    "title": "Summer Invite 2024",
-    "section": "",
-    "text": "Starting this year, the European Ultimate Federation (EUF) has introduced a ranking system that calculates and updates a ranking of all registered teams after each set of tournaments. A detailed description of how it is calculated, why it is used and the current ranking is presented here.\nWe are currently (14th August 2024) ranked 19th. To qualify for the EUCF we need to get at least rank 16 or win the Summer Invite to get a wildcard to the finals. Luckily, we have some really good teams in our pool on Saturday and other great teams at the tournament who we hope to match up against on Sunday."
-  },
-  {
-    "objectID": "private/private_posts/summer_invite_2024.html#schedule",
-    "href": "private/private_posts/summer_invite_2024.html#schedule",
-    "title": "Summer Invite 2024",
-    "section": "Schedule",
-    "text": "Schedule"
-  },
-  {
-    "objectID": "private/private_posts/summer_invite_2024.html#streaming",
-    "href": "private/private_posts/summer_invite_2024.html#streaming",
-    "title": "Summer Invite 2024",
+    "objectID": "private/private_posts/german_championship_first_weekend.html#streaming",
+    "href": "private/private_posts/german_championship_first_weekend.html#streaming",
+    "title": "First Weekend of the Open German Championships is coming up",
     "section": "Streaming",
-    "text": "Streaming\nThe games will be streamed on Solidsports, a paid platform that is the new streaming partner of the EUF from 2024-2027. If you want, you can find the platform and buy a pass here.\nIt seems all of our three games on Saturday will be streamed on the platform. The streamed games for Sunday are not yet determined."
+    "text": "Streaming\nThe streams will be on the Youtube Channel of the German Frisbee Association (DFV).\n\nHeidees vs. Munic Masters Open (Sa., 9:00):\n\n\n    \n\n\n\n\nHeidees vs. 7 Schwaben (Sa., 12:20):\n\n\n    \n\n\n\n\nHeidees vs. FrankN (Su., 12:20):"
   },
   {
-    "objectID": "private/ultimate_frisbee/heidees_mixed_streams.html",
-    "href": "private/ultimate_frisbee/heidees_mixed_streams.html",
-    "title": "Heidees Mixed Streams",
+    "objectID": "private/ultimate_frisbee/heidees_women_streams.html",
+    "href": "private/ultimate_frisbee/heidees_women_streams.html",
+    "title": "Heidees Women Streams",
     "section": "",
-    "text": "Back to the overview\nHere are some of the streamed games I found of the Heidees Mixed team. Please note that this is not meant as an exhaustive list. If you found a video that I should add, please write me a message!"
+    "text": "Back to the overview\nHere are some of the streamed games I found of the Heidees Women team. Please note that this is not meant as an exhaustive list. If you found a video that I should add, please write me a message!"
   },
   {
-    "objectID": "private/ultimate_frisbee/heidees_mixed_streams.html#section",
-    "href": "private/ultimate_frisbee/heidees_mixed_streams.html#section",
-    "title": "Heidees Mixed Streams",
+    "objectID": "private/ultimate_frisbee/heidees_women_streams.html#section",
+    "href": "private/ultimate_frisbee/heidees_women_streams.html#section",
+    "title": "Heidees Women Streams",
+    "section": "2023",
+    "text": "2023\n\nHeidees vs. East Block at EUCF 2023 in Wrocklaw, Poland\n\n\n    \n\n\n\n\nHeidees vs. Seagulls Game to EUCF at the EUCR 2023 in Ghent, Belgium\n\n\n    \n\n\n\n\nHeidees vs. Woodchicas semi final at the German Championship 2023 in Freiburg, Germany\n\n\n    \n\n\n\n\nHeidees vs. Seagulls at the German Championship 2023 in Freiburg, Germany"
+  },
+  {
+    "objectID": "private/ultimate_frisbee/heidees_women_streams.html#section-1",
+    "href": "private/ultimate_frisbee/heidees_women_streams.html#section-1",
+    "title": "Heidees Women Streams",
+    "section": "2013",
+    "text": "2013\n\nHeidees vs. Jinx at the German Championship 2013 in Frankfurt a.M., Germany"
+  },
+  {
+    "objectID": "private/ultimate_frisbee/heidees_women_streams.html#section-2",
+    "href": "private/ultimate_frisbee/heidees_women_streams.html#section-2",
+    "title": "Heidees Women Streams",
+    "section": "2020",
+    "text": "2020\n\nHeidees vs. U de Cologne game for 5th place at the German Indoor Championships 2024 in Eppelheim, Germany"
+  },
+  {
+    "objectID": "private/ultimate_frisbee/heidees_open_streams.html",
+    "href": "private/ultimate_frisbee/heidees_open_streams.html",
+    "title": "Heidees Open Streams",
+    "section": "",
+    "text": "Back to the overview\nHere are some of the streamed games I found of the Heidees Open team. Please note that this is not meant as an exhaustive list. If you found a video that I should add, please write me a message!"
+  },
+  {
+    "objectID": "private/ultimate_frisbee/heidees_open_streams.html#section",
+    "href": "private/ultimate_frisbee/heidees_open_streams.html#section",
+    "title": "Heidees Open Streams",
     "section": "2024",
-    "text": "2024\n\nHeidees vs. Frizzly Bears at the German Championships 2024 in Aachen, Germany\n\n\n    \n\n\n\n\nHeidees vs. Nullacht! Ultimate at the German Championships 2024 in Aachen, Germany"
+    "text": "2024\n\nHeidees vs. Munic Masters Open Pool B at the German Championships 2024 in Nuremberg, Germany\n\n\n    \n\n\n\n\nHeidees vs. 7 Schwaben Pool B at the German Championships 2024 in Nuremberg, Germany\n\n\n    \n\n\n\n\nHeidees vs. FrankN Pool B at the German Championships 2024 in Nuremberg, Germany\n\n\n    \n\n\n\n\nHeidees vs. Hardfish quarter final at the DFV Pokal 2024 in Gemmrigheim, Germany"
   },
   {
-    "objectID": "private/ultimate_frisbee/heidees_mixed_streams.html#section-1",
-    "href": "private/ultimate_frisbee/heidees_mixed_streams.html#section-1",
-    "title": "Heidees Mixed Streams",
-    "section": "2014",
-    "text": "2014\n\nHeidees vs. Element at the WUCC 2014 in Lecco, Italy\n\n\n    \n\n\n\n\nHeidees vs. Drag’n Thrust at the WUCC 2014 in Lecco, Italy\n\n\n    \n\n\n\n\nHeidees vs. Vaasa Saints at the WUCC 2014 in Lecco, Italy\n\n\n    \n\n\n\n\nHeidees vs. Union at the WUCC 2014 in Lecco, Italy"
+    "objectID": "private/ultimate_frisbee/heidees_open_streams.html#section-1",
+    "href": "private/ultimate_frisbee/heidees_open_streams.html#section-1",
+    "title": "Heidees Open Streams",
+    "section": "2023",
+    "text": "2023\n\nHeidees vs. Wall City semi-final at the German Championships 2023 in Marburg, Germany\n\n\n    \n\n\n\n\nHeidees vs. BORA Pool B at the German Championships 2023 in Marburg, Germany\n\n\n    \n\n\n\n\nHeidees vs. Lahntalknaben Pool B at the German Championships 2023 in Marburg, Germany\n\n\n    \n\n\n\n\nHeidees vs. WaldStadt Pool B at the German Championships 2023 in Marburg, Germany\n\n\n    \n\n\n\n\nHeidees vs. BFD La Fotta quarter final at the Elite Invite 2023 in Bern, Switzerland\n\n\n    \n\n\n\n\nHeidees vs. FrankN match for 5th place at the DFV Pokal 2023 in Massenbach, Germany\n\n\n    \n\n\n\n\nHeidees vs. Ars Ludendi semi-final for 5th place at the DFV Pokal 2023 in Massenbach, Germany\n\n\n    \n\n\n\n\nHeidees vs. MUC cross-over game at the DFV Pokal 2023 in Massenbach, Germany"
   },
   {
-    "objectID": "private/ultimate_frisbee/heidees_mixed_streams.html#section-2",
-    "href": "private/ultimate_frisbee/heidees_mixed_streams.html#section-2",
-    "title": "Heidees Mixed Streams",
+    "objectID": "private/ultimate_frisbee/heidees_open_streams.html#section-2",
+    "href": "private/ultimate_frisbee/heidees_open_streams.html#section-2",
+    "title": "Heidees Open Streams",
+    "section": "2022",
+    "text": "2022\n\nHeidees vs. Ranelagh semi final at the EUCF 2022 in Caorle, Italy\n\n\n    \n\n\n\n\nHeidees vs. Bad Skid at the German Championships 2022 in Neuss, Germany\n\n\n    \n\n\n\n\nHeidees vs. Wall City Final at the German Championships 2022 in Neuss, Germany\n\n\n    \n\n\n\n\nHeidees vs. Bad Skid Game for 3rd Place at the DFV Pokal 2022 in Massenbach, Germany"
+  },
+  {
+    "objectID": "private/ultimate_frisbee/heidees_open_streams.html#section-3",
+    "href": "private/ultimate_frisbee/heidees_open_streams.html#section-3",
+    "title": "Heidees Open Streams",
+    "section": "2021",
+    "text": "2021\n\nHeidees vs. Bad Skid Qualification Tournament for WUCC 2021 in Strausberg, Germany\n\n\n    \n\n\n\n\nHeidees vs. Bad Skid at the Restart DM 2021 in Massenbach, Germany"
+  },
+  {
+    "objectID": "private/ultimate_frisbee/heidees_open_streams.html#section-4",
+    "href": "private/ultimate_frisbee/heidees_open_streams.html#section-4",
+    "title": "Heidees Open Streams",
     "section": "2024",
-    "text": "2024\n\nHeidees vs. Hucks Ultimate Club at the German Indoor Championship 2024 in Geretsried, Germany\n\n\n    \n\n\n\n\nHeidees vs. Frizzly Bears at the German Indoor Championship 2024 in Geretsried, Germany\n\n\n    \n\n\n\n\nHeidees vs. Maultaschen at the German Indoor Championship 2024 in Geretsried, Germany\n\n\n    \n\n\n\n\nHeidees vs. Mainzelrenner at the German Indoor Championship 2024 in Geretsried, Germany"
+    "text": "2024\n\nHeidees vs. Hässliche Erdferkel semi final at the German Indoor Championship 2024 in Gemmrigheim, Germany"
   },
   {
-    "objectID": "call_for_teachers.html",
-    "href": "call_for_teachers.html",
-    "title": "Anschreiben für (Sport-)Lehrkräfte",
+    "objectID": "poster_dvs2022.html",
+    "href": "poster_dvs2022.html",
+    "title": "Poster auf der 35. Jahrestagung der Deutschen Vereinigung für Sportwissenschaft vom 16. bis 18. Juni 2022 in Münster",
     "section": "",
-    "text": "Hier geht es zurück zum Projekt\n\n\n\n\n\n\n\n\n\n\n\n\n\n Back to top"
+    "text": "Hier geht es zurück zur Übersicht der Projekte\n\nTeaser\n\n\n    \n\n\n\n\nPoster\n\n\n\n\n\n\n\nErgänzende Informationen zum Poster\n\nAls Regressionsanalyse für Netzwerkdaten wurde die double semi-partialling Methode der multiple regression quadratic assignment procedure (MR-QAP) verwendet (Dekker et al., 2007). Die MR-QAP verwendet Permutationen zur Berechnung der Signifikanzwerte, da die Netzwerke gegen die Annahme der Unabhängigkeit der Beobachtungen der klassischen Testtheorie verstößt. Die double semi-partialling Methode ist besonders robust gegen Autokorrelation und Kolinearität der Prädiktornetzwerke.\nUm Attributsdaten in Netzwerkregressionen zu verwenden, müssen Annahmen getroffen werden um die Attribute in Netzwerke umzuwandeln. Auf dem Poster sind zwei dieser Annahmen durch match oder receiver verdeutlicht worden. Weitere Methoden sind in Borgatti et al. (2018) in Kap. 8.4 näher erläutert\n\nmatch\n\nAuf Basis der Homophilie (McPherson et al., 2001) wird angenommen, dass Sozialbeziehungen vermehrt zwischen Menschen auftreten, die sich in gewissen Merkmalen ähnlich sind. Das Attribut des Geschlechts wird also so in Netzwerkdaten umgewandelt, indem alleinig zwischen gleichgeschlechtlichen Schüler:innen eine Beziehung angenommen wird. In der Regression wird dann überprüft, inwiefern das Kriteriumsnetzwerk auch durch diese Geschlechtertrennung charakterisiert wird.\n\nreceiver\n\nDer receiver-Effekt basiert auf der Annahme, dass Hilfesuchende sich, unabhängig des eigenen Leistungsniveaus, stets zu dem/der Besten wenden, um Rat zu suchen. Übertragen auf die Sportnote entspricht dies der Annahme, dass alle Schüler:innen mit den Mitschüler:innen mit der besten Note zusammenarbeiten wollen. Es entspricht also der Annahme einer konventionellen Regressionsanalyse.\n\n\n\n\n(Weiterführende) Literatur\nBorgatti, S. P., Everett, M. G., &, Johnson, J. C. (2018). Analyzing social networks (2nd ed.). SAGE.\nBortz, J., &, Schuster, C. (2010). Statistik für Human- und Sozialwissenschaftler (7. Aufl.). Springer.\nCohen, J. (1988). Statistical power analysis for the behavioral sciences (2nd ed). L. Erlbaum Associates.\nDekker, D., Krackhardt, D., &, Snijders, T. A. B. (2007). Sensitivity of MRQAP Tests to Collinearity and Autocorrelation Conditions. Psychometrika, 72(4), 563–581. https://doi.org/10.1007/s11336-007-9016-1\nHenke, T. (2022). Grundlagen der Messung sozialer Strukturen und Verfahren zur Analyse von Peerbeziehungen im Klassenzimmer. In M. Kreutzmann, L. Zander, & B. Hannover (Hrsg.), Aufwachsen mit Anderen. Peerbeziehungen als Bildungsfaktor (S. 24–37). Verlag W. Kohlhammer.\nMcPherson, M., Smith-Lovin, L., &, Cook, J. M. (2001). Birds of a Feather: Homophily in Social Networks. Annual Review of Sociology, 27(1), 415–444. https://doi.org/10.1146/annurev.soc.27.1.415\nMejeh, M., &, Hascher, T. (2021). Soziale Netzwerkanalyse als Erfassungsinstrument sozialer Interaktionen in der Schule. In G. Hagenauer & D. Raufelder, Soziale Eingebundenheit. Sozialbeziehungen im Fokus von Schule und Lehrer*innenbildung. Waxmann.\n\n\nKontakt\nCornelius Holler\nRuprecht-Karls-Universität Heidelberg\nInstitut für Sport und Sportwissenschaft\nIm Neuenheimer Feld 700\n69120 Heidelberg\ncornelius.holler@issw.uni-heidelberg.de\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "CV.html",
-    "href": "CV.html",
-    "title": "CV",
+    "objectID": "private.html",
+    "href": "private.html",
+    "title": "Private",
     "section": "",
-    "text": "Last updated October 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n Back to top"
+    "text": "Ultimate Frisbee\n\nIn my free time, I love to play Ultimate Frisbee and I participate in national and international tournaments with Heidees. You can find information about Ultimate and videos of our games on the linked websites.\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "data_protection_SoNiS.html",

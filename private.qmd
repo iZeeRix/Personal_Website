@@ -1,0 +1,7 @@
+---
+title: "Private"
+---
+
+-   [Ultimate Frisbee](private/ultimate_frisbee.qmd)
+
+    -   In my free time, I love to play Ultimate Frisbee and I participate in national and international tournaments with *Heidees.* You can find information about Ultimate and videos of our games on the linked websites.
