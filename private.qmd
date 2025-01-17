@@ -1,5 +1,5 @@
 ---
-title: "Private"
+title: "About Me"
 ---
 
 -   [Ultimate Frisbee](private/ultimate_frisbee.qmd)

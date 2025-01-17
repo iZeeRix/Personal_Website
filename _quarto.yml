@@ -34,14 +34,14 @@ website:
       - href: publications.qmd
         text: Publications
       - href: private.qmd
-        text: Private
+        text: About Me
         # menu:
         #   - href: private/ultimate_frisbee.qmd
         #     text: Ultimate Frisbee
         #   - href: private/private_news.qmd
         #     text: Tournaments
   back-to-top-navigation: true
-  page-footer: "Cornelius Holler, 2024"
+  page-footer: "Cornelius Holler, 2025"
     # left: 
       # - text: Cornelius Holler, 2024
       #   href: index.html

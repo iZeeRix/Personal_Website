@@ -31,6 +31,6 @@ DE - Germany
 
 {{< ai orcid size=xl >}} [ORCID](https://orcid.org/0009-0008-6599-8971){target="_blank"}
 
-{{< iconify ri twitter-x-fill size=xl >}} [Twitter / X](https://twitter.com/CorneliusHoller){target="_blank"}
+![](Attachments/Pictures/Bluesky.png){width="27" height="24"} [Bluesky](https://bsky.app/profile/corneliusholler.de){target="_blank"}
 
 {{< iconify mdi linkedin size=xl >}} [LinkedIn](https://www.linkedin.com/in/cornelius-holler/){target="_blank"}
