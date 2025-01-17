@@ -19,6 +19,7 @@ Here are some of the streamed games I found of the Heidees Open team. Please not
 
 </center>
 ```
+
 ### Heidees vs. 7 Schwaben Pool B at the German Championships 2024 in Nuremberg, Germany
 
 ```{=html}
@@ -28,6 +29,7 @@ Here are some of the streamed games I found of the Heidees Open team. Please not
 
 </center>
 ```
+
 ### Heidees vs. FrankN Pool B at the German Championships 2024 in Nuremberg, Germany
 
 ```{=html}
@@ -37,6 +39,7 @@ Here are some of the streamed games I found of the Heidees Open team. Please not
 
 </center>
 ```
+
 ### Heidees vs. Hardfish quarter final at the DFV Pokal 2024 in Gemmrigheim, Germany
 
 ```{=html}
@@ -46,6 +49,7 @@ Here are some of the streamed games I found of the Heidees Open team. Please not
 
 </center>
 ```
+
 ## 2023
 
 ### Heidees vs. Wall City semi-final at the German Championships 2023 in Marburg, Germany
@@ -57,6 +61,7 @@ Here are some of the streamed games I found of the Heidees Open team. Please not
 
 </center>
 ```
+
 ### Heidees vs. BORA Pool B at the German Championships 2023 in Marburg, Germany
 
 ```{=html}
@@ -66,6 +71,7 @@ Here are some of the streamed games I found of the Heidees Open team. Please not
 
 </center>
 ```
+
 ### Heidees vs. Lahntalknaben Pool B at the German Championships 2023 in Marburg, Germany
 
 ```{=html}
@@ -75,6 +81,7 @@ Here are some of the streamed games I found of the Heidees Open team. Please not
 
 </center>
 ```
+
 ### Heidees vs. WaldStadt Pool B at the German Championships 2023 in Marburg, Germany
 
 ```{=html}
@@ -84,6 +91,7 @@ Here are some of the streamed games I found of the Heidees Open team. Please not
 
 </center>
 ```
+
 ### Heidees vs. BFD La Fotta quarter final at the Elite Invite 2023 in Bern, Switzerland
 
 ```{=html}
@@ -93,6 +101,7 @@ Here are some of the streamed games I found of the Heidees Open team. Please not
 
 </center>
 ```
+
 ### Heidees vs. FrankN match for 5th place at the DFV Pokal 2023 in Massenbach, Germany
 
 ```{=html}
@@ -102,6 +111,7 @@ Here are some of the streamed games I found of the Heidees Open team. Please not
 
 </center>
 ```
+
 ### Heidees vs. Ars Ludendi semi-final for 5th place at the DFV Pokal 2023 in Massenbach, Germany
 
 ```{=html}
@@ -111,6 +121,7 @@ Here are some of the streamed games I found of the Heidees Open team. Please not
 
 </center>
 ```
+
 ### Heidees vs. MUC cross-over game at the DFV Pokal 2023 in Massenbach, Germany
 
 ```{=html}
@@ -120,6 +131,7 @@ Here are some of the streamed games I found of the Heidees Open team. Please not
 
 </center>
 ```
+
 ## 2022
 
 ### Heidees vs. Ranelagh semi final at the EUCF 2022 in Caorle, Italy
@@ -131,6 +143,7 @@ Here are some of the streamed games I found of the Heidees Open team. Please not
 
 </center>
 ```
+
 ### Heidees vs. Bad Skid at the German Championships 2022 in Neuss, Germany
 
 ```{=html}
@@ -140,6 +153,7 @@ Here are some of the streamed games I found of the Heidees Open team. Please not
 
 </center>
 ```
+
 ### Heidees vs. Wall City Final at the German Championships 2022 in Neuss, Germany
 
 ```{=html}
@@ -149,6 +163,7 @@ Here are some of the streamed games I found of the Heidees Open team. Please not
 
 </center>
 ```
+
 ### Heidees vs. Bad Skid Game for 3rd Place at the DFV Pokal 2022 in Massenbach, Germany
 
 ```{=html}
@@ -158,6 +173,7 @@ Here are some of the streamed games I found of the Heidees Open team. Please not
 
 </center>
 ```
+
 ## 2021
 
 ### Heidees vs. Bad Skid Qualification Tournament for WUCC 2021 in Strausberg, Germany
@@ -169,6 +185,7 @@ Here are some of the streamed games I found of the Heidees Open team. Please not
 
 </center>
 ```
+
 ### Heidees vs. Bad Skid at the Restart DM 2021 in Massenbach, Germany
 
 ```{=html}
@@ -178,6 +195,7 @@ Here are some of the streamed games I found of the Heidees Open team. Please not
 
 </center>
 ```
+
 # Indoor
 
 ## 2024
