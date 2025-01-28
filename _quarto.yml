@@ -67,7 +67,7 @@ website:
 format:
   html:
     theme: 
-      light: lux
+      light: [lux,theme-light.scss]
       dark: [cyborg,theme-dark.scss]
     mainfont: Nunito Sans 
     # noice also jetzt sowohl light als auch dark mode gleicher font
