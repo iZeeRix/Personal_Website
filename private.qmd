@@ -5,3 +5,11 @@ title: "About Me"
 -   [Ultimate Frisbee](private/ultimate_frisbee.qmd)
 
     -   In my free time, I love to play Ultimate Frisbee and I participate in national and international tournaments with *Heidees.* You can find information about Ultimate and videos of our games on the linked websites.
+
+-   [Cooking](https://corneliusholler.shinyapps.io/Meal_and_shopping_list_planner/){target="_blank"} (ger)
+
+    -   My partner and I both love to cook and do it on a daily basis. Because writing shopping lists can be tedious and time consuming, I wrote a small shiny app to help with that. It can display our recipes but also add up the ingredients of multiple recipes to form one shopping list.
+
+    -   Because we are both vegan, using plant based products is always implied and we don't use this label in our recipes.
+
+    -   The App is in a very early stage. If you have suggestions or nice recipes we should try, feel free to reach out!

@@ -172,21 +172,21 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "These are projects I did as a part of my dissertation.\n\nPoster auf der 35. Jahrestagung der deutschen Vereinigung für Sportwissenschaft vom 16. bis 18. Juni 2022 in Münster (ger)\n\nYou can find the video teaser and the poster I presented on the yearly conference by the section Sports Pedagogy of the German Society of Sport Science (dvs). It is both in German.\n\nEntwicklung sozialer Beziehungen in Schulklasse und Sportunterricht (ger)\n\nI planned and conducted a 1-year longitudinal social network study on peer relationships in physical education. This project page was sent to teachers and parents to inform them about the procedure and goal of the project."
+    "text": "These are projects I did as a part of my dissertation.\n\n\nI planned and conducted a 1-year longitudinal social network study on peer relationships in physical education. The data collection was done during the 2023/24 school year and finished in July 2024.\n\nData Overview\n\nYou can download the preliminary version of the data overview here. Because the dataset is an important part of my PhD, I cannot yet publish the raw data, but plan to do it long term. I am open to collaborating on research projects, so if you want to work together on a paper using this data, please write me an e-mail!\n\nEntwicklung sozialer Beziehungen in Schulklasse und Sportunterricht (ger)\n\nThis project page was sent to teachers and parents to inform them about the procedure and goal of the project.\n\n\n\n\n\n\nPoster auf der 35. Jahrestagung der deutschen Vereinigung für Sportwissenschaft vom 16. bis 18. Juni 2022 in Münster (ger)\n\nYou can find the video teaser and the poster I presented on the yearly conference by the section Sports Pedagogy of the German Society of Sport Science (dvs). It is both in German."
   },
   {
     "objectID": "projects.html#projects-related-to-my-dissertation",
     "href": "projects.html#projects-related-to-my-dissertation",
     "title": "Projects",
     "section": "",
-    "text": "These are projects I did as a part of my dissertation.\n\nPoster auf der 35. Jahrestagung der deutschen Vereinigung für Sportwissenschaft vom 16. bis 18. Juni 2022 in Münster (ger)\n\nYou can find the video teaser and the poster I presented on the yearly conference by the section Sports Pedagogy of the German Society of Sport Science (dvs). It is both in German.\n\nEntwicklung sozialer Beziehungen in Schulklasse und Sportunterricht (ger)\n\nI planned and conducted a 1-year longitudinal social network study on peer relationships in physical education. This project page was sent to teachers and parents to inform them about the procedure and goal of the project."
+    "text": "These are projects I did as a part of my dissertation.\n\n\nI planned and conducted a 1-year longitudinal social network study on peer relationships in physical education. The data collection was done during the 2023/24 school year and finished in July 2024.\n\nData Overview\n\nYou can download the preliminary version of the data overview here. Because the dataset is an important part of my PhD, I cannot yet publish the raw data, but plan to do it long term. I am open to collaborating on research projects, so if you want to work together on a paper using this data, please write me an e-mail!\n\nEntwicklung sozialer Beziehungen in Schulklasse und Sportunterricht (ger)\n\nThis project page was sent to teachers and parents to inform them about the procedure and goal of the project.\n\n\n\n\n\n\nPoster auf der 35. Jahrestagung der deutschen Vereinigung für Sportwissenschaft vom 16. bis 18. Juni 2022 in Münster (ger)\n\nYou can find the video teaser and the poster I presented on the yearly conference by the section Sports Pedagogy of the German Society of Sport Science (dvs). It is both in German."
   },
   {
-    "objectID": "projects.html#teaching-and-seminars",
-    "href": "projects.html#teaching-and-seminars",
+    "objectID": "projects.html#other-projects",
+    "href": "projects.html#other-projects",
     "title": "Projects",
-    "section": "Teaching and Seminars",
-    "text": "Teaching and Seminars\nThese are projects I did in besides my dissertation.\n\nAssigning Topics to (Groups of) Students in Seminars\n\nThis is a program that I wrote to assign the students in my seminars to their preferred topic to present on. The students fill out a ranking of topics and tries to optimize the choices in a way that is preferential to the whole group. First I used it only inside of R but now I have published the program as a shiny app that is embedded into the page and you can use it yourself."
+    "section": "Other Projects",
+    "text": "Other Projects\nThese are projects I did in besides my dissertation.\n\nR package for analyzing school social network data\nAlready during my masters thesis, I started writing a package to help me and my colleagues with the data analysis. Over the years, I have developed it further, added more functions and options and it has been really useful for me. Because we use the same data structure for all our data collection efforts, the package is easily used with all of them. I have built the package locally and use it on a daily basis, but have not yet come around to bring it into a published form. My plan is to publish the package at some point on GitHub for everyone to use. For now, I have compiled the functions in one .R file so you can use it via “source()”.\n\nSoNiS.SNA.0.0.1.12.R\n\n\n\nR function and shiny app to sort assign students to topics in seminars\nThis is a program that I wrote to assign the students in my seminars to their preferred topic to present on. The students fill out a ranking of topics and tries to optimize the choices in a way that is preferential to the whole group. First I used it only inside of R but now I have published the program as a shiny app that is embedded into the page and you can use it yourself.\n\nAssigning Topics to (Groups of) Students in Seminars"
   },
   {
     "objectID": "posts/2024-07-23-gauging-acceptance.html",
@@ -354,7 +354,7 @@
     "href": "private.html",
     "title": "About Me",
     "section": "",
-    "text": "Ultimate Frisbee\n\nIn my free time, I love to play Ultimate Frisbee and I participate in national and international tournaments with Heidees. You can find information about Ultimate and videos of our games on the linked websites.\n\n\n\n\n\n Back to top"
+    "text": "Ultimate Frisbee\n\nIn my free time, I love to play Ultimate Frisbee and I participate in national and international tournaments with Heidees. You can find information about Ultimate and videos of our games on the linked websites.\n\nCooking (ger)\n\nMy partner and I both love to cook and do it on a daily basis. Because writing shopping lists can be tedious and time consuming, I wrote a small shiny app to help with that. It can display our recipes but also add up the ingredients of multiple recipes to form one shopping list.\nBecause we are both vegan, using plant based products is always implied and we don’t use this label in our recipes.\nThe App is in a very early stage. If you have suggestions or nice recipes we should try, feel free to reach out!\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "data_protection_SoNiS.html",

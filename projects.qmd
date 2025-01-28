@@ -6,17 +6,36 @@ title: "Projects"
 
 These are projects I did as a part of my dissertation.
 
+### SNAP-PE
+
+I planned and conducted a 1-year longitudinal social network study on peer relationships in physical education. The data collection was done during the 2023/24 school year and finished in July 2024.
+
+-   [Data Overview](/Attachments/Documents/Dataset_Overview_SNAP-PE.pdf)
+
+    -   You can download the preliminary version of the data overview here. Because the dataset is an important part of my PhD, I cannot yet publish the raw data, but plan to do it long term. I am open to collaborating on research projects, so if you want to work together on a paper using this data, please write me an e-mail!
+
+-   [Entwicklung sozialer Beziehungen in Schulklasse und Sportunterricht (ger)](development_study2023.qmd)
+
+    -   This project page was sent to teachers and parents to inform them about the procedure and goal of the project.
+
+### Poster and Supplementary Material for the Yearly Conference of the German Society of Sport Science (dvs) Section Sports Pedagogy 2022
+
 -   [Poster auf der 35. Jahrestagung der deutschen Vereinigung für Sportwissenschaft vom 16. bis 18. Juni 2022 in Münster (ger)](poster_dvs2022.qmd)
 
     -   You can find the video teaser and the poster I presented on the yearly conference by the section Sports Pedagogy of the German Society of Sport Science (dvs). It is both in German.
 
--   [Entwicklung sozialer Beziehungen in Schulklasse und Sportunterricht (ger)](development_study2023.qmd)
-
-    -   I planned and conducted a 1-year longitudinal social network study on peer relationships in physical education. This project page was sent to teachers and parents to inform them about the procedure and goal of the project.
-
-## Teaching and Seminars
+## Other Projects
 
 These are projects I did in besides my dissertation.
 
+### R package for analyzing school social network data
+
+Already during my masters thesis, I started writing a package to help me and my colleagues with the data analysis. Over the years, I have developed it further, added more functions and options and it has been really useful for me. Because we use the same data structure for all our data collection efforts, the package is easily used with all of them. I have built the package locally and use it on a daily basis, but have not yet come around to bring it into a published form. My plan is to publish the package at some point on GitHub for everyone to use. For now, I have compiled the functions in one .R file so you can use it via "source()".
+
+-   [SoNiS.SNA.0.0.1.12.R](/Attachments/Documents/SoNiS.SNA.0.0.1.12.R){target="_blank"}
+
+### R function and shiny app to sort assign students to topics in seminars
+
+This is a program that I wrote to assign the students in my seminars to their preferred topic to present on. The students fill out a ranking of topics and tries to optimize the choices in a way that is preferential to the whole group. First I used it only inside of R but now I have published the program as a shiny app that is embedded into the page and you can use it yourself.
+
 -   [Assigning Topics to (Groups of) Students in Seminars](group_assignment.qmd)
-    -   This is a program that I wrote to assign the students in my seminars to their preferred topic to present on. The students fill out a ranking of topics and tries to optimize the choices in a way that is preferential to the whole group. First I used it only inside of R but now I have published the program as a shiny app that is embedded into the page and you can use it yourself.
