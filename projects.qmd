@@ -12,7 +12,7 @@ I planned and conducted a 1-year longitudinal social network study on peer relat
 
 -   [Data Overview](/Attachments/Documents/Dataset_Overview_SNAP-PE.pdf)
 
-    -   You can download the preliminary version of the data overview here. Because the dataset is an important part of my PhD, I cannot yet publish the raw data, but plan to do it long term. I am open to collaborating on research projects, so if you want to work together on a paper using this data, please write me an e-mail!
+    -   You can download the preliminary version of the data overview here. Because the dataset is an important part of my PhD, I cannot yet publish the raw data, but plan to do it long term. I am open to collaborating on research projects, so if you want to work together on a paper using this data, please write me an [e-mail](mailto:cornelius.holler@issw.uni-heidelberg.de)!
 
 -   [Entwicklung sozialer Beziehungen in Schulklasse und Sportunterricht (ger)](development_study2023.qmd)
 
