@@ -10,99 +10,34 @@ Here are some of the streamed games I found of the Heidees Mixed team. Please no
 
 ## 2024
 
-### Heidees vs. Frizzly Bears at the German Championships 2024 in Aachen, Germany
+### German Championships 2025 in Aachen, Germany
 
-```{=html}
-<center>
+-   [Heidees vs. Frizzly Bears](https://www.youtube.com/watch?v=qzTx0ljt-Lw){target="_blank"}
 
-    <iframe width="640" height="360" src="https://www.youtube.com/embed/qzTx0ljt-Lw"></iframe>
+-   [Heidees vs. Nullacht! Ultimate](https://www.youtube.com/watch?v=RPzYGCWwcFw){target="_blank"}
 
-</center>
-```
-### Heidees vs. Nullacht! Ultimate at the German Championships 2024 in Aachen, Germany
-
-```{=html}
-<center>
-
-    <iframe width="640" height="360" src="https://www.youtube.com/embed/RPzYGCWwcFw"></iframe>
-
-</center>
-```
 ## 2014
 
-### Heidees vs. Element at the WUCC 2014 in Lecco, Italy
+### WUCC 2014 in Lecco, Italy
 
-```{=html}
-<center>
+-   [Heidees vs. Element](https://www.youtube.com/watch?v=x_VLeIU3KU0){target="_blank"}
 
-    <iframe width="640" height="360" src="https://www.youtube.com/embed/x_VLeIU3KU0"></iframe>
+-   [Heidees vs. Drag'n Thrust](https://www.youtube.com/watch?v=blCxCYpDWB8){target="_blank"}
 
-</center>
-```
-### Heidees vs. Drag'n Thrust at the WUCC 2014 in Lecco, Italy
+-   [Heidees vs. Vaasa Saints](https://www.youtube.com/watch?v=AKBd8c695UA){target="_blank"}
 
-```{=html}
-<center>
+-   [Heidees vs. Union](https://www.youtube.com/watch?v=OwK-SI5sik8){target="_blank"}
 
-    <iframe width="640" height="360" src="https://www.youtube.com/embed/blCxCYpDWB8"></iframe>
-
-</center>
-```
-### Heidees vs. Vaasa Saints at the WUCC 2014 in Lecco, Italy
-
-```{=html}
-<center>
-
-    <iframe width="640" height="360" src="https://www.youtube.com/embed/AKBd8c695UA"></iframe>
-
-</center>
-```
-### Heidees vs. Union at the WUCC 2014 in Lecco, Italy
-
-```{=html}
-<center>
-
-    <iframe width="640" height="360" src="https://www.youtube.com/embed/OwK-SI5sik8"></iframe>
-
-</center>
-```
 # Indoor
 
 ## 2024
 
-### Heidees vs. Hucks Ultimate Club at the German Indoor Championship 2024 in Geretsried, Germany
+### German Indoor Championship 2024 in Geretsried, Germany
 
-```{=html}
-<center>
+-   [Heidees vs. Hucks Ultimate Club](https://www.youtube.com/watch?v=CwBH-S3_J4w){target="_blank"}
 
-    <iframe width="640" height="360" src="https://www.youtube.com/embed/CwBH-S3_J4w"></iframe>
+-   [Heidees vs. Frizzly Bears](https://www.youtube.com/watch?v=P341JYOyREI){target="_blank"}
 
-</center>
-```
-### Heidees vs. Frizzly Bears at the German Indoor Championship 2024 in Geretsried, Germany
+-   [Heidees vs. Maultaschen](https://www.youtube.com/watch?v=PN_00viIhMk){target="_blank"}
 
-```{=html}
-<center>
-
-    <iframe width="640" height="360" src="https://www.youtube.com/embed/P341JYOyREI"></iframe>
-
-</center>
-```
-### Heidees vs. Maultaschen at the German Indoor Championship 2024 in Geretsried, Germany
-
-```{=html}
-<center>
-
-    <iframe width="640" height="360" src="https://www.youtube.com/embed/PN_00viIhMk"></iframe>
-
-</center>
-```
-### Heidees vs. Mainzelrenner at the German Indoor Championship 2024 in Geretsried, Germany
-
-```{=html}
-<center>
-
-    <iframe width="640" height="360" src="https://www.youtube.com/embed/9xKbEcbCblA"></iframe>
-
-</center>
-```
+-   [Heidees vs. Mainzelrenner](https://www.youtube.com/watch?v=9xKbEcbCblA){target="_blank"}
