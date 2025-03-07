@@ -10,202 +10,104 @@ Here are some of the streamed games I found of the Heidees Open team. Please not
 
 ## 2024
 
-### Heidees vs. Munic Masters Open Pool B at the German Championships 2024 in Nuremberg, Germany
+### German Championships in Nuremberg, Germany
 
-```{=html}
-<center>
+-   [Heidees vs. Munich Masters Open](https://www.youtube.com/watch?v=VqGFhPKdvzA){target="_blank"} (Pool B)
 
-    <iframe width="640" height="360" src="https://www.youtube.com/embed/VqGFhPKdvzA"></iframe>
+-   [Heidees vs. 7 Schwaben](https://www.youtube.com/watch?v=hiDxg4TxGvU){target="_blank"} (Pool B)
 
-</center>
-```
+-   [Heidees vs. FrankN](https://www.youtube.com/watch?v=NsuiPsTE1dw){target="_blank"} (Pool B)
 
-### Heidees vs. 7 Schwaben Pool B at the German Championships 2024 in Nuremberg, Germany
+-   [Heidees vs. MUC](https://www.youtube.com/watch?v=YJDhfo-oTHk){target="_blank"} (Quarter-Final)
 
-```{=html}
-<center>
+-   [Heidees vs. Bad Skid](https://www.youtube.com/watch?v=aGZA9jz6rwU){target="_blank"} (Semi-Final)
 
-    <iframe width="640" height="360" src="https://www.youtube.com/embed/hiDxg4TxGvU"></iframe>
+### DFV Pokal in Gemmrigheim, Germany
 
-</center>
-```
-
-### Heidees vs. FrankN Pool B at the German Championships 2024 in Nuremberg, Germany
-
-```{=html}
-<center>
-
-    <iframe width="640" height="360" src="https://www.youtube.com/embed/NsuiPsTE1dw"></iframe>
-
-</center>
-```
-
-### Heidees vs. Hardfish quarter final at the DFV Pokal 2024 in Gemmrigheim, Germany
-
-```{=html}
-<center>
-
-    <iframe width="640" height="360" src="https://www.youtube.com/embed/8BmfVWOIkoQ"></iframe>
-
-</center>
-```
+-   [Heidees vs. Hardfish](https://www.youtube.com/watch?v=8BmfVWOIkoQ){target="_blank"} (Quarter-Final)
 
 ## 2023
 
-### Heidees vs. Wall City semi-final at the German Championships 2023 in Marburg, Germany
+### German Championships in Marburg, Germany
 
-```{=html}
-<center>
+-   [Heidees vs. Wall City](https://www.youtube.com/watch?v=7VV1b98iS0A){target="_blank"} (Semi-Final)
 
-    <iframe width="640" height="360" src="https://www.youtube.com/embed/7VV1b98iS0A"></iframe>
+-   [Heidees vs. BORA](https://www.youtube.com/watch?v=iNYBJxuYUeE){target="_blank"} (Pool B)
 
-</center>
-```
+-   [Heidees vs. Lahntalknaben](https://www.youtube.com/watch?v=7MdbTcJl7ms){target="_blank"} (Pool B)
 
-### Heidees vs. BORA Pool B at the German Championships 2023 in Marburg, Germany
+-   [Heidees vs. WaldStadt](https://www.youtube.com/watch?v=shAdH0rBDnA){target="_blank"} (Pool B)
 
-```{=html}
-<center>
+### Elite Invite in Bern, Switzerland
 
-    <iframe width="640" height="360" src="https://www.youtube.com/embed/iNYBJxuYUeE"></iframe>
+-   [Heidees vs. BFD La Fotta](https://www.youtube.com/watch?v=CKYlhZfkpvQ){target="_blank"}
 
-</center>
-```
+-   [Heidees vs. Chevron Action Flash](https://www.youtube.com/watch?v=Vv02X62n2fY){target="_blank"}
 
-### Heidees vs. Lahntalknaben Pool B at the German Championships 2023 in Marburg, Germany
+### DFV Pokal in Massenbach, Germany
 
-```{=html}
-<center>
+-   [Heidees vs. FrankN](https://www.youtube.com/watch?v=eMHHZFdhrUI){target="_blank"} (Game for 5th place)
 
-    <iframe width="640" height="360" src="https://www.youtube.com/embed/7MdbTcJl7ms"></iframe>
+-   [Heidees vs. Ars Ludendi](https://www.youtube.com/watch?v=gcb7RynmRRk){target="_blank"} (Semi-Final for 5th Place)
 
-</center>
-```
-
-### Heidees vs. WaldStadt Pool B at the German Championships 2023 in Marburg, Germany
-
-```{=html}
-<center>
-
-    <iframe width="640" height="360" src="https://www.youtube.com/embed/shAdH0rBDnA"></iframe>
-
-</center>
-```
-
-### Heidees vs. BFD La Fotta quarter final at the Elite Invite 2023 in Bern, Switzerland
-
-```{=html}
-<center>
-
-    <iframe width="640" height="360" src="https://www.youtube.com/embed/CKYlhZfkpvQ"></iframe>
-
-</center>
-```
-
-### Heidees vs. FrankN match for 5th place at the DFV Pokal 2023 in Massenbach, Germany
-
-```{=html}
-<center>
-
-    <iframe width="640" height="360" src="https://www.youtube.com/embed/eMHHZFdhrUI"></iframe>
-
-</center>
-```
-
-### Heidees vs. Ars Ludendi semi-final for 5th place at the DFV Pokal 2023 in Massenbach, Germany
-
-```{=html}
-<center>
-
-    <iframe width="640" height="360" src="https://www.youtube.com/embed/gcb7RynmRRk"></iframe>
-
-</center>
-```
-
-### Heidees vs. MUC cross-over game at the DFV Pokal 2023 in Massenbach, Germany
-
-```{=html}
-<center>
-
-    <iframe width="640" height="360" src="https://www.youtube.com/embed/rs9q-NaTzrk"></iframe>
-
-</center>
-```
+-   [Heidees vs. MUC](https://www.youtube.com/watch?v=rs9q-NaTzrk){target="_blank"} (Cross-Over Game)
 
 ## 2022
 
-### Heidees vs. Ranelagh semi final at the EUCF 2022 in Caorle, Italy
+### EUCF in Caorle, Italy
 
-```{=html}
-<center>
+-   [Heidees vs. Ranelagh](https://www.youtube.com/watch?v=CceJ5t3VhjY){target="_blank"} (Semi-Final)
 
-    <iframe width="640" height="360" src="https://www.youtube.com/embed/CceJ5t3VhjY"></iframe>
+### German Championships in Neuss, Germany
 
-</center>
-```
+-   [Heidees vs. Bad Skid](https://www.youtube.com/watch?v=MWKhyFzVCMM){target="_blank"}
 
-### Heidees vs. Bad Skid at the German Championships 2022 in Neuss, Germany
+-   [Heidees vs. Wall City](https://www.youtube.com/watch?v=hm0FkXI1dMw){target="_blank"} (Final)
 
-```{=html}
-<center>
+### DFV Pokal in Massenbach, Germany
 
-    <iframe width="640" height="360" src="https://www.youtube.com/embed/MWKhyFzVCMM"></iframe>
-
-</center>
-```
-
-### Heidees vs. Wall City Final at the German Championships 2022 in Neuss, Germany
-
-```{=html}
-<center>
-
-    <iframe width="640" height="360" src="https://www.youtube.com/embed/hm0FkXI1dMw"></iframe>
-
-</center>
-```
-
-### Heidees vs. Bad Skid Game for 3rd Place at the DFV Pokal 2022 in Massenbach, Germany
-
-```{=html}
-<center>
-
-    <iframe width="640" height="360" src="https://www.youtube.com/embed/BIY6qoyMALk"></iframe>
-
-</center>
-```
+-   [Heidees vs. Bad Skid](https://www.youtube.com/watch?v=BIY6qoyMALk){target="_blank"} (Game for 3rd Place)
 
 ## 2021
 
-### Heidees vs. Bad Skid Qualification Tournament for WUCC 2021 in Strausberg, Germany
+### WUCC Qualification Tournament in Strausberg, Germany
 
-```{=html}
-<center>
+-   [Heidees vs. Bad Skid](https://www.youtube.com/watch?v=MyJ-8IH5ISU){target="_blank"}
 
-    <iframe width="640" height="360" src="https://www.youtube.com/embed/MyJ-8IH5ISU"></iframe>
+### Restart DM in Massenbach, Germany
 
-</center>
-```
-
-### Heidees vs. Bad Skid at the Restart DM 2021 in Massenbach, Germany
-
-```{=html}
-<center>
-
-    <iframe width="640" height="360" src="https://www.youtube.com/embed/txnpnv67aTA"></iframe>
-
-</center>
-```
+-   [Heidees vs. Bad Skid](https://www.youtube.com/watch?v=txnpnv67aTA){target="_blank"}
 
 # Indoor
 
+## 2025
+
+### German Indoor Championships in Gemmrigheim, Germany
+
+-   [Tag 1](https://www.youtube.com/watch?v=M9HIuG66s_Q){target="_blank"}
+
+    -   Heidees vs. Frizzly Bears (starts at 2:39:10)
+
+    -   Heidees vs. Zamperl (starts at 5:54:26)
+
+    -   Heidees vs. Goldfingers (starts at 8:26:18)
+
+-   [Tag 2](https://www.youtube.com/watch?v=wHkkrDQ6n0Q){target="_blank"}
+
+    -   Heidees vs. Gemmrigheim (Semi-Final, starts at 2:08:48)
+
+    -   Heidees vs. Hässliche Erdferkel (Game for 3rd Place, starts at 4:18:56)
+
 ## 2024
 
-### Heidees vs. Hässliche Erdferkel semi final at the German Indoor Championship 2024 in Gemmrigheim, Germany
+### German Indoor Championship in Gemmrigheim, Germany
 
-```{=html}
-<center>
+-   [Heidees vs. Zamperl](https://www.youtube.com/watch?v=P97SoGLt9ow){target="_blank"} (Pool B)
 
-    <iframe width="640" height="360" src="https://www.youtube.com/embed/TJZ9-5TU9GI"></iframe>
+-   [Heidees vs. Cultimaters](https://www.youtube.com/watch?v=SF14bsPl5VE){target="_blank"} (Pool B)
 
-</center>
-```
+-   [Heidees vs. Frizzly Bears](https://www.youtube.com/watch?v=7tn3olBDfpw){target="_blank"} (Pool B)
+
+-   [Heidees vs. Hässliche Erdferkel](https://www.youtube.com/watch?v=TJZ9-5TU9GI){target="_blank"} (Semi-Final)
+
+-   [Heidees vs. Gemmrigheim](https://www.youtube.com/watch?v=pgEmgehLhBo){target="_blank"} (Final)
