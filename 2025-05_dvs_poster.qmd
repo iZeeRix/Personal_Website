@@ -1,0 +1,8 @@
+---
+title: "Poster auf der 38. Jahrestagung der deutschen Vereinigung für Sportwissenschaft vom 1. bis 3. Mai 2025 in Leipzig (ger)"
+format: html
+---
+
+[Hier geht es zurück zur Übersicht der Projekte](projects.qmd)
+
+Hier finden Sie in den nächsten Wochen mein Poster und weiterführende Materialien für die dvs Sektion Sportpädagogik Tagung in Leipzig.

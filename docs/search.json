@@ -21,298 +21,25 @@
     "text": "Example\nThe data for this example are original rankings from one of my seminars. Here is an overview:\n\n\n\n\n\nThe best constellation I could find for this data was with 50,000 permutations and the quadratic mode:\n\n\n\n\n\nTo do this, I ran the program a few times by clicking on “Run Optimization” more often. As topic 5 was not ranked higher than 3 by any group, no better priority can be assigned here.\nTry out the program with the sample data, maybe you’ll find a lower total! Here you can download the data."
   },
   {
-    "objectID": "methods_and_analyses_SoNiS.html",
-    "href": "methods_and_analyses_SoNiS.html",
-    "title": "CH",
+    "objectID": "data_protection_SoNiS.html",
+    "href": "data_protection_SoNiS.html",
+    "title": "Datenschutzmaßnahmen für die Erhebung sozialer Netzwerke",
     "section": "",
-    "text": "Hier geht es zurück zum Projekt"
+    "text": "Hier geht es zurück zum Projekt\nDas Datenschutzkonzept der vorliegenden Studie wurde gemeinsam mit dem Datenschutzbeauftragen der Universität Heidelberg konzipiert. Die Erhebung und Verarbeitung der oben beschriebenen persönlichen Daten erfolgten pseudonymisiert im Institut für Sport und Sportwissenschaft unter Verwendung einer Nummer und ohne Angabe des Namens. Dazu werden allen Schüler:innen und Lehrkräften durch eine programmierte Exceldatei Zufallszahlen zugeordnet, sodass die Beantwortungen durch eine Eintragung der passenden Ziffern erfolgt.\nDie eingetragenen Zifferncodes werden im Anschluss an die Datenerhebung nach der Löschung der ersten Zuordnung durch Mitarbeiter:innen unserer Forschungsgruppe wiederum verschlüsselt. Ihr Name und der Name der Schüler:innen taucht also an keiner Stelle des Fragebogens auf. Daher kann aus der vorliegenden Befragung nicht auf einzelne Personen geschlossen werden. Zudem werden in allen Auswertungen und Berichten die Schulnamen ebenfalls nicht genannt und pseudonymisiert, damit niemand mehr die Daten mit Ihnen und Ihrer Schule in Verbindung bringen kann.\nAlle Informationen, die wir von Ihnen erheben, werden vertraulich behandelt, unterliegen dem Datenschutz, dienen allein wissenschaftlichen Zwecken und werden nicht an Dritte außerhalb unserer Forschungsgruppe weitergegeben. Weder Lehrkräfte noch Schulleitung erhalten Einblicke in die Daten oder die Auswertungen. Die Veröffentlichung der Ergebnisse der Studie erfolgt anonymisiert, d.h. sie können nicht mehr einer Person oder Schule zugeordnet werden. Aufgrund der beschriebenen vollständigen Anonymisierung, die nach der zweiten Verschlüsselung erfolgt, wird eine Löschung einzelner, personenbezogener Datensätze nicht mehr möglich sein."
   },
   {
-    "objectID": "methods_and_analyses_SoNiS.html#erhebung-und-auswertung-sozialer-netzwerke",
-    "href": "methods_and_analyses_SoNiS.html#erhebung-und-auswertung-sozialer-netzwerke",
-    "title": "CH",
-    "section": "Erhebung und Auswertung sozialer Netzwerke",
-    "text": "Erhebung und Auswertung sozialer Netzwerke\nDie Erhebung sozialer Netzwerkdaten erfolgt mittels Nominierungsfragen. Hierbei werden die Schüler:innen gebeten, für Interaktions- oder Beziehungsbeschreibungen die Zahlencodes (siehe Datenschutzmaßnahmen) der Mitschüler:innen aufzuschreiben, die auf diese Beschreibungen zutreffen. Eine Beispielfrage würde z.B. so aussehen:\n\n\n\n\n\nDie Daten einer Nominierungsfrage werden in einer sog. “Nodelist” gespeichert, die hier beispielhaft aufgeführt wird:\n\n\n\nZahlencode\nZsmarbeiten_01\nZsmarbeiten_02\nZsmarbeiten_03\n\n\n\n\n1\n\n\n\n\n\n2\n4\n5\n\n\n\n3\n8\n9\n\n\n\n4\n2\n6\n7\n\n\n5\n3\n9\n\n\n\n…\n…\n…\n…\n\n\n\nDie Daten aus der Nodelist werden dann mit einem Statistikprogramm (z.B. UCINET) oder einer Programmiersprache (z.B. R) in sog. “Adjacency Matrix” umgewandelt, die Beziehungen mit “1” und fehlende Beziehungen mit “0” kennzeichnet. Aus ihr können sowohl individuelle Maße wie z.B. der “Indegree” (Anzahl an eingehenden Nominierungen) berechnet oder Netzwerkgraphen geplottet werden, die Netzwerke können jedoch auch direkt in statistische Verfahren einfließen.\nEin Beispiel für eine Adjacency Matrix mit einem entsprechenden Netzwerkgraphen ist hier abgebildet. Die Zeilen symbolisieren die ausgehenden Nominierungen während die Spalten die eingehenden Nominierungen darstellen."
-  },
-  {
-    "objectID": "CV.html",
-    "href": "CV.html",
-    "title": "CV",
+    "objectID": "private.html",
+    "href": "private.html",
+    "title": "About Me",
     "section": "",
-    "text": "Last updated March 2025"
+    "text": "Ultimate Frisbee\n\nIn my free time, I love to play Ultimate Frisbee and I participate in national and international tournaments with Heidees. You can find information about Ultimate and videos of our games on the linked websites.\n\nCooking (ger)\n\nMy partner and I both love to cook and do it on a daily basis. Because writing shopping lists can be tedious and time consuming, I wrote a small shiny app to help with that. It can display our recipes but also add up the ingredients of multiple recipes to form one shopping list.\nBecause we are both vegan, using plant based products is always implied and we don’t use this label in our recipes.\nThe App is in a very early stage. If you have suggestions or nice recipes we should try, feel free to reach out!"
   },
   {
-    "objectID": "call_for_teachers.html",
-    "href": "call_for_teachers.html",
-    "title": "Anschreiben für (Sport-)Lehrkräfte",
+    "objectID": "poster_dvs2022.html",
+    "href": "poster_dvs2022.html",
+    "title": "Poster auf der 35. Jahrestagung der Deutschen Vereinigung für Sportwissenschaft vom 16. bis 18. Juni 2022 in Münster",
     "section": "",
-    "text": "Hier geht es zurück zum Projekt"
-  },
-  {
-    "objectID": "private/ultimate_frisbee/heidees_mixed_streams.html",
-    "href": "private/ultimate_frisbee/heidees_mixed_streams.html",
-    "title": "Heidees Mixed Streams",
-    "section": "",
-    "text": "Back to the overview\nHere are some of the streamed games I found of the Heidees Mixed team. Please note that this is not meant as an exhaustive list. If you found a video that I should add, please write me a message!"
-  },
-  {
-    "objectID": "private/ultimate_frisbee/heidees_mixed_streams.html#section",
-    "href": "private/ultimate_frisbee/heidees_mixed_streams.html#section",
-    "title": "Heidees Mixed Streams",
-    "section": "2024",
-    "text": "2024\n\nGerman Championships 2025 in Aachen, Germany\n\nHeidees vs. Frizzly Bears\nHeidees vs. Nullacht! Ultimate"
-  },
-  {
-    "objectID": "private/ultimate_frisbee/heidees_mixed_streams.html#section-1",
-    "href": "private/ultimate_frisbee/heidees_mixed_streams.html#section-1",
-    "title": "Heidees Mixed Streams",
-    "section": "2014",
-    "text": "2014\n\nWUCC 2014 in Lecco, Italy\n\nHeidees vs. Element\nHeidees vs. Drag’n Thrust\nHeidees vs. Vaasa Saints\nHeidees vs. Union"
-  },
-  {
-    "objectID": "private/ultimate_frisbee/heidees_mixed_streams.html#section-2",
-    "href": "private/ultimate_frisbee/heidees_mixed_streams.html#section-2",
-    "title": "Heidees Mixed Streams",
-    "section": "2025",
-    "text": "2025\n\nGerman Indoor Championship 2025 in Frankfurt, Germany (2nd League)\n\nHeidees vs. Hakuna Matata\nHeidees vs. Colorado\nHeidees vs. FT Ultimate Würzburg\nHeidees vs. high enerGI (Halbfinale)\nHeidees vs. FT Ultimate Würzburg (Finale)"
-  },
-  {
-    "objectID": "private/ultimate_frisbee/heidees_mixed_streams.html#section-3",
-    "href": "private/ultimate_frisbee/heidees_mixed_streams.html#section-3",
-    "title": "Heidees Mixed Streams",
-    "section": "2024",
-    "text": "2024\n\nGerman Indoor Championship 2024 in Geretsried, Germany\n\nHeidees vs. Hucks Ultimate Club\nHeidees vs. Frizzly Bears\nHeidees vs. Maultaschen\nHeidees vs. Mainzelrenner"
-  },
-  {
-    "objectID": "private/private_posts/summer_invite_2024.html",
-    "href": "private/private_posts/summer_invite_2024.html",
-    "title": "Summer Invite 2024",
-    "section": "",
-    "text": "Starting this year, the European Ultimate Federation (EUF) has introduced a ranking system that calculates and updates a ranking of all registered teams after each set of tournaments. A detailed description of how it is calculated, why it is used and the current ranking is presented here.\nWe are currently (14th August 2024) ranked 19th. To qualify for the EUCF we need to get at least rank 16 or win the Summer Invite to get a wildcard to the finals. Luckily, we have some really good teams in our pool on Saturday and other great teams at the tournament who we hope to match up against on Sunday."
-  },
-  {
-    "objectID": "private/private_posts/summer_invite_2024.html#qualification-for-the-european-championships-eucf",
-    "href": "private/private_posts/summer_invite_2024.html#qualification-for-the-european-championships-eucf",
-    "title": "Summer Invite 2024",
-    "section": "",
-    "text": "Starting this year, the European Ultimate Federation (EUF) has introduced a ranking system that calculates and updates a ranking of all registered teams after each set of tournaments. A detailed description of how it is calculated, why it is used and the current ranking is presented here.\nWe are currently (14th August 2024) ranked 19th. To qualify for the EUCF we need to get at least rank 16 or win the Summer Invite to get a wildcard to the finals. Luckily, we have some really good teams in our pool on Saturday and other great teams at the tournament who we hope to match up against on Sunday."
-  },
-  {
-    "objectID": "private/private_posts/summer_invite_2024.html#schedule",
-    "href": "private/private_posts/summer_invite_2024.html#schedule",
-    "title": "Summer Invite 2024",
-    "section": "Schedule",
-    "text": "Schedule"
-  },
-  {
-    "objectID": "private/private_posts/summer_invite_2024.html#streaming",
-    "href": "private/private_posts/summer_invite_2024.html#streaming",
-    "title": "Summer Invite 2024",
-    "section": "Streaming",
-    "text": "Streaming\nThe games will be streamed on Solidsports, a paid platform that is the new streaming partner of the EUF from 2024-2027. If you want, you can find the platform and buy a pass here.\nIt seems all of our three games on Saturday will be streamed on the platform. The streamed games for Sunday are not yet determined."
-  },
-  {
-    "objectID": "private/ultimate_frisbee.html",
-    "href": "private/ultimate_frisbee.html",
-    "title": "Ultimate Frisbee",
-    "section": "",
-    "text": "I play Ultimate Frisbee actively since 2022 and competitively since 2023, where I first joined the Heidees Open team, which plays national and international tournaments. This year is my second season with the team and it is tons of fun.\nIf you don’t know what Ultimate is, here is the website on Ultimate by the World Flying Disc Federation (WFDF): https://wfdf.sport/disciplines/ultimate/"
-  },
-  {
-    "objectID": "private/ultimate_frisbee.html#want-to-watch-some-games",
-    "href": "private/ultimate_frisbee.html#want-to-watch-some-games",
-    "title": "Ultimate Frisbee",
-    "section": "Want to watch some games?",
-    "text": "Want to watch some games?\nIf you want to watch us and other Heidees teams play, here are some pages with numerous games by our different teams:\n\nHeidees Open streams\nHeidees Women streams\nHeidees Mixed streams"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Cornelius Holler (he/him)\nInstitute of Sports and Sports Sciences\nUniversity of Heidelberg\nIm Neuenheimer Feld 700\n69120 Heidelberg\nDE - Germany\ncornelius.holler@issw.uni-heidelberg.de"
-  },
-  {
-    "objectID": "about.html#weblinks",
-    "href": "about.html#weblinks",
-    "title": "Contact",
-    "section": "Weblinks",
-    "text": "Weblinks\n University Profile\n Google Scholar\n Researchgate\n ORCID\n Twitter / X\n LinkedIn"
-  },
-  {
-    "objectID": "development_study2023.html",
-    "href": "development_study2023.html",
-    "title": "CH",
-    "section": "",
-    "text": "Hier geht es zurück zur Übersicht der Projekte"
-  },
-  {
-    "objectID": "development_study2023.html#entwicklung-sozialer-beziehungen-in-schulklasse-und-sportunterricht",
-    "href": "development_study2023.html#entwicklung-sozialer-beziehungen-in-schulklasse-und-sportunterricht",
-    "title": "CH",
-    "section": "Entwicklung sozialer Beziehungen in Schulklasse und Sportunterricht",
-    "text": "Entwicklung sozialer Beziehungen in Schulklasse und Sportunterricht\nHerzlich Willkommen auf der Website zum Projekt “Entwicklung sozialer Beziehungen in Schulklasse und Sportunterricht” des Forschungsprogramms Soziale Netzwerke im Sportunterricht (SoNiS) des Instituts für Sport und Sportwissenschaft der Universität Heidelberg.\nAuf diesen Seiten finden Sie alle Informationen über die Planung, Durchführung und Ziele des Projekts. Wenn Sie an der Studie teilnehmen wollen, bitte kontaktieren Sie den Studienleiter Cornelius Holler oder den Projektleiter Prof. Dr. Rüdiger Heim über die unten stehenden Kontaktmöglichkeiten."
-  },
-  {
-    "objectID": "development_study2023.html#informationen-über-die-studie",
-    "href": "development_study2023.html#informationen-über-die-studie",
-    "title": "CH",
-    "section": "Informationen über die Studie",
-    "text": "Informationen über die Studie\n\nAnschreiben für (Sport-)Lehrkräfte\nFlyer zum Projekt"
-  },
-  {
-    "objectID": "development_study2023.html#informationen-zum-datenschutz-und-zur-erhebungsmethodik",
-    "href": "development_study2023.html#informationen-zum-datenschutz-und-zur-erhebungsmethodik",
-    "title": "CH",
-    "section": "Informationen zum Datenschutz und zur Erhebungsmethodik",
-    "text": "Informationen zum Datenschutz und zur Erhebungsmethodik\n\nDatenschutzmaßnahmen für die Erhebung sozialer Netzwerke\nErhebung und Auswertung sozialer Netzwerke"
-  },
-  {
-    "objectID": "development_study2023.html#kontakt",
-    "href": "development_study2023.html#kontakt",
-    "title": "CH",
-    "section": "Kontakt",
-    "text": "Kontakt\n\n\n\nStudienleiter\nProjektleiter\n\n\n\n\nCornelius Holler\nInstitut für Sport und Sportwissenschaft\nUniversität Heidelberg\nIm Neuenheimer Feld 700\n60210 Heidelberg\ncornelius.holler@issw.uni-heidelberg.de\n+49 6221 54-4348\nProf. Dr. Rüdiger Heim\nInstitut für Sport und Sportwissenschaft\nUniversität Heidelberg\nIm Neuenheimer Feld 700\n60210 Heidelberg\nruediger.heim@issw.uni-heidelberg.de\n+49 6221 54-8622"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "These are projects I did as a part of my dissertation.\n\n\nI planned and conducted a 1-year longitudinal social network study on peer relationships in physical education. The data collection was done during the 2023/24 school year and finished in July 2024.\n\nData Overview\n\nYou can download the preliminary version of the data overview here. Because the dataset is an important part of my PhD, I cannot yet publish the raw data, but plan to do it long term. I am open to collaborating on research projects, so if you want to work together on a paper using this data, please write me an e-mail!\n\nEntwicklung sozialer Beziehungen in Schulklasse und Sportunterricht (ger)\n\nThis project page was sent to teachers and parents to inform them about the procedure and goal of the project.\n\n\n\n\n\n\nPoster auf der 35. Jahrestagung der deutschen Vereinigung für Sportwissenschaft vom 16. bis 18. Juni 2022 in Münster (ger)\n\nYou can find the video teaser and the poster I presented on the yearly conference by the section Sports Pedagogy of the German Society of Sport Science (dvs). It is both in German."
-  },
-  {
-    "objectID": "projects.html#projects-related-to-my-dissertation",
-    "href": "projects.html#projects-related-to-my-dissertation",
-    "title": "Projects",
-    "section": "",
-    "text": "These are projects I did as a part of my dissertation.\n\n\nI planned and conducted a 1-year longitudinal social network study on peer relationships in physical education. The data collection was done during the 2023/24 school year and finished in July 2024.\n\nData Overview\n\nYou can download the preliminary version of the data overview here. Because the dataset is an important part of my PhD, I cannot yet publish the raw data, but plan to do it long term. I am open to collaborating on research projects, so if you want to work together on a paper using this data, please write me an e-mail!\n\nEntwicklung sozialer Beziehungen in Schulklasse und Sportunterricht (ger)\n\nThis project page was sent to teachers and parents to inform them about the procedure and goal of the project.\n\n\n\n\n\n\nPoster auf der 35. Jahrestagung der deutschen Vereinigung für Sportwissenschaft vom 16. bis 18. Juni 2022 in Münster (ger)\n\nYou can find the video teaser and the poster I presented on the yearly conference by the section Sports Pedagogy of the German Society of Sport Science (dvs). It is both in German."
-  },
-  {
-    "objectID": "projects.html#other-projects",
-    "href": "projects.html#other-projects",
-    "title": "Projects",
-    "section": "Other Projects",
-    "text": "Other Projects\nThese are projects I did in besides my dissertation.\n\nR package for analyzing school social network data\nAlready during my masters thesis, I started writing a package to help me and my colleagues with the data analysis. Over the years, I have developed it further, added more functions and options and it has been really useful for me. Because we use the same data structure for all our data collection efforts, the package is easily used with all of them. I have built the package locally and use it on a daily basis, but have not yet come around to bring it into a published form. My plan is to publish the package at some point on GitHub for everyone to use. For now, I have compiled the functions in one .R file so you can use it via “source()”.\n\nSoNiS.SNA.0.0.1.12.R\n\n\n\nR function and shiny app to sort assign students to topics in seminars\nThis is a program that I wrote to assign the students in my seminars to their preferred topic to present on. The students fill out a ranking of topics and tries to optimize the choices in a way that is preferential to the whole group. First I used it only inside of R but now I have published the program as a shiny app that is embedded into the page and you can use it yourself.\n\nAssigning Topics to (Groups of) Students in Seminars"
-  },
-  {
-    "objectID": "posts/2024-07-23-gauging-acceptance.html",
-    "href": "posts/2024-07-23-gauging-acceptance.html",
-    "title": "New Paper published in The Journal of Early Adolescence",
-    "section": "",
-    "text": "📖 I am excited to share that our latest paper is now published in the Journal of Early Adolescence: “Gauging Acceptance: A Multifaceted Examination of Physical Ability and Its Role for Peer Networks in Adolescent Physical Education” coauthored with Annabell Schüßler!\nOur study explores the impact of perceived physical ability on peer collaboration in physical education through three lenses: self-concept, peer assessments, and teacher ratings. Using data from 302 students from 14 school classes, we analyzed how these perceptions influence team partner choices.\nKey Findings:\n\nPhysical ability is a significant factor in choosing team partners. High-performing and similar-performing peers are more likely to be selected, indicating that peer perceptions of ability are strongly associated with collaboration networks in sports games. 🏆\nOf the three perspectives of ability, only peer-perceived ability was a significant predictor of team partner choices. This highlights the unique role of peer assessments, which are rarely addressed in the literature. 👥\nGender and liking also play important roles in team partner selections. Students tend to prefer peers of the same gender and those they like, but peer-perceived ability remains a strong independent predictor even when controlling for these factors. 👫\n\nThese findings emphasize the importance of understanding peer dynamics in physical education to foster positive social interactions. For more details, check out the full paper here: https://doi.org/10.1177/02724316241265459"
-  },
-  {
-    "objectID": "posts/2024-07-10-group-assignment.html",
-    "href": "posts/2024-07-10-group-assignment.html",
-    "title": "Shiny app to assign students to topics",
-    "section": "",
-    "text": "I teach 1-2 seminars each winter semester, where students do presentations in groups of 2-3. Over the semester, we have 10 topics to cover, so the students need to form groups and we need to assign each group a topic to present. In my experience, this is usually done by going through the topics, assigning those which only one group wants to present and then go back through and let the students decide who “wins” the topic by playing rock-paper-scissors against each other.\nI found this method of assigning topics both annoying and unfair, because even though there can be a bit of a strategy behind choosing the topic, it is based on luck if you win your round of rock-paper-scissors or if you are handed through to your least favorite topic. So I wanted to create a better way to assign the topics to that each group gets their highest priority possible.\nLuckily, I was at the EUSN 2023 Conference in Ljubljana, Slovenia, at that time and talked about it with a colleague, Robert Panitz. He suggested the algorithm that I implemented, first into a simple R function, now into a publicly available Shiny app!\nIt essentially works by asking the students to rank each topic from 1 (best) to 10 (worst). The code then creates a square matrix with the students’ rankings in the rows and the topics in the columns. It then permutates the matrix columns a certain amount of times to see, which permutation yields the smallest sum of priorities. In the app, it of course works with any size of matrix and you can adjust the amount of permutations and if the rankings should be weighted in a linear or quadratic way.\nI created a separate page for the app where you can find more information about how it works and how to use it: Assigning Topics to Students - Shiny App"
-  },
-  {
-    "objectID": "development_flyer.html",
-    "href": "development_flyer.html",
-    "title": "Flyer zum Projekt “Entwicklung sozialer Beziehungen in Schulklasse und Sportunterricht”",
-    "section": "",
-    "text": "Hier geht es zurück zum Projekt"
-  },
-  {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "News",
-    "section": "",
-    "text": "New Paper published in The Journal of Early Adolescence\n\n\n\n\n\n\n\nScientific Paper\n\n\nPhysical Education\n\n\nSocial Network Analysis\n\n\n\n\nGauging Acceptance: A Multifaceted Examination of Physical Ability and Its Role for Peer Networks in Adolescent Physical Education\n\n\n\n\n\n\nJul 23, 2024\n\n\nCornelius Holler\n\n\n\n\n\n\n\n\n\n\n\n\n\nShiny app to assign students to topics\n\n\n\n\n\n\n\nR Programming\n\n\nTeaching\n\n\n\n\n\n\n\n\n\n\n\nJul 10, 2024\n\n\nCornelius Holler\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Cornelius Holler",
-    "section": "",
-    "text": "I’m a doctoral candidate at the Institute of Sports and Sports Sciences at the University of Heidelberg. My research focuses on peer relationships (using social network analysis), self-concept and physical ability in physical education.\nYou can find my CV here as well as ongoing and finished projects and publications."
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Cornelius Holler",
-    "section": "Contact",
-    "text": "Contact\nCornelius Holler (he/him)\nInstitute of Sports and Sports Sciences\nUniversity of Heidelberg\nIm Neuenheimer Feld 700\n69120 Heidelberg\nDE - Germany\ncornelius.holler@issw.uni-heidelberg.de"
-  },
-  {
-    "objectID": "index.html#weblinks",
-    "href": "index.html#weblinks",
-    "title": "Cornelius Holler",
-    "section": "Weblinks",
-    "text": "Weblinks\n University Profile\n Google Scholar\n Researchgate\n ORCID\n Bluesky\n LinkedIn"
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Schüßler, A., Holler, C., & Hill, Y. (2025). Do You Prefer to Collaborate with Students Pursuing the same Goals? A Network Analysis of Physical Education Classes, British Journal of Educational Psychology. https://doi.org/10.1111/bjep.12757\nHoller, C., & Schüßler, A. (2024). Gauging Acceptance: A Multifaceted Examination of Physical Ability and Its Role for Peer Networks in Adolescent Physical Education. Journal of Early Adolescence. https://doi.org/10.1177/02724316241265459\nHeim, R., Schüßler, A., &, Holler, C. (2023). Peerbeziehungen in der Sporthalle – Soziale Netzwerke im Sportunterricht [Peer relations in the gym – Social networks in Physical Education classes]. Zeitschrift für sportpädagogische Forschung, 11(1), 3–28. https://doi.org/10.5771/2196-5218-2023-1-5"
-  },
-  {
-    "objectID": "publications.html#articles-in-peer-reviewed-journals",
-    "href": "publications.html#articles-in-peer-reviewed-journals",
-    "title": "Publications",
-    "section": "",
-    "text": "Schüßler, A., Holler, C., & Hill, Y. (2025). Do You Prefer to Collaborate with Students Pursuing the same Goals? A Network Analysis of Physical Education Classes, British Journal of Educational Psychology. https://doi.org/10.1111/bjep.12757\nHoller, C., & Schüßler, A. (2024). Gauging Acceptance: A Multifaceted Examination of Physical Ability and Its Role for Peer Networks in Adolescent Physical Education. Journal of Early Adolescence. https://doi.org/10.1177/02724316241265459\nHeim, R., Schüßler, A., &, Holler, C. (2023). Peerbeziehungen in der Sporthalle – Soziale Netzwerke im Sportunterricht [Peer relations in the gym – Social networks in Physical Education classes]. Zeitschrift für sportpädagogische Forschung, 11(1), 3–28. https://doi.org/10.5771/2196-5218-2023-1-5"
-  },
-  {
-    "objectID": "publications.html#conference-contributions",
-    "href": "publications.html#conference-contributions",
-    "title": "Publications",
-    "section": "Conference Contributions",
-    "text": "Conference Contributions\n\nPresentations\nHoller, C., Schüßler, A., & Heim, R. (2025) Leistungsperspektiven und ihre Rollen für Peernetzwerke im Sportunterricht [Perspectives on performance and their roles for peer networks in physical education]. Presentation at the 12th conference of the Society for Empirical Educational Research (GEBF) from 27th-29th January 2025 in Mannheim, Germany.\nSchüßler, A., Holler, C., & Hill, Y. (2024). Exploring Goal Orientation in Peer Networks: The Role of Multidimensional Achievement Goals in Physical Education. Presentation at the SUNBELT Conference by the International Network for Social Network Analysis (INSNA) from 24th-30th June 2024 in Edinburgh, Scotland.\nHoller, C. (2024). Veridikalität des sportunterrichtlichen Selbstkonzeptes und ihre Effekte auf die Anstrengungsbereitschaft und soziale Eingebundenheit im Sportunterricht [Veridicality of the physical education self-concept and it’s effects on the engagement and social embeddedness in physical education]. Presentation at the 37th yearly conference by the German Society of Sport Science (dvs) section sports pedagogy from 30th May to 1st June 2024 in Essen, Germany.\nHoller, C. &, Schüßler, A. (2023). Peerbeziehungen in der Schulklasse - Soziale Netzwerke im (Sport-)Unterricht [Peer relations in the gym - Social networks in physical education classes]. Presentation at the autumn conference of the section “Sociological Network Science” of the German Sociological Association (GSA) on 15th and 16th September 2023 in Cologne, Germany.\nHoller, C. (2023). Social networks, external and self-assessments of performance in physical education. Presentation at the 7th European Conference on Social Networks from 4th-8th September 2023 in Ljubljana, Slovenia.\nHoller, C. (2023). Soziale Netzwerke, Fremd- und Selbsteinschätzungen der sportunterrichtlichen Leistungsfähigkeit [Social networks, external and self-assessments of performance in physical education]. Presentation at the 36th yearly conference by the German Society of Sport Science (dvs) section sports pedagogy from 8th-10th June 2023 in Hamburg, Germany.\nHeim, R., &, Holler C. (2022). Peerbeziehungen in der Schulklasse. Soziale Netzwerke im (Sport-) Unterricht [Peer relations in the gym - Social networks in (physical) education classes]. Presentation at the Subject Didactics Conference 2022 by the German and Austrian Societies of Subject Didactics (GFD and ÖGFD) from 29th-31st August 2022 in Vienna, Austria.\nSchüßler, A., &, Holler, C. (2021). Soziale Netzwerke im Sportunterricht [Social networks in physical education]. Presentation at the yearly conference of the German Society of Network Science (DGNet) from 6th-7th September 2021 in Bayreuth, Germany.\n\n\nPoster\nHoller, C., Schüßler, A., &, Heim, R. (2022). Analyse des Wahlverhaltens von Schüler:innen in typischen sportunterrichtlichen Kontexten [Analysis of the nominations of students in typical collaboration settings in physical education]. Poster at the 35th yearly conference by the German Society of Sport Science (dvs) section sports pedagogy from 16th-18th June 2022 in Münster, Germany."
-  },
-  {
-    "objectID": "private/private_news.html",
-    "href": "private/private_news.html",
-    "title": "Tournaments",
-    "section": "",
-    "text": "Summer Invite 2024\n\n\n\n\n\n\n\nUltimate Frisbee\n\n\nEuropean Ultimate Federation\n\n\n2024\n\n\n\n\nWe are trying to qualify for the european championships in September.\n\n\n\n\n\n\nAug 14, 2024\n\n\nCornelius Holler\n\n\n\n\n\n\n\n\n\n\n\n\n\nFirst Weekend of the Open German Championships is coming up\n\n\n\n\n\n\n\nUltimate Frisbee\n\n\nGerman Championships\n\n\n2024\n\n\n\n\nI will be playing with Heidees in Nuremberg. See the schedule and links to streamed games here.\n\n\n\n\n\n\nAug 6, 2024\n\n\nCornelius Holler\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "private/private_posts/german_championship_first_weekend.html#streaming",
-    "href": "private/private_posts/german_championship_first_weekend.html#streaming",
-    "title": "First Weekend of the Open German Championships is coming up",
-    "section": "Streaming",
-    "text": "Streaming\nThe streams will be on the Youtube Channel of the German Frisbee Association (DFV).\n\nHeidees vs. Munic Masters Open (Sa., 9:00):\n\n\n    \n\n\n\n\nHeidees vs. 7 Schwaben (Sa., 12:20):\n\n\n    \n\n\n\n\nHeidees vs. FrankN (Su., 12:20):"
-  },
-  {
-    "objectID": "private/ultimate_frisbee/heidees_women_streams.html",
-    "href": "private/ultimate_frisbee/heidees_women_streams.html",
-    "title": "Heidees Women Streams",
-    "section": "",
-    "text": "Back to the overview\nHere are some of the streamed games I found of the Heidees Women team. Please note that this is not meant as an exhaustive list. If you found a video that I should add, please write me a message!"
-  },
-  {
-    "objectID": "private/ultimate_frisbee/heidees_women_streams.html#section",
-    "href": "private/ultimate_frisbee/heidees_women_streams.html#section",
-    "title": "Heidees Women Streams",
-    "section": "2023",
-    "text": "2023\n\nEUCF Wrocklaw, Poland\n\nHeidees vs. East Block (Pool D)\n\n\n\nEUCR Ghent, Belgium\n\nHeidees vs. Seagulls (Game to Go to EUCF)\n\n\n\nGerman Championships in Freiburg, Germany\n\nHeidees vs. Woodchicas (Semi-Final)\nHeidees vs. Seagulls (Pool A)"
-  },
-  {
-    "objectID": "private/ultimate_frisbee/heidees_women_streams.html#section-1",
-    "href": "private/ultimate_frisbee/heidees_women_streams.html#section-1",
-    "title": "Heidees Women Streams",
-    "section": "2013",
-    "text": "2013\n\nGerman Championships in Frankfurt a.M., Germany\n\nHeidees vs. Jinx"
-  },
-  {
-    "objectID": "private/ultimate_frisbee/heidees_women_streams.html#section-2",
-    "href": "private/ultimate_frisbee/heidees_women_streams.html#section-2",
-    "title": "Heidees Women Streams",
-    "section": "2024",
-    "text": "2024\n\nEuropean Indoor Championship\n\nHeidees vs. 3snakes\nHeidees vs. Ogre Moments"
-  },
-  {
-    "objectID": "private/ultimate_frisbee/heidees_women_streams.html#section-3",
-    "href": "private/ultimate_frisbee/heidees_women_streams.html#section-3",
-    "title": "Heidees Women Streams",
-    "section": "2020",
-    "text": "2020\n\nGerman Indoor Championships in Eppelheim, Germany\n\nHeidees vs. U de Cologne (Game for 5th Place)"
+    "text": "Hier geht es zurück zur Übersicht der Projekte\n\nTeaser\n\n\n    \n\n\n\n\nPoster\n\n\n\n\n\n\n\nErgänzende Informationen zum Poster\n\nAls Regressionsanalyse für Netzwerkdaten wurde die double semi-partialling Methode der multiple regression quadratic assignment procedure (MR-QAP) verwendet (Dekker et al., 2007). Die MR-QAP verwendet Permutationen zur Berechnung der Signifikanzwerte, da die Netzwerke gegen die Annahme der Unabhängigkeit der Beobachtungen der klassischen Testtheorie verstößt. Die double semi-partialling Methode ist besonders robust gegen Autokorrelation und Kolinearität der Prädiktornetzwerke.\nUm Attributsdaten in Netzwerkregressionen zu verwenden, müssen Annahmen getroffen werden um die Attribute in Netzwerke umzuwandeln. Auf dem Poster sind zwei dieser Annahmen durch match oder receiver verdeutlicht worden. Weitere Methoden sind in Borgatti et al. (2018) in Kap. 8.4 näher erläutert\n\nmatch\n\nAuf Basis der Homophilie (McPherson et al., 2001) wird angenommen, dass Sozialbeziehungen vermehrt zwischen Menschen auftreten, die sich in gewissen Merkmalen ähnlich sind. Das Attribut des Geschlechts wird also so in Netzwerkdaten umgewandelt, indem alleinig zwischen gleichgeschlechtlichen Schüler:innen eine Beziehung angenommen wird. In der Regression wird dann überprüft, inwiefern das Kriteriumsnetzwerk auch durch diese Geschlechtertrennung charakterisiert wird.\n\nreceiver\n\nDer receiver-Effekt basiert auf der Annahme, dass Hilfesuchende sich, unabhängig des eigenen Leistungsniveaus, stets zu dem/der Besten wenden, um Rat zu suchen. Übertragen auf die Sportnote entspricht dies der Annahme, dass alle Schüler:innen mit den Mitschüler:innen mit der besten Note zusammenarbeiten wollen. Es entspricht also der Annahme einer konventionellen Regressionsanalyse.\n\n\n\n\n(Weiterführende) Literatur\nBorgatti, S. P., Everett, M. G., &, Johnson, J. C. (2018). Analyzing social networks (2nd ed.). SAGE.\nBortz, J., &, Schuster, C. (2010). Statistik für Human- und Sozialwissenschaftler (7. Aufl.). Springer.\nCohen, J. (1988). Statistical power analysis for the behavioral sciences (2nd ed). L. Erlbaum Associates.\nDekker, D., Krackhardt, D., &, Snijders, T. A. B. (2007). Sensitivity of MRQAP Tests to Collinearity and Autocorrelation Conditions. Psychometrika, 72(4), 563–581. https://doi.org/10.1007/s11336-007-9016-1\nHenke, T. (2022). Grundlagen der Messung sozialer Strukturen und Verfahren zur Analyse von Peerbeziehungen im Klassenzimmer. In M. Kreutzmann, L. Zander, & B. Hannover (Hrsg.), Aufwachsen mit Anderen. Peerbeziehungen als Bildungsfaktor (S. 24–37). Verlag W. Kohlhammer.\nMcPherson, M., Smith-Lovin, L., &, Cook, J. M. (2001). Birds of a Feather: Homophily in Social Networks. Annual Review of Sociology, 27(1), 415–444. https://doi.org/10.1146/annurev.soc.27.1.415\nMejeh, M., &, Hascher, T. (2021). Soziale Netzwerkanalyse als Erfassungsinstrument sozialer Interaktionen in der Schule. In G. Hagenauer & D. Raufelder, Soziale Eingebundenheit. Sozialbeziehungen im Fokus von Schule und Lehrer*innenbildung. Waxmann.\n\n\nKontakt\nCornelius Holler\nRuprecht-Karls-Universität Heidelberg\nInstitut für Sport und Sportwissenschaft\nIm Neuenheimer Feld 700\n69120 Heidelberg\ncornelius.holler@issw.uni-heidelberg.de"
   },
   {
     "objectID": "private/ultimate_frisbee/heidees_open_streams.html",
@@ -364,24 +91,304 @@
     "text": "2024\n\nGerman Indoor Championship in Gemmrigheim, Germany\n\nHeidees vs. Zamperl (Pool B)\nHeidees vs. Cultimaters (Pool B)\nHeidees vs. Frizzly Bears (Pool B)\nHeidees vs. Hässliche Erdferkel (Semi-Final)\nHeidees vs. Gemmrigheim (Final)"
   },
   {
-    "objectID": "poster_dvs2022.html",
-    "href": "poster_dvs2022.html",
-    "title": "Poster auf der 35. Jahrestagung der Deutschen Vereinigung für Sportwissenschaft vom 16. bis 18. Juni 2022 in Münster",
+    "objectID": "private/ultimate_frisbee/heidees_women_streams.html",
+    "href": "private/ultimate_frisbee/heidees_women_streams.html",
+    "title": "Heidees Women Streams",
     "section": "",
-    "text": "Hier geht es zurück zur Übersicht der Projekte\n\nTeaser\n\n\n    \n\n\n\n\nPoster\n\n\n\n\n\n\n\nErgänzende Informationen zum Poster\n\nAls Regressionsanalyse für Netzwerkdaten wurde die double semi-partialling Methode der multiple regression quadratic assignment procedure (MR-QAP) verwendet (Dekker et al., 2007). Die MR-QAP verwendet Permutationen zur Berechnung der Signifikanzwerte, da die Netzwerke gegen die Annahme der Unabhängigkeit der Beobachtungen der klassischen Testtheorie verstößt. Die double semi-partialling Methode ist besonders robust gegen Autokorrelation und Kolinearität der Prädiktornetzwerke.\nUm Attributsdaten in Netzwerkregressionen zu verwenden, müssen Annahmen getroffen werden um die Attribute in Netzwerke umzuwandeln. Auf dem Poster sind zwei dieser Annahmen durch match oder receiver verdeutlicht worden. Weitere Methoden sind in Borgatti et al. (2018) in Kap. 8.4 näher erläutert\n\nmatch\n\nAuf Basis der Homophilie (McPherson et al., 2001) wird angenommen, dass Sozialbeziehungen vermehrt zwischen Menschen auftreten, die sich in gewissen Merkmalen ähnlich sind. Das Attribut des Geschlechts wird also so in Netzwerkdaten umgewandelt, indem alleinig zwischen gleichgeschlechtlichen Schüler:innen eine Beziehung angenommen wird. In der Regression wird dann überprüft, inwiefern das Kriteriumsnetzwerk auch durch diese Geschlechtertrennung charakterisiert wird.\n\nreceiver\n\nDer receiver-Effekt basiert auf der Annahme, dass Hilfesuchende sich, unabhängig des eigenen Leistungsniveaus, stets zu dem/der Besten wenden, um Rat zu suchen. Übertragen auf die Sportnote entspricht dies der Annahme, dass alle Schüler:innen mit den Mitschüler:innen mit der besten Note zusammenarbeiten wollen. Es entspricht also der Annahme einer konventionellen Regressionsanalyse.\n\n\n\n\n(Weiterführende) Literatur\nBorgatti, S. P., Everett, M. G., &, Johnson, J. C. (2018). Analyzing social networks (2nd ed.). SAGE.\nBortz, J., &, Schuster, C. (2010). Statistik für Human- und Sozialwissenschaftler (7. Aufl.). Springer.\nCohen, J. (1988). Statistical power analysis for the behavioral sciences (2nd ed). L. Erlbaum Associates.\nDekker, D., Krackhardt, D., &, Snijders, T. A. B. (2007). Sensitivity of MRQAP Tests to Collinearity and Autocorrelation Conditions. Psychometrika, 72(4), 563–581. https://doi.org/10.1007/s11336-007-9016-1\nHenke, T. (2022). Grundlagen der Messung sozialer Strukturen und Verfahren zur Analyse von Peerbeziehungen im Klassenzimmer. In M. Kreutzmann, L. Zander, & B. Hannover (Hrsg.), Aufwachsen mit Anderen. Peerbeziehungen als Bildungsfaktor (S. 24–37). Verlag W. Kohlhammer.\nMcPherson, M., Smith-Lovin, L., &, Cook, J. M. (2001). Birds of a Feather: Homophily in Social Networks. Annual Review of Sociology, 27(1), 415–444. https://doi.org/10.1146/annurev.soc.27.1.415\nMejeh, M., &, Hascher, T. (2021). Soziale Netzwerkanalyse als Erfassungsinstrument sozialer Interaktionen in der Schule. In G. Hagenauer & D. Raufelder, Soziale Eingebundenheit. Sozialbeziehungen im Fokus von Schule und Lehrer*innenbildung. Waxmann.\n\n\nKontakt\nCornelius Holler\nRuprecht-Karls-Universität Heidelberg\nInstitut für Sport und Sportwissenschaft\nIm Neuenheimer Feld 700\n69120 Heidelberg\ncornelius.holler@issw.uni-heidelberg.de"
+    "text": "Back to the overview\nHere are some of the streamed games I found of the Heidees Women team. Please note that this is not meant as an exhaustive list. If you found a video that I should add, please write me a message!"
   },
   {
-    "objectID": "private.html",
-    "href": "private.html",
-    "title": "About Me",
-    "section": "",
-    "text": "Ultimate Frisbee\n\nIn my free time, I love to play Ultimate Frisbee and I participate in national and international tournaments with Heidees. You can find information about Ultimate and videos of our games on the linked websites.\n\nCooking (ger)\n\nMy partner and I both love to cook and do it on a daily basis. Because writing shopping lists can be tedious and time consuming, I wrote a small shiny app to help with that. It can display our recipes but also add up the ingredients of multiple recipes to form one shopping list.\nBecause we are both vegan, using plant based products is always implied and we don’t use this label in our recipes.\nThe App is in a very early stage. If you have suggestions or nice recipes we should try, feel free to reach out!"
+    "objectID": "private/ultimate_frisbee/heidees_women_streams.html#section",
+    "href": "private/ultimate_frisbee/heidees_women_streams.html#section",
+    "title": "Heidees Women Streams",
+    "section": "2023",
+    "text": "2023\n\nEUCF Wrocklaw, Poland\n\nHeidees vs. East Block (Pool D)\n\n\n\nEUCR Ghent, Belgium\n\nHeidees vs. Seagulls (Game to Go to EUCF)\n\n\n\nGerman Championships in Freiburg, Germany\n\nHeidees vs. Woodchicas (Semi-Final)\nHeidees vs. Seagulls (Pool A)"
   },
   {
-    "objectID": "data_protection_SoNiS.html",
-    "href": "data_protection_SoNiS.html",
-    "title": "Datenschutzmaßnahmen für die Erhebung sozialer Netzwerke",
+    "objectID": "private/ultimate_frisbee/heidees_women_streams.html#section-1",
+    "href": "private/ultimate_frisbee/heidees_women_streams.html#section-1",
+    "title": "Heidees Women Streams",
+    "section": "2013",
+    "text": "2013\n\nGerman Championships in Frankfurt a.M., Germany\n\nHeidees vs. Jinx"
+  },
+  {
+    "objectID": "private/ultimate_frisbee/heidees_women_streams.html#section-2",
+    "href": "private/ultimate_frisbee/heidees_women_streams.html#section-2",
+    "title": "Heidees Women Streams",
+    "section": "2024",
+    "text": "2024\n\nEuropean Indoor Championship\n\nHeidees vs. 3snakes\nHeidees vs. Ogre Moments"
+  },
+  {
+    "objectID": "private/ultimate_frisbee/heidees_women_streams.html#section-3",
+    "href": "private/ultimate_frisbee/heidees_women_streams.html#section-3",
+    "title": "Heidees Women Streams",
+    "section": "2020",
+    "text": "2020\n\nGerman Indoor Championships in Eppelheim, Germany\n\nHeidees vs. U de Cologne (Game for 5th Place)"
+  },
+  {
+    "objectID": "private/private_posts/german_championship_first_weekend.html#streaming",
+    "href": "private/private_posts/german_championship_first_weekend.html#streaming",
+    "title": "First Weekend of the Open German Championships is coming up",
+    "section": "Streaming",
+    "text": "Streaming\nThe streams will be on the Youtube Channel of the German Frisbee Association (DFV).\n\nHeidees vs. Munic Masters Open (Sa., 9:00):\n\n\n    \n\n\n\n\nHeidees vs. 7 Schwaben (Sa., 12:20):\n\n\n    \n\n\n\n\nHeidees vs. FrankN (Su., 12:20):"
+  },
+  {
+    "objectID": "private/private_news.html",
+    "href": "private/private_news.html",
+    "title": "Tournaments",
     "section": "",
-    "text": "Hier geht es zurück zum Projekt\nDas Datenschutzkonzept der vorliegenden Studie wurde gemeinsam mit dem Datenschutzbeauftragen der Universität Heidelberg konzipiert. Die Erhebung und Verarbeitung der oben beschriebenen persönlichen Daten erfolgten pseudonymisiert im Institut für Sport und Sportwissenschaft unter Verwendung einer Nummer und ohne Angabe des Namens. Dazu werden allen Schüler:innen und Lehrkräften durch eine programmierte Exceldatei Zufallszahlen zugeordnet, sodass die Beantwortungen durch eine Eintragung der passenden Ziffern erfolgt.\nDie eingetragenen Zifferncodes werden im Anschluss an die Datenerhebung nach der Löschung der ersten Zuordnung durch Mitarbeiter:innen unserer Forschungsgruppe wiederum verschlüsselt. Ihr Name und der Name der Schüler:innen taucht also an keiner Stelle des Fragebogens auf. Daher kann aus der vorliegenden Befragung nicht auf einzelne Personen geschlossen werden. Zudem werden in allen Auswertungen und Berichten die Schulnamen ebenfalls nicht genannt und pseudonymisiert, damit niemand mehr die Daten mit Ihnen und Ihrer Schule in Verbindung bringen kann.\nAlle Informationen, die wir von Ihnen erheben, werden vertraulich behandelt, unterliegen dem Datenschutz, dienen allein wissenschaftlichen Zwecken und werden nicht an Dritte außerhalb unserer Forschungsgruppe weitergegeben. Weder Lehrkräfte noch Schulleitung erhalten Einblicke in die Daten oder die Auswertungen. Die Veröffentlichung der Ergebnisse der Studie erfolgt anonymisiert, d.h. sie können nicht mehr einer Person oder Schule zugeordnet werden. Aufgrund der beschriebenen vollständigen Anonymisierung, die nach der zweiten Verschlüsselung erfolgt, wird eine Löschung einzelner, personenbezogener Datensätze nicht mehr möglich sein."
+    "text": "Summer Invite 2024\n\n\n\n\n\n\n\nUltimate Frisbee\n\n\nEuropean Ultimate Federation\n\n\n2024\n\n\n\n\nWe are trying to qualify for the european championships in September.\n\n\n\n\n\n\nAug 14, 2024\n\n\nCornelius Holler\n\n\n\n\n\n\n\n\n\n\n\n\n\nFirst Weekend of the Open German Championships is coming up\n\n\n\n\n\n\n\nUltimate Frisbee\n\n\nGerman Championships\n\n\n2024\n\n\n\n\nI will be playing with Heidees in Nuremberg. See the schedule and links to streamed games here.\n\n\n\n\n\n\nAug 6, 2024\n\n\nCornelius Holler\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Schüßler, A., Holler, C., & Hill, Y. (2025). Do You Prefer to Collaborate with Students Pursuing the same Goals? A Network Analysis of Physical Education Classes, British Journal of Educational Psychology. https://doi.org/10.1111/bjep.12757\nHoller, C., & Schüßler, A. (2024). Gauging Acceptance: A Multifaceted Examination of Physical Ability and Its Role for Peer Networks in Adolescent Physical Education. Journal of Early Adolescence. https://doi.org/10.1177/02724316241265459\nHeim, R., Schüßler, A., &, Holler, C. (2023). Peerbeziehungen in der Sporthalle – Soziale Netzwerke im Sportunterricht [Peer relations in the gym – Social networks in Physical Education classes]. Zeitschrift für sportpädagogische Forschung, 11(1), 3–28. https://doi.org/10.5771/2196-5218-2023-1-5"
+  },
+  {
+    "objectID": "publications.html#articles-in-peer-reviewed-journals",
+    "href": "publications.html#articles-in-peer-reviewed-journals",
+    "title": "Publications",
+    "section": "",
+    "text": "Schüßler, A., Holler, C., & Hill, Y. (2025). Do You Prefer to Collaborate with Students Pursuing the same Goals? A Network Analysis of Physical Education Classes, British Journal of Educational Psychology. https://doi.org/10.1111/bjep.12757\nHoller, C., & Schüßler, A. (2024). Gauging Acceptance: A Multifaceted Examination of Physical Ability and Its Role for Peer Networks in Adolescent Physical Education. Journal of Early Adolescence. https://doi.org/10.1177/02724316241265459\nHeim, R., Schüßler, A., &, Holler, C. (2023). Peerbeziehungen in der Sporthalle – Soziale Netzwerke im Sportunterricht [Peer relations in the gym – Social networks in Physical Education classes]. Zeitschrift für sportpädagogische Forschung, 11(1), 3–28. https://doi.org/10.5771/2196-5218-2023-1-5"
+  },
+  {
+    "objectID": "publications.html#conference-contributions",
+    "href": "publications.html#conference-contributions",
+    "title": "Publications",
+    "section": "Conference Contributions",
+    "text": "Conference Contributions\n\nPresentations\nHoller, C., Schüßler, A., & Heim, R. (2025) Leistungsperspektiven und ihre Rollen für Peernetzwerke im Sportunterricht [Perspectives on performance and their roles for peer networks in physical education]. Presentation at the 12th conference of the Society for Empirical Educational Research (GEBF) from 27th-29th January 2025 in Mannheim, Germany.\nSchüßler, A., Holler, C., & Hill, Y. (2024). Exploring Goal Orientation in Peer Networks: The Role of Multidimensional Achievement Goals in Physical Education. Presentation at the SUNBELT Conference by the International Network for Social Network Analysis (INSNA) from 24th-30th June 2024 in Edinburgh, Scotland.\nHoller, C. (2024). Veridikalität des sportunterrichtlichen Selbstkonzeptes und ihre Effekte auf die Anstrengungsbereitschaft und soziale Eingebundenheit im Sportunterricht [Veridicality of the physical education self-concept and it’s effects on the engagement and social embeddedness in physical education]. Presentation at the 37th yearly conference by the German Society of Sport Science (dvs) section sports pedagogy from 30th May to 1st June 2024 in Essen, Germany.\nHoller, C. &, Schüßler, A. (2023). Peerbeziehungen in der Schulklasse - Soziale Netzwerke im (Sport-)Unterricht [Peer relations in the gym - Social networks in physical education classes]. Presentation at the autumn conference of the section “Sociological Network Science” of the German Sociological Association (GSA) on 15th and 16th September 2023 in Cologne, Germany.\nHoller, C. (2023). Social networks, external and self-assessments of performance in physical education. Presentation at the 7th European Conference on Social Networks from 4th-8th September 2023 in Ljubljana, Slovenia.\nHoller, C. (2023). Soziale Netzwerke, Fremd- und Selbsteinschätzungen der sportunterrichtlichen Leistungsfähigkeit [Social networks, external and self-assessments of performance in physical education]. Presentation at the 36th yearly conference by the German Society of Sport Science (dvs) section sports pedagogy from 8th-10th June 2023 in Hamburg, Germany.\nHeim, R., &, Holler C. (2022). Peerbeziehungen in der Schulklasse. Soziale Netzwerke im (Sport-) Unterricht [Peer relations in the gym - Social networks in (physical) education classes]. Presentation at the Subject Didactics Conference 2022 by the German and Austrian Societies of Subject Didactics (GFD and ÖGFD) from 29th-31st August 2022 in Vienna, Austria.\nSchüßler, A., &, Holler, C. (2021). Soziale Netzwerke im Sportunterricht [Social networks in physical education]. Presentation at the yearly conference of the German Society of Network Science (DGNet) from 6th-7th September 2021 in Bayreuth, Germany.\n\n\nPoster\nHoller, C., Schüßler, A., &, Heim, R. (2022). Analyse des Wahlverhaltens von Schüler:innen in typischen sportunterrichtlichen Kontexten [Analysis of the nominations of students in typical collaboration settings in physical education]. Poster at the 35th yearly conference by the German Society of Sport Science (dvs) section sports pedagogy from 16th-18th June 2022 in Münster, Germany."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Cornelius Holler",
+    "section": "",
+    "text": "I’m a doctoral candidate at the Institute of Sports and Sports Sciences at the University of Heidelberg. My research focuses on peer relationships (using social network analysis), self-concept and physical ability in physical education.\nYou can find my CV here as well as ongoing and finished projects and publications."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Cornelius Holler",
+    "section": "Contact",
+    "text": "Contact\nCornelius Holler (he/him)\nInstitute of Sports and Sports Sciences\nUniversity of Heidelberg\nIm Neuenheimer Feld 700\n69120 Heidelberg\nDE - Germany\ncornelius.holler@issw.uni-heidelberg.de"
+  },
+  {
+    "objectID": "index.html#weblinks",
+    "href": "index.html#weblinks",
+    "title": "Cornelius Holler",
+    "section": "Weblinks",
+    "text": "Weblinks\n University Profile\n Google Scholar\n Researchgate\n ORCID\n Bluesky\n LinkedIn"
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News",
+    "section": "",
+    "text": "New Paper published in The Journal of Early Adolescence\n\n\n\n\n\n\n\nScientific Paper\n\n\nPhysical Education\n\n\nSocial Network Analysis\n\n\n\n\nGauging Acceptance: A Multifaceted Examination of Physical Ability and Its Role for Peer Networks in Adolescent Physical Education\n\n\n\n\n\n\nJul 23, 2024\n\n\nCornelius Holler\n\n\n\n\n\n\n\n\n\n\n\n\n\nShiny app to assign students to topics\n\n\n\n\n\n\n\nR Programming\n\n\nTeaching\n\n\n\n\n\n\n\n\n\n\n\nJul 10, 2024\n\n\nCornelius Holler\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "development_flyer.html",
+    "href": "development_flyer.html",
+    "title": "Flyer zum Projekt “Entwicklung sozialer Beziehungen in Schulklasse und Sportunterricht”",
+    "section": "",
+    "text": "Hier geht es zurück zum Projekt"
+  },
+  {
+    "objectID": "posts/2024-07-10-group-assignment.html",
+    "href": "posts/2024-07-10-group-assignment.html",
+    "title": "Shiny app to assign students to topics",
+    "section": "",
+    "text": "I teach 1-2 seminars each winter semester, where students do presentations in groups of 2-3. Over the semester, we have 10 topics to cover, so the students need to form groups and we need to assign each group a topic to present. In my experience, this is usually done by going through the topics, assigning those which only one group wants to present and then go back through and let the students decide who “wins” the topic by playing rock-paper-scissors against each other.\nI found this method of assigning topics both annoying and unfair, because even though there can be a bit of a strategy behind choosing the topic, it is based on luck if you win your round of rock-paper-scissors or if you are handed through to your least favorite topic. So I wanted to create a better way to assign the topics to that each group gets their highest priority possible.\nLuckily, I was at the EUSN 2023 Conference in Ljubljana, Slovenia, at that time and talked about it with a colleague, Robert Panitz. He suggested the algorithm that I implemented, first into a simple R function, now into a publicly available Shiny app!\nIt essentially works by asking the students to rank each topic from 1 (best) to 10 (worst). The code then creates a square matrix with the students’ rankings in the rows and the topics in the columns. It then permutates the matrix columns a certain amount of times to see, which permutation yields the smallest sum of priorities. In the app, it of course works with any size of matrix and you can adjust the amount of permutations and if the rankings should be weighted in a linear or quadratic way.\nI created a separate page for the app where you can find more information about how it works and how to use it: Assigning Topics to Students - Shiny App"
+  },
+  {
+    "objectID": "posts/2024-07-23-gauging-acceptance.html",
+    "href": "posts/2024-07-23-gauging-acceptance.html",
+    "title": "New Paper published in The Journal of Early Adolescence",
+    "section": "",
+    "text": "📖 I am excited to share that our latest paper is now published in the Journal of Early Adolescence: “Gauging Acceptance: A Multifaceted Examination of Physical Ability and Its Role for Peer Networks in Adolescent Physical Education” coauthored with Annabell Schüßler!\nOur study explores the impact of perceived physical ability on peer collaboration in physical education through three lenses: self-concept, peer assessments, and teacher ratings. Using data from 302 students from 14 school classes, we analyzed how these perceptions influence team partner choices.\nKey Findings:\n\nPhysical ability is a significant factor in choosing team partners. High-performing and similar-performing peers are more likely to be selected, indicating that peer perceptions of ability are strongly associated with collaboration networks in sports games. 🏆\nOf the three perspectives of ability, only peer-perceived ability was a significant predictor of team partner choices. This highlights the unique role of peer assessments, which are rarely addressed in the literature. 👥\nGender and liking also play important roles in team partner selections. Students tend to prefer peers of the same gender and those they like, but peer-perceived ability remains a strong independent predictor even when controlling for these factors. 👫\n\nThese findings emphasize the importance of understanding peer dynamics in physical education to foster positive social interactions. For more details, check out the full paper here: https://doi.org/10.1177/02724316241265459"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "These are projects I did as a part of my dissertation.\n\n\n\nPoster auf der 38. Jahrestagung der deutschen Vereinigung für Sportwissenschaft vom 1. bis 3. Mai 2025 in Leipzig (ger)\n\n\n\n\nI planned and conducted a 1-year longitudinal social network study on peer relationships in physical education. The data collection was done during the 2023/24 school year and finished in July 2024.\n\nData Overview\n\nYou can download the preliminary version of the data overview here. Because the dataset is an important part of my PhD, I cannot yet publish the raw data, but plan to do it long term. I am open to collaborating on research projects, so if you want to work together on a paper using this data, please write me an e-mail!\n\nEntwicklung sozialer Beziehungen in Schulklasse und Sportunterricht (ger)\n\nThis project page was sent to teachers and parents to inform them about the procedure and goal of the project.\n\n\n\n\n\n\nPoster auf der 35. Jahrestagung der deutschen Vereinigung für Sportwissenschaft vom 16. bis 18. Juni 2022 in Münster (ger)\n\nYou can find the video teaser and the poster I presented on the yearly conference by the section Sports Pedagogy of the German Society of Sport Science (dvs). It is both in German."
+  },
+  {
+    "objectID": "projects.html#projects-related-to-my-dissertation",
+    "href": "projects.html#projects-related-to-my-dissertation",
+    "title": "Projects",
+    "section": "",
+    "text": "These are projects I did as a part of my dissertation.\n\n\n\nPoster auf der 38. Jahrestagung der deutschen Vereinigung für Sportwissenschaft vom 1. bis 3. Mai 2025 in Leipzig (ger)\n\n\n\n\nI planned and conducted a 1-year longitudinal social network study on peer relationships in physical education. The data collection was done during the 2023/24 school year and finished in July 2024.\n\nData Overview\n\nYou can download the preliminary version of the data overview here. Because the dataset is an important part of my PhD, I cannot yet publish the raw data, but plan to do it long term. I am open to collaborating on research projects, so if you want to work together on a paper using this data, please write me an e-mail!\n\nEntwicklung sozialer Beziehungen in Schulklasse und Sportunterricht (ger)\n\nThis project page was sent to teachers and parents to inform them about the procedure and goal of the project.\n\n\n\n\n\n\nPoster auf der 35. Jahrestagung der deutschen Vereinigung für Sportwissenschaft vom 16. bis 18. Juni 2022 in Münster (ger)\n\nYou can find the video teaser and the poster I presented on the yearly conference by the section Sports Pedagogy of the German Society of Sport Science (dvs). It is both in German."
+  },
+  {
+    "objectID": "projects.html#other-projects",
+    "href": "projects.html#other-projects",
+    "title": "Projects",
+    "section": "Other Projects",
+    "text": "Other Projects\nThese are projects I did in besides my dissertation.\n\nR package for analyzing school social network data\nAlready during my masters thesis, I started writing a package to help me and my colleagues with the data analysis. Over the years, I have developed it further, added more functions and options and it has been really useful for me. Because we use the same data structure for all our data collection efforts, the package is easily used with all of them. I have built the package locally and use it on a daily basis, but have not yet come around to bring it into a published form. My plan is to publish the package at some point on GitHub for everyone to use. For now, I have compiled the functions in one .R file so you can use it via “source()”.\n\nSoNiS.SNA.0.0.1.12.R\n\n\n\nR function and shiny app to sort assign students to topics in seminars\nThis is a program that I wrote to assign the students in my seminars to their preferred topic to present on. The students fill out a ranking of topics and tries to optimize the choices in a way that is preferential to the whole group. First I used it only inside of R but now I have published the program as a shiny app that is embedded into the page and you can use it yourself.\n\nAssigning Topics to (Groups of) Students in Seminars"
+  },
+  {
+    "objectID": "development_study2023.html",
+    "href": "development_study2023.html",
+    "title": "CH",
+    "section": "",
+    "text": "Hier geht es zurück zur Übersicht der Projekte"
+  },
+  {
+    "objectID": "development_study2023.html#entwicklung-sozialer-beziehungen-in-schulklasse-und-sportunterricht",
+    "href": "development_study2023.html#entwicklung-sozialer-beziehungen-in-schulklasse-und-sportunterricht",
+    "title": "CH",
+    "section": "Entwicklung sozialer Beziehungen in Schulklasse und Sportunterricht",
+    "text": "Entwicklung sozialer Beziehungen in Schulklasse und Sportunterricht\nHerzlich Willkommen auf der Website zum Projekt “Entwicklung sozialer Beziehungen in Schulklasse und Sportunterricht” des Forschungsprogramms Soziale Netzwerke im Sportunterricht (SoNiS) des Instituts für Sport und Sportwissenschaft der Universität Heidelberg.\nAuf diesen Seiten finden Sie alle Informationen über die Planung, Durchführung und Ziele des Projekts. Wenn Sie an der Studie teilnehmen wollen, bitte kontaktieren Sie den Studienleiter Cornelius Holler oder den Projektleiter Prof. Dr. Rüdiger Heim über die unten stehenden Kontaktmöglichkeiten."
+  },
+  {
+    "objectID": "development_study2023.html#informationen-über-die-studie",
+    "href": "development_study2023.html#informationen-über-die-studie",
+    "title": "CH",
+    "section": "Informationen über die Studie",
+    "text": "Informationen über die Studie\n\nAnschreiben für (Sport-)Lehrkräfte\nFlyer zum Projekt"
+  },
+  {
+    "objectID": "development_study2023.html#informationen-zum-datenschutz-und-zur-erhebungsmethodik",
+    "href": "development_study2023.html#informationen-zum-datenschutz-und-zur-erhebungsmethodik",
+    "title": "CH",
+    "section": "Informationen zum Datenschutz und zur Erhebungsmethodik",
+    "text": "Informationen zum Datenschutz und zur Erhebungsmethodik\n\nDatenschutzmaßnahmen für die Erhebung sozialer Netzwerke\nErhebung und Auswertung sozialer Netzwerke"
+  },
+  {
+    "objectID": "development_study2023.html#kontakt",
+    "href": "development_study2023.html#kontakt",
+    "title": "CH",
+    "section": "Kontakt",
+    "text": "Kontakt\n\n\n\nStudienleiter\nProjektleiter\n\n\n\n\nCornelius Holler\nInstitut für Sport und Sportwissenschaft\nUniversität Heidelberg\nIm Neuenheimer Feld 700\n60210 Heidelberg\ncornelius.holler@issw.uni-heidelberg.de\n+49 6221 54-4348\nProf. Dr. Rüdiger Heim\nInstitut für Sport und Sportwissenschaft\nUniversität Heidelberg\nIm Neuenheimer Feld 700\n60210 Heidelberg\nruediger.heim@issw.uni-heidelberg.de\n+49 6221 54-8622"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Cornelius Holler (he/him)\nInstitute of Sports and Sports Sciences\nUniversity of Heidelberg\nIm Neuenheimer Feld 700\n69120 Heidelberg\nDE - Germany\ncornelius.holler@issw.uni-heidelberg.de"
+  },
+  {
+    "objectID": "about.html#weblinks",
+    "href": "about.html#weblinks",
+    "title": "Contact",
+    "section": "Weblinks",
+    "text": "Weblinks\n University Profile\n Google Scholar\n Researchgate\n ORCID\n Twitter / X\n LinkedIn"
+  },
+  {
+    "objectID": "private/ultimate_frisbee.html",
+    "href": "private/ultimate_frisbee.html",
+    "title": "Ultimate Frisbee",
+    "section": "",
+    "text": "I play Ultimate Frisbee actively since 2022 and competitively since 2023, where I first joined the Heidees Open team, which plays national and international tournaments. This year is my second season with the team and it is tons of fun.\nIf you don’t know what Ultimate is, here is the website on Ultimate by the World Flying Disc Federation (WFDF): https://wfdf.sport/disciplines/ultimate/"
+  },
+  {
+    "objectID": "private/ultimate_frisbee.html#want-to-watch-some-games",
+    "href": "private/ultimate_frisbee.html#want-to-watch-some-games",
+    "title": "Ultimate Frisbee",
+    "section": "Want to watch some games?",
+    "text": "Want to watch some games?\nIf you want to watch us and other Heidees teams play, here are some pages with numerous games by our different teams:\n\nHeidees Open streams\nHeidees Women streams\nHeidees Mixed streams"
+  },
+  {
+    "objectID": "private/private_posts/summer_invite_2024.html",
+    "href": "private/private_posts/summer_invite_2024.html",
+    "title": "Summer Invite 2024",
+    "section": "",
+    "text": "Starting this year, the European Ultimate Federation (EUF) has introduced a ranking system that calculates and updates a ranking of all registered teams after each set of tournaments. A detailed description of how it is calculated, why it is used and the current ranking is presented here.\nWe are currently (14th August 2024) ranked 19th. To qualify for the EUCF we need to get at least rank 16 or win the Summer Invite to get a wildcard to the finals. Luckily, we have some really good teams in our pool on Saturday and other great teams at the tournament who we hope to match up against on Sunday."
+  },
+  {
+    "objectID": "private/private_posts/summer_invite_2024.html#qualification-for-the-european-championships-eucf",
+    "href": "private/private_posts/summer_invite_2024.html#qualification-for-the-european-championships-eucf",
+    "title": "Summer Invite 2024",
+    "section": "",
+    "text": "Starting this year, the European Ultimate Federation (EUF) has introduced a ranking system that calculates and updates a ranking of all registered teams after each set of tournaments. A detailed description of how it is calculated, why it is used and the current ranking is presented here.\nWe are currently (14th August 2024) ranked 19th. To qualify for the EUCF we need to get at least rank 16 or win the Summer Invite to get a wildcard to the finals. Luckily, we have some really good teams in our pool on Saturday and other great teams at the tournament who we hope to match up against on Sunday."
+  },
+  {
+    "objectID": "private/private_posts/summer_invite_2024.html#schedule",
+    "href": "private/private_posts/summer_invite_2024.html#schedule",
+    "title": "Summer Invite 2024",
+    "section": "Schedule",
+    "text": "Schedule"
+  },
+  {
+    "objectID": "private/private_posts/summer_invite_2024.html#streaming",
+    "href": "private/private_posts/summer_invite_2024.html#streaming",
+    "title": "Summer Invite 2024",
+    "section": "Streaming",
+    "text": "Streaming\nThe games will be streamed on Solidsports, a paid platform that is the new streaming partner of the EUF from 2024-2027. If you want, you can find the platform and buy a pass here.\nIt seems all of our three games on Saturday will be streamed on the platform. The streamed games for Sunday are not yet determined."
+  },
+  {
+    "objectID": "private/ultimate_frisbee/heidees_mixed_streams.html",
+    "href": "private/ultimate_frisbee/heidees_mixed_streams.html",
+    "title": "Heidees Mixed Streams",
+    "section": "",
+    "text": "Back to the overview\nHere are some of the streamed games I found of the Heidees Mixed team. Please note that this is not meant as an exhaustive list. If you found a video that I should add, please write me a message!"
+  },
+  {
+    "objectID": "private/ultimate_frisbee/heidees_mixed_streams.html#section",
+    "href": "private/ultimate_frisbee/heidees_mixed_streams.html#section",
+    "title": "Heidees Mixed Streams",
+    "section": "2024",
+    "text": "2024\n\nGerman Championships 2025 in Aachen, Germany\n\nHeidees vs. Frizzly Bears\nHeidees vs. Nullacht! Ultimate"
+  },
+  {
+    "objectID": "private/ultimate_frisbee/heidees_mixed_streams.html#section-1",
+    "href": "private/ultimate_frisbee/heidees_mixed_streams.html#section-1",
+    "title": "Heidees Mixed Streams",
+    "section": "2014",
+    "text": "2014\n\nWUCC 2014 in Lecco, Italy\n\nHeidees vs. Element\nHeidees vs. Drag’n Thrust\nHeidees vs. Vaasa Saints\nHeidees vs. Union"
+  },
+  {
+    "objectID": "private/ultimate_frisbee/heidees_mixed_streams.html#section-2",
+    "href": "private/ultimate_frisbee/heidees_mixed_streams.html#section-2",
+    "title": "Heidees Mixed Streams",
+    "section": "2025",
+    "text": "2025\n\nGerman Indoor Championship 2025 in Frankfurt, Germany (2nd League)\n\nHeidees vs. Hakuna Matata\nHeidees vs. Colorado\nHeidees vs. FT Ultimate Würzburg\nHeidees vs. high enerGI (Halbfinale)\nHeidees vs. FT Ultimate Würzburg (Finale)"
+  },
+  {
+    "objectID": "private/ultimate_frisbee/heidees_mixed_streams.html#section-3",
+    "href": "private/ultimate_frisbee/heidees_mixed_streams.html#section-3",
+    "title": "Heidees Mixed Streams",
+    "section": "2024",
+    "text": "2024\n\nGerman Indoor Championship 2024 in Geretsried, Germany\n\nHeidees vs. Hucks Ultimate Club\nHeidees vs. Frizzly Bears\nHeidees vs. Maultaschen\nHeidees vs. Mainzelrenner"
+  },
+  {
+    "objectID": "call_for_teachers.html",
+    "href": "call_for_teachers.html",
+    "title": "Anschreiben für (Sport-)Lehrkräfte",
+    "section": "",
+    "text": "Hier geht es zurück zum Projekt"
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "CV",
+    "section": "",
+    "text": "Last updated March 2025"
+  },
+  {
+    "objectID": "methods_and_analyses_SoNiS.html",
+    "href": "methods_and_analyses_SoNiS.html",
+    "title": "CH",
+    "section": "",
+    "text": "Hier geht es zurück zum Projekt"
+  },
+  {
+    "objectID": "methods_and_analyses_SoNiS.html#erhebung-und-auswertung-sozialer-netzwerke",
+    "href": "methods_and_analyses_SoNiS.html#erhebung-und-auswertung-sozialer-netzwerke",
+    "title": "CH",
+    "section": "Erhebung und Auswertung sozialer Netzwerke",
+    "text": "Erhebung und Auswertung sozialer Netzwerke\nDie Erhebung sozialer Netzwerkdaten erfolgt mittels Nominierungsfragen. Hierbei werden die Schüler:innen gebeten, für Interaktions- oder Beziehungsbeschreibungen die Zahlencodes (siehe Datenschutzmaßnahmen) der Mitschüler:innen aufzuschreiben, die auf diese Beschreibungen zutreffen. Eine Beispielfrage würde z.B. so aussehen:\n\n\n\n\n\nDie Daten einer Nominierungsfrage werden in einer sog. “Nodelist” gespeichert, die hier beispielhaft aufgeführt wird:\n\n\n\nZahlencode\nZsmarbeiten_01\nZsmarbeiten_02\nZsmarbeiten_03\n\n\n\n\n1\n\n\n\n\n\n2\n4\n5\n\n\n\n3\n8\n9\n\n\n\n4\n2\n6\n7\n\n\n5\n3\n9\n\n\n\n…\n…\n…\n…\n\n\n\nDie Daten aus der Nodelist werden dann mit einem Statistikprogramm (z.B. UCINET) oder einer Programmiersprache (z.B. R) in sog. “Adjacency Matrix” umgewandelt, die Beziehungen mit “1” und fehlende Beziehungen mit “0” kennzeichnet. Aus ihr können sowohl individuelle Maße wie z.B. der “Indegree” (Anzahl an eingehenden Nominierungen) berechnet oder Netzwerkgraphen geplottet werden, die Netzwerke können jedoch auch direkt in statistische Verfahren einfließen.\nEin Beispiel für eine Adjacency Matrix mit einem entsprechenden Netzwerkgraphen ist hier abgebildet. Die Zeilen symbolisieren die ausgehenden Nominierungen während die Spalten die eingehenden Nominierungen darstellen."
+  },
+  {
+    "objectID": "2025-05_dvs_poster.html",
+    "href": "2025-05_dvs_poster.html",
+    "title": "Poster auf der 38. Jahrestagung der deutschen Vereinigung für Sportwissenschaft vom 1. bis 3. Mai 2025 in Leipzig (ger)",
+    "section": "",
+    "text": "Hier geht es zurück zur Übersicht der Projekte\nHier finden Sie in den nächsten Wochen mein Poster und weiterführende Materialien für die dvs Sektion Sportpädagogik Tagung in Leipzig."
   }
 ]

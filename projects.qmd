@@ -6,6 +6,10 @@ title: "Projects"
 
 These are projects I did as a part of my dissertation.
 
+### Poster and Supplementary Material for the 38th Yearly Conference of the German Society of Sport Science (dvs) Section Sports Pedagogy 2025
+
+-   [Poster auf der 38. Jahrestagung der deutschen Vereinigung für Sportwissenschaft vom 1. bis 3. Mai 2025 in Leipzig (ger)](2025-05_dvs_poster.qmd)
+
 ### SNAP-PE
 
 I planned and conducted a 1-year longitudinal social network study on peer relationships in physical education. The data collection was done during the 2023/24 school year and finished in July 2024.
@@ -18,7 +22,7 @@ I planned and conducted a 1-year longitudinal social network study on peer relat
 
     -   This project page was sent to teachers and parents to inform them about the procedure and goal of the project.
 
-### Poster and Supplementary Material for the Yearly Conference of the German Society of Sport Science (dvs) Section Sports Pedagogy 2022
+### Poster and Supplementary Material for the Yearly Conference of the dvs Section Sports Pedagogy 2022
 
 -   [Poster auf der 35. Jahrestagung der deutschen Vereinigung für Sportwissenschaft vom 16. bis 18. Juni 2022 in Münster (ger)](poster_dvs2022.qmd)
 
