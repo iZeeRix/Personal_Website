@@ -6,3 +6,26 @@ format: html
 [Hier geht es zurück zur Übersicht der Projekte](projects.qmd)
 
 Hier finden Sie in den nächsten Wochen mein Poster und weiterführende Materialien für die dvs Sektion Sportpädagogik Tagung in Leipzig.
+
+### **Poster**
+
+#### Verwendeter Datensatz
+
+Den zugrunde liegende Datensatz habe ich im Rahmen meiner Doktorarbeit an der Universität Heidelberg erhoben. Es ist ein längsschnittdatensatz mit drei Erhebungszeitpunkten über ein Schuljahr hinweg und beinhaltet sowohl soziale Netzwerke (z.B. Freundschaften, präferierte Spiel- und Gruppenarbeitspartner:innen) als auch standardisierte Fragebögen (z.B. Selbstkonzepte, Anstrengungsbereitschaft, Growth & Fixed mindset) und soziodemographische Daten (z.B. Geschlecht, Sportvereinsmitgliedschaft). Da die Daten erst kürzlich (Schuljahr 2023/24) erhoben wurden und Teil meiner noch laufenden Doktorarbeit sind, kann ich die Daten noch **nicht öffentlich zu Verfügung** stellen. Ich bin jedoch für Kooperationen und gemeinsame Projekte offen. Für einen Überblick über die Daten können Sie [hier das Codebook runterladen](/Attachments/Documents/Dataset_Overview_SNAP-PE.pdf).
+
+### **Literatur**
+
+### Vollständige SAOM Tabelle
+
+![](Attachments/Pictures/2025-04-09_Table_Poster.png){fig-align="center" width="70%"}
+
+### **Kontakt**
+
+Cornelius Holler
+
+Ruprecht-Karls-Universität Heidelberg\
+Institut für Sport und Sportwissenschaft\
+Im Neuenheimer Feld 700\
+69120 Heidelberg
+
+[cornelius.holler\@issw.uni-heidelberg.de](mailto:cornelius.holler@issw.uni-heidelberg.de)
