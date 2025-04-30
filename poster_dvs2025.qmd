@@ -7,9 +7,9 @@ format: html
 
 Hier finden Sie in den nächsten Wochen mein Poster und weiterführende Materialien für die dvs Sektion Sportpädagogik Tagung in Leipzig.
 
-## **Poster (vorläufige Version 20.04.2025)**
+## **Poster**
 
-![](Attachments/Pictures/2025-04-20_Holler_Veenstra_dvs_Poster.png){fig-align="center"}
+![](Attachments/Pictures/2025-04-30_Holler_Veenstra_dvs_Poster.jpg){fig-align="center" width="80%"}
 
 ## Zusätzliche Informationen
 
@@ -27,7 +27,23 @@ Die Berechnung der peerwahrgenommenen sportlichen Leistung erfolgte aus den Nomi
 
 ![](Attachments/Pictures/2025-04-09_Table_Poster.png){fig-align="center" width="70%"}
 
-## **Literatur**  
+### Einteilung der Schüler:innen in Leistungsgruppen
+
+Die Einteilung erfolgte basierend auf der peerwahrgenommenen Leistungsfähigkeit in Abhängigkeit zur mittleren Leistung innerhalb der Klasse:
+
+-   "leistungsschwach": Leistung weiter als eine Standardabweichung unter dem Mittelwert
+
+-   "eher leistungsschwach": Leistung zwischen einer Standardabweichung unter und dem Mittelwert
+
+-   "eher leistungsstark": Leistung zwischen dem Mittelwert und einer Standardabweichung oberhalb
+
+-   "leistungsstark": Leistung über einer Standardabweichung über dem Mittelwert
+
+### Alternative Darstellung der Heatmaps
+
+![](Attachments/Pictures/2025-04-28_2x4x2_heatmap.jpg){fig-align="center" width="100%"}
+
+## **Literatur**
 
 Holler, C., & Schüßler, A. (2024). Gauging Acceptance: A Multifaceted Examination of Physical Ability and Its Role for Peer Networks in Adolescent Physical Education. *The Journal of Early Adolescence*, 02724316241265459. <https://doi.org/10.1177/02724316241265459>
 
