@@ -1,5 +1,7 @@
 ---
 title: "Poster auf der 38. Jahrestagung der deutschen Vereinigung für Sportwissenschaft vom 1. bis 3. Mai 2025 in Leipzig (ger)"
+published-title: "Last modified:"
+date: "April 30, 2025" # last-modified
 format: html
 ---
 

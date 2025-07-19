@@ -1,5 +1,7 @@
 ---
 title: Flyer zum Projekt "Entwicklung sozialer Beziehungen in Schulklasse und Sportunterricht"
+published-title: "Last modified:"
+date: "July 23, 2024" # last-modified
 ---
 
 [Hier geht es zurück zum Projekt](development_study2023.qmd)

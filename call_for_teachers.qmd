@@ -1,5 +1,7 @@
 ---
 title: "Anschreiben für (Sport-)Lehrkräfte"
+published-title: "Last modified:"
+date: "July 23, 2024" # last-modified
 ---
 
 [Hier geht es zurück zum Projekt](development_study2023.qmd)

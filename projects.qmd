@@ -1,5 +1,7 @@
 ---
 title: "Projects"
+published-title: "Last modified:"
+date: "April 9, 2025" # last-modified
 ---
 
 ## Projects related to my Dissertation

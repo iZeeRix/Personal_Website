@@ -1,5 +1,7 @@
 ---
 title: "Assigning Topics to (Groups of) Students in Seminars"
+published-title: "Last modified:"
+date: "July 24, 2024" # last-modified
 sitepath: "/projects/"
 ---
 
@@ -26,6 +28,7 @@ You can find the program here, and a more detailed example is shown below.
 <iframe height="800" src="https://corneliusholler.shinyapps.io/gruppenzuweisung/" id="myFrame">
 </iframe>
 ```
+
 ## Example
 
 The data for this example are original rankings from one of my seminars. Here is an overview:

@@ -1,5 +1,7 @@
 ---
 title: Ultimate Frisbee
+published-title: "Last modified:"
+date: "September 6, 2024" # last-modified
 ---
 
 ![](/Attachments/Pictures/Windmill_Pic.jpg){fig-align="center" width="100%"}

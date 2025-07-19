@@ -1,5 +1,7 @@
 ---
 title: "Poster auf der 35. Jahrestagung der Deutschen Vereinigung für Sportwissenschaft vom 16. bis 18. Juni 2022 in Münster"
+published-title: "Last modified:"
+date: "April 9, 2025" # last-modified
 sitepath: "/projects/"
 ---
 
