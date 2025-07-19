@@ -1,7 +1,7 @@
 ---
 title: "CV"
+published-title: "Last modified:"
+date: "March 2025" #last-modified
 ---
-
-Last updated March 2025
 
 ![](Attachments/Pictures/2025-03-07_Coni_CV_website_0.jpg){fig-align="center" width="100%"} ![](Attachments/Pictures/2025-03-07_Coni_CV_website_1.jpg){fig-align="center" width="100%"} ![](Attachments/Pictures/2025-03-07_Coni_CV_website_2.jpg){fig-align="center" width="100%"}

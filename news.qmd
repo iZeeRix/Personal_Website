@@ -1,5 +1,7 @@
 ---
 title: "News"
+published-title: "Last modified:"
+date: last-modified
 listing: 
   contents: posts # all Quarto docs in the `posts` directory will be included on your listing page
   type: default

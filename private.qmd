@@ -1,5 +1,7 @@
 ---
 title: "About Me"
+published-title: "Last modified:"
+date: last-modified
 ---
 
 -   [Ultimate Frisbee](private/ultimate_frisbee.qmd)

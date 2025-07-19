@@ -35,13 +35,6 @@
     "text": "Erhebung und Auswertung sozialer Netzwerke\nDie Erhebung sozialer Netzwerkdaten erfolgt mittels Nominierungsfragen. Hierbei werden die Schüler:innen gebeten, für Interaktions- oder Beziehungsbeschreibungen die Zahlencodes (siehe Datenschutzmaßnahmen) der Mitschüler:innen aufzuschreiben, die auf diese Beschreibungen zutreffen. Eine Beispielfrage würde z.B. so aussehen:\n\n\n\n\n\nDie Daten einer Nominierungsfrage werden in einer sog. “Nodelist” gespeichert, die hier beispielhaft aufgeführt wird:\n\n\n\nZahlencode\nZsmarbeiten_01\nZsmarbeiten_02\nZsmarbeiten_03\n\n\n\n\n1\n\n\n\n\n\n2\n4\n5\n\n\n\n3\n8\n9\n\n\n\n4\n2\n6\n7\n\n\n5\n3\n9\n\n\n\n…\n…\n…\n…\n\n\n\nDie Daten aus der Nodelist werden dann mit einem Statistikprogramm (z.B. UCINET) oder einer Programmiersprache (z.B. R) in sog. “Adjacency Matrix” umgewandelt, die Beziehungen mit “1” und fehlende Beziehungen mit “0” kennzeichnet. Aus ihr können sowohl individuelle Maße wie z.B. der “Indegree” (Anzahl an eingehenden Nominierungen) berechnet oder Netzwerkgraphen geplottet werden, die Netzwerke können jedoch auch direkt in statistische Verfahren einfließen.\nEin Beispiel für eine Adjacency Matrix mit einem entsprechenden Netzwerkgraphen ist hier abgebildet. Die Zeilen symbolisieren die ausgehenden Nominierungen während die Spalten die eingehenden Nominierungen darstellen."
   },
   {
-    "objectID": "CV.html",
-    "href": "CV.html",
-    "title": "CV",
-    "section": "",
-    "text": "Last updated March 2025"
-  },
-  {
     "objectID": "call_for_teachers.html",
     "href": "call_for_teachers.html",
     "title": "Anschreiben für (Sport-)Lehrkräfte",
