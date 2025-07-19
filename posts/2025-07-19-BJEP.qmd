@@ -1,0 +1,19 @@
+---
+title: "New Paper published in the British Journal of Educational Psychology"
+description: "Do you prefer to collaborate with students pursuing the same goals? - A network analysis of physical education classes"
+author:
+  - name: Cornelius Holler
+date: 2025-07-19
+categories: [Scientific Paper, Physical Education, Social Network Analysis, Achievement Goals]
+draft: false
+---
+
+I'm happy to share that our new article has been published in the British Journal of Educational Psychology: "Do you prefer to collaborate with students pursuing the same goals? – A network analysis of physical education classes" with [Annabell Schüßler](https://www.issw.uni-heidelberg.de/personal/wissen_personal/schuessler.html){target="_blank"} and [Yannick Hill](https://research.vu.nl/en/persons/yannick-hill){target="_blank"}
+
+We used exponential random graph models on a sample of 364 students from 16 classrooms to look at whether students prefer to collaborate with peers who share similar achievement goals, show stronger motivation, are of the same gender, or are friends.
+
+The results suggest that students often choose teammates with similar levels of achievement goals in physical education, but also those who are motivated to outperform others. At the same time, friendship and gender homophily play significant roles in team selection. When nominating friends, the role of a high motivation to outperform is diminished and similarity is higher.
+
+The findings highlight complex dependencies between choosing motivated students, friends and same-gender peers in physical education and the protective role of friendship for social exclusion.
+
+The full article is available here: <https://doi.org/10.1111/bjep.12757>
