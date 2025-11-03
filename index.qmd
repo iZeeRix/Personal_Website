@@ -13,9 +13,9 @@ You can find my CV [here](CV.qmd) as well as ongoing and finished [projects](pro
 
 Cornelius Holler (he/him)
 
-Institute of Sports Science\
+Institute of Sports Sciences\
 Saarland University\
-Campus\
+Campus, Geb. B8 1\
 66123 Saarbrücken\
 DE - Germany
 
@@ -23,14 +23,16 @@ DE - Germany
 
 ## Weblinks
 
-![](Attachments/Pictures/ISSW_logo.png){width="17" height="24"} [University Profile (University of Heidelberg)](https://www.issw.uni-heidelberg.de/personal/homepage/holler_c.html){target="_blank"}
+![](Attachments/Pictures/SWI_Logo.jpg){width="24"} [Saarland University](https://www.uni-saarland.de/fachrichtung/sportwissenschaft/institut/mitarbeitende/holler-cornelius-med.html){target="_blank"}
 
-{{< iconify academicons google-scholar-square size=xl >}} [Google Scholar](https://scholar.google.com/citations?hl=de&user=QUCCKq0AAAAJ){target="_blank"}
+![](Attachments/Pictures/ISSW_logo.png){width="17" height="24"} [University of Heidelberg](https://www.issw.uni-heidelberg.de/personal/homepage/holler_c.html){target="_blank"}
+
+{{< iconify academicons google-scholar size=xl >}} [Google Scholar](https://scholar.google.com/citations?hl=de&user=QUCCKq0AAAAJ){target="_blank"}
 
 {{< ai researchgate size=xl >}} [Researchgate](https://www.researchgate.net/profile/Cornelius_Holler){target="_blank"}
 
 {{< ai orcid size=xl >}} [ORCID](https://orcid.org/0009-0008-6599-8971){target="_blank"}
 
-![](Attachments/Pictures/Bluesky.png){width="27" height="24"} [Bluesky](https://bsky.app/profile/corneliusholler.de){target="_blank"}
+{{< iconify logos bluesky size=xl >}} [Bluesky](https://bsky.app/profile/corneliusholler.de){target="_blank"}
 
-{{< iconify mdi linkedin size=xl >}} [LinkedIn](https://www.linkedin.com/in/cornelius-holler/){target="_blank"}
+{{< iconify devicon linkedin size=xl >}} [LinkedIn](https://www.linkedin.com/in/cornelius-holler/){target="_blank"}

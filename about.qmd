@@ -7,24 +7,26 @@ about:
 
 Cornelius Holler (he/him)
 
-Institute of Sports and Sports Sciences\
-University of Heidelberg\
-Im Neuenheimer Feld 700\
-69120 Heidelberg\
+Institute of Sport Sciences\
+Saarland University\
+Campus, Geb. B8 1\
+66123 Saarbrücken\
 DE - Germany
 
-[cornelius.holler\@issw.uni-heidelberg.de](mailto:cornelius.holler@issw.uni-heidelberg.de)
+[cornelius.holler\@uni-saarland.de](mailto:cornelius.holler@uni-saarland.de)
 
 ## Weblinks
 
-![](Attachments/Pictures/ISSW_logo.png){width="17" height="24"} [University Profile](https://www.issw.uni-heidelberg.de/personal/homepage/holler_c.html){target="_blank"}
+![](Attachments/Pictures/SWI_Logo.jpg){width="24"} [Saarland University](https://www.uni-saarland.de/fachrichtung/sportwissenschaft/institut/mitarbeitende/holler-cornelius-med.html){target="_blank"}
 
-{{< iconify academicons google-scholar-square size=xl >}} [Google Scholar](https://scholar.google.com/citations?hl=de&user=QUCCKq0AAAAJ){target="_blank"}
+![](Attachments/Pictures/ISSW_logo.png){width="17" height="24"} [University of Heidelberg](https://www.issw.uni-heidelberg.de/personal/homepage/holler_c.html){target="_blank"}
+
+{{< iconify academicons google-scholar size=xl >}} [Google Scholar](https://scholar.google.com/citations?hl=de&user=QUCCKq0AAAAJ){target="_blank"}
 
 {{< ai researchgate size=xl >}} [Researchgate](https://www.researchgate.net/profile/Cornelius_Holler){target="_blank"}
 
 {{< ai orcid size=xl >}} [ORCID](https://orcid.org/0009-0008-6599-8971){target="_blank"}
 
-{{< iconify ri twitter-x-fill size=xl >}} [Twitter / X](https://twitter.com/CorneliusHoller){target="_blank"}
+{{< iconify logos bluesky size=xl >}} [Bluesky](https://bsky.app/profile/corneliusholler.de){target="_blank"}
 
-{{< iconify mdi linkedin size=xl >}} [LinkedIn](https://www.linkedin.com/in/cornelius-holler/){target="_blank"}
+{{< iconify devicon linkedin size=xl >}} [LinkedIn](https://www.linkedin.com/in/cornelius-holler/){target="_blank"}
