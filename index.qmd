@@ -35,4 +35,4 @@ DE - Germany
 
 {{< iconify logos bluesky size=xl >}} [Bluesky](https://bsky.app/profile/corneliusholler.de){target="_blank"}
 
-{{< iconify devicon linkedin size=xl >}} [LinkedIn](https://www.linkedin.com/in/cornelius-holler/){target="_blank"}
+{{< iconify devicon linkedin size=xl >}} [LinkedIn](#0){target="_blank"}
