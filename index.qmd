@@ -5,7 +5,7 @@ about:
   image: /Attachments/Pictures/Muenster_Poster_Holler.jpg
 ---
 
-I'm a research associate at Saarland University and a doctoral candidate at the University of Heidelberg. I handed in my thesis in September 2025 and will defend my PhD at the end of 2025 or the beginning of 2026. My research focuses on peer relationships (using social network analysis), self-concept and physical ability in physical education.
+I'm a research associate at Saarland University and a doctoral candidate at the University of Heidelberg. I handed in my thesis in September 2025 and will defend my PhD in January of 2026. My research focuses on peer relationships (using social network analysis), self-concept and physical ability in physical education.
 
 You can find my CV [here](CV.qmd) as well as ongoing and finished [projects](projects.qmd) and [publications](publications.qmd).
 
