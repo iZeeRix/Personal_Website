@@ -5,13 +5,13 @@ about:
   image: /Attachments/Pictures/Muenster_Poster_Holler.jpg
 ---
 
-I'm a research associate at Saarland University and a doctoral candidate at the University of Heidelberg. I handed in my thesis in September 2025 and will defend my PhD in January of 2026. My research focuses on peer relationships (using social network analysis), self-concept and physical ability in physical education.
+I am a postdoctoral researcher in the department of sports pedagogy at Saarland University. I completed my doctoral degree at the University of Heidelberg in January 2026. My research focuses on peer relationships (using social network analysis), self-concept and physical ability in physical education.
 
 You can find my CV [here](CV.qmd) as well as ongoing and finished [projects](projects.qmd) and [publications](publications.qmd).
 
 ## Contact
 
-Cornelius Holler (he/him)
+Dr. Cornelius Holler (he/him)
 
 Institute of Sports Sciences\
 Saarland University\
@@ -24,8 +24,6 @@ DE - Germany
 ## Weblinks
 
 ![](Attachments/Pictures/SWI_Logo.jpg){width="24"} [Saarland University](https://www.uni-saarland.de/fachrichtung/sportwissenschaft/institut/mitarbeitende/holler-cornelius-med.html){target="_blank"}
-
-![](Attachments/Pictures/ISSW_logo.png){width="17" height="24"} [University of Heidelberg](https://www.issw.uni-heidelberg.de/personal/homepage/holler_c.html){target="_blank"}
 
 {{< iconify academicons google-scholar size=xl >}} [Google Scholar](https://scholar.google.com/citations?hl=de&user=QUCCKq0AAAAJ){target="_blank"}
 
