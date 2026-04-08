@@ -1,0 +1,19 @@
+---
+title: "Doktorarbeit verteidigt und Promotionsurkunde erhalten"
+description: "Im Januar habe ich meine Doktorarbeit erfolgreich verteidigt und kann ab sofort meinen Titel führen!"
+author:
+  - name: Cornelius Holler
+date: 2026-04-08
+categories: [Career]
+draft: false
+---
+
+🎓 In January, I successfully defended my dissertation on the role of perceived physical ability for social networks in physical education ("*Die Rolle der wahrgenommenen sportunterrichtlichen Leistung für soziale Netzwerke im Sportunterricht*") and today I received my doctoral certificate from the University of Heidelberg!
+
+I am excited that all three manuscripts submitted as part of my cumulative dissertation have now been published, and that the dissertation itself is freely available: [https://doi.org/10.11588/heidok.00038120](https://doi.org/10.11588/heidok.00038120){target="_blank"}
+
+I would like to thank my two advisors, [Rüdiger Heim](https://www.issw.uni-heidelberg.de/personal/homepage/heim_r.html){target="_blank"} and [Erin Gerlach](https://www.bw.uni-hamburg.de/arbeitsbereiche/bewegungs-und-sportpaedagogik/team/gerlach.html){target="_blank"}, as well as all my colleagues, friends, and family who have supported me over the past few years!
+
+I look forward to continuing my research as a [research associate at Saarland University](https://www.uni-saarland.de/fachrichtung/sportwissenschaft/institut/mitarbeitende/holler-cornelius-med.html) in the coming years and launching new research projects!
+
+![](/Attachments/Pictures/Verteidigung.JPG){fig-align="center" width="70%"}
