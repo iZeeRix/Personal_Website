@@ -1,0 +1,23 @@
+---
+title: "New Paper published in Merrill-Palmer Quarterly"
+description: "The Role of Physical Ability in Team Partner Selection in Adolescent Physical Education: Examining Ability- and Gender-Based Differences"
+author:
+  - name: Cornelius Holler
+date: 2026-04-07
+categories: [Scientific Paper, Physical Education, Social Network Analysis, Physical Ability, Gender]
+draft: false
+---
+
+I’m excited to share that the third paper of my dissertation has been accepted for publication in [Merrill-Palmer Quarterly](https://digitalcommons.wayne.edu/mpq/){target="_blank"}.
+
+Using social network data from 472 students from 21 grade 5 classes, the study examines ability- and gender-based differences in choosing team partners in physical education (PE).
+
+### Key findings:
+
+➡️ Physical ability is an important characteristic for being chosen as preferred team partner in PE for all students. However, high performing students place greater emphasis on their peers' ability when selecting teammates.
+
+➡️ Physical ability is positively associated with social acceptance in friendship and team partner networks for boys and girls, but boys' social acceptance in PE is more strongly linked to physical ability than girls'.
+
+➡️ Boys and girls do not systematically differ in choosing team partners based on physical ability, friendship and gender.
+
+Read the full paper (preprint) here: [https://doi.org/10.1353/mpq.0.a980149](https://doi.org/10.1353/mpq.0.a980149){target="_blank"}
