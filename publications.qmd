@@ -4,6 +4,10 @@ published-title: "Last modified:"
 date: last-modified
 ---
 
+## Monographs
+
+Holler, C. (2026). *Die Rolle der wahrgenommenen sportunterrichtlichen Leistung für soziale Netzwerke im Sportunterricht \[The role of perceived physical ability for social networks in physical education\]* \[Dissertation, Universität Heidelberg\]. [https://doi.org/10.11588/heidok.00038120](https://doi.org/10.11588/heidok.00038120){target="_blank"}
+
 ## Articles in Peer-Reviewed Journals
 
 **Holler, C.** (2026). The Role of Physical Ability in Team Partner Selection in Adolescent Physical Education: Examining Ability- and Gender-Based Differences. *Merrill-Palmer Quarterly*. [https://doi.org/10.1353/mpq.0.a980149](https://doi.org/10.1353/mpq.0.a980149){target="_blank"} \| [PDF (Preprint)](/Attachments/Documents/Holler_2026_The_Role_of_Physical_Ability.pdf)
