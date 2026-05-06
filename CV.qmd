@@ -4,4 +4,4 @@ published-title: "Last modified:"
 date: last-modified
 ---
 
-![](Attachments/Pictures/2026-04-07_CV_Seite_1.png){fig-align="center" width="100%"} ![](Attachments/Pictures/2026-04-07_CV_Seite_2.png){fig-align="center" width="100%"} ![](Attachments/Pictures/2026-04-07_CV_Seite_3.png){fig-align="center" width="100%"} ![](Attachments/Pictures/2026-04-07_CV_Seite_4.png){fig-align="center" width="100%"}
+![](Attachments/Pictures/2026-04-07_CV_Seite_1.png){fig-align="center" width="100%"} ![](Attachments/Pictures/2026-04-07_CV_Seite_2.png){fig-align="center" width="100%"} ![](Attachments/Pictures/2026-05-06_CV_Seite_3.png){fig-align="center" width="100%"} ![](Attachments/Pictures/2026-04-07_CV_Seite_4.png){fig-align="center" width="100%"}
