@@ -1,0 +1,31 @@
+---
+title: "Projects related to my Dissertation"
+published-title: "Last modified:"
+date: last-modified
+---
+
+[You can go back to the project overview here](projects.qmd)
+
+These are projects I did as a part of my dissertation.
+
+## Poster and Supplementary Material for the 38th Yearly Conference of the German Society of Sport Science (dvs) Section Sports Pedagogy 2025
+
+-   [Poster auf der 38. Jahrestagung der deutschen Vereinigung für Sportwissenschaft vom 1. bis 3. Mai 2025 in Leipzig (ger)](poster_dvs2025.qmd)
+
+## SNAP-PE
+
+I planned and conducted a 1-year longitudinal social network study on peer relationships in physical education. The data collection was done during the 2023/24 school year and finished in July 2024.
+
+-   [Data Overview](/Attachments/Documents/Dataset_Overview_SNAP-PE.pdf)
+
+    -   You can download the preliminary version of the data overview here. Because the dataset is an important part of my PhD, I cannot yet publish the raw data, but plan to do it long term. I am open to collaborating on research projects, so if you want to work together on a paper using this data, please write me an [e-mail](mailto:cornelius.holler@issw.uni-heidelberg.de)!
+
+-   [Entwicklung sozialer Beziehungen in Schulklasse und Sportunterricht (ger)](development_study2023.qmd)
+
+    -   This project page was sent to teachers and parents to inform them about the procedure and goal of the project.
+
+## Poster and Supplementary Material for the Yearly Conference of the dvs Section Sports Pedagogy 2022
+
+-   [Poster auf der 35. Jahrestagung der deutschen Vereinigung für Sportwissenschaft vom 16. bis 18. Juni 2022 in Münster (ger)](poster_dvs2022.qmd)
+
+    -   You can find the video teaser and the poster I presented on the yearly conference by the section Sports Pedagogy of the German Society of Sport Science (dvs). It is both in German.

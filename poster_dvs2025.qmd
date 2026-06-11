@@ -5,7 +5,7 @@ date: "April 30, 2025" # last-modified
 format: html
 ---
 
-[Hier geht es zurück zur Übersicht der Projekte](projects.qmd)
+[Hier geht es zurück zur Übersicht der Projekte meiner Dissertation](projects-dissertation.qmd)
 
 Hier finden Sie mein Poster sowie weiterführende Materialien für die dvs Sektion Sportpädagogik Tagung 2025 in Leipzig.
 

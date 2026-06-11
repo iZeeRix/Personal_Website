@@ -1,0 +1,23 @@
+---
+title: "Teaching Projects"
+published-title: "Last modified:"
+date: last-modified
+---
+
+[You can go back to the project overview here](projects.qmd)
+
+These are projects I did to help me in teaching seminars and courses.
+
+## Web-app to sort assign students to topics in seminars
+
+This is a program that I wrote to assign the students in my seminars to their preferred topic to present on. The students fill out a ranking of topics and tries to optimize the choices in a way that is preferential to the whole group. First I used it only inside of R but now I have published the program as a shiny app that is embedded into the page and you can use it yourself.
+
+-   [Assigning Topics to (Groups of) Students in Seminars](group_assignment.qmd)
+
+## Web-app to use the QualiTePE questionnaire for instant feedback on video analyses (GER)
+
+I programmed this app to use in my seminar "Microteaching" in the summer semester 2026 at Saarland University. The students film videos of themselves teaching a sport session and we analyze the videos using the QualiTePE framework and questionnaire in the seminar. The app allows students to create their own individual questionnaire and their peers to fill it out while analyzing the video. It offers several visualization and download options. Because I use it in my teaching, everything from the interface and the items are in German.
+
+While programming the app, I learned a lot about styling the interface of a Shiny app and connecting the app to an external database provider (in this case [supabase.com](https://supabase.com/){target="_blank"}) to have the data be persistent across sessions, which [shinyapps.io](https://www.shinyapps.io/){target="_blank"} does not provide on it's own.
+
+-   [Interactive QualiTePE Web App (ger)](qualitepe-interaktiv.qmd)

@@ -1,0 +1,49 @@
+---
+title: "Web-App zur interaktiven Nutzung des QualiTePE Fragebogens für die Analyse von Sporteinheiten"
+---
+
+[Hier geht es zurück zur Übersicht über die Projekte für die Lehre](projects-teaching.qmd)
+
+Ich benutze das theoretische Framework und den Fragebogen des QualiTePE Projektes in meinem Seminar "Microteaching" im Sommersemester 2026 an der Universität des Saarlandes. Die Studierenden nehmen ein Video von sich auf, in dem sie eine sportliche Einheit anleiten. Dieses Video wird dann anhand der QualiTePE Skalen von den Studierenden und mir beobachtet und analysiert. Hierfür habe ich eine Shiny-App programmiert, um den Studierenden die Möglichkeit zu geben, einen invididuellen Fragebogen aufzusetzen, ihr Video von ihren Kommiliton:innen beobachten zu lassen und direktes und übersichtliches Feedback zu bekommen. Die App hat drei Funktionen:
+
+## 1. Fragebogen erstellen
+
+-   Wählen Sie die Skalen aus, die Sie in Ihrem individuellen Fragebogen haben möchten.
+
+    -   Empfohlen werden zwischen 3 und 8 Skalen ([Lemling et al., 2024](https://doi.org/10.5281/zenodo.13358775){target="_blank"})
+
+    -   Um die Ergebnisse in einem Radar-Chart zu visualisieren brauchen Sie mindestens 3 Skalen.
+
+-   Wenn Sie fertig sind, klicken Sie auf "Sitzung erstellen". Unter dem Button wird dann der individuelle Sitzungscode angezeigt.
+
+-   Teilen Sie den Sitzungscode mit den Beobachter:innen, damit diese den Fragebogen ausfüllen können.
+
+## 2. Fragebogen beantworten
+
+-   Tragen Sie den Sitzungscode ein, den Sie bekommen haben.
+
+-   Füllen Sie den angezeigten Fragebogen aus.
+
+    -   Sie müssen nicht alle Items beantworten. Falls sie ein Item nicht beantworten können, lassen Sie die Option "weiss ich nicht" ausgewählt.
+
+    -   Sie müssen mindestens ein Item von einer Subskala beantworten, damit ein Wert für diese Subskala berechnet werden und Ihre Antworten im Radar-Chart eingetragen werden können.
+
+-   Haben Sie den Fragebogen fertig ausgefüllt, klicken Sie auf "Antworten speichern".
+
+-   Alle Antworten sind anonymisiert und es werden keine persönlichen Daten von Ihnen erfragt oder gespeichert.
+
+## 3. Ergebnisse ansehen
+
+-   Nachdem die Beobachter:innen den Fragebogen fertig ausgefüllt haben, können Sie die Antworden visualisieren.
+
+-   Geben Sie dafür den Sitzungscode ein und klicken Sie auf "Ergebnisse laden".
+
+-   Sie können sich die Antworten als Radar-Chart oder als Liniendiagramm anzeigen lassen. Unter den Plots können Sie diese als png- oder pdf-Datei speichern.
+
+-   Außerdem können Sie die gesamten Daten ihrer Sitzung als Excel Datei herunterladen, wenn Sie sich die Bewertungen der Einzelitems anschauen möchten.
+
+## Hier gehts zur App
+
+Sie können die App hier finden: [https://corneliusholler.shinyapps.io/QualiTePE-Interaktiv/](https://corneliusholler.shinyapps.io/QualiTePE-Interaktiv/){target="_blank"}
+
+Für ein Beispiel einer Sitzung können Sie den Code "IFTKAA" in 3. eingeben und die Ergebnisse anschauen.

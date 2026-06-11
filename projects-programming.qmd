@@ -1,0 +1,19 @@
+---
+title: "Progamming Projects"
+published-title: "Last modified:"
+date: last-modified
+---
+
+[You can go back to the project overview here](projects.qmd)
+
+## R package for analyzing school social network data
+
+Already during my masters thesis, I started writing a package to help me and my colleagues with the data analysis. Over the years, I have developed it further, added more functions and options and it has been really useful for me. Because we use the same data structure for all our data collection efforts, the package is easily used with all of them. I have built the package locally and use it on a daily basis, but have not yet come around to bring it into a published form. My plan is to publish the package at some point on GitHub for everyone to use. For now, I have compiled the functions in one .R file so you can use it via "source()".
+
+-   [SoNiS.SNA.0.0.1.12.R](/Attachments/Documents/SoNiS.SNA.0.0.1.12.R){target="_blank"}
+
+## Web-App to optimize forming groups in physical education
+
+My doctoral research focused a lot on the selection of preferred team partners in physical education (PE). There, I found that students mainly want to play with high performing peers, their friends and peers of the same gender (see Holler & Schüßler, 2024; Holler, 2026 in my [publication list](publications.qmd)). However, teachers may want to group their students differently, they want to create mixed-gender or mixed-ability groups or might want students to work together who are not yet friends. Therefore, I programmed a web-app to help teachers do this. You can input positive and negative social networks, and attribute data for ability and gender (at least 1 of 4 to have the app work) and choose whether to weigh the specific factor positively (more homophily) or negatively (more heterophily).
+
+More Details and link to the app TBA.

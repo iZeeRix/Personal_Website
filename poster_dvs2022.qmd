@@ -5,7 +5,7 @@ date: "April 9, 2025" # last-modified
 sitepath: "/projects/"
 ---
 
-[Hier geht es zurück zur Übersicht der Projekte](projects.qmd)
+[Hier geht es zurück zur Übersicht der Projekte meiner Dissertation](projects-dissertation.qmd)
 
 ### Teaser
 

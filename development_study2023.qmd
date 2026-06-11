@@ -7,7 +7,7 @@ sitepath: "/projects/"
 
 ![](Attachments/Pictures/header.jpg){fig-align="center" width="100%"}
 
-[Hier geht es zurück zur Übersicht der Projekte](projects.qmd)
+[Hier geht es zurück zur Übersicht der Projekte meiner Dissertation](projects-dissertation.qmd)
 
 ## Entwicklung sozialer Beziehungen in Schulklasse und Sportunterricht
 
