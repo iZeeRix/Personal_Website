@@ -6,18 +6,18 @@ date: last-modified
 
 ## Research
 
--   Projects related to my post-doctoral research (TBA)
--   [Projects related to my dissertation](projects-dissertation.qmd)
+-   **Projects related to my post-doctoral research (TBA)**
+-   [**Projects related to my dissertation**](projects-dissertation.qmd)
     -   [Poster auf der 38. Jahrestagung der deutschen Vereinigung für Sportwissenschaft vom 1. bis 3. Mai 2025 in Leipzig (ger)](poster_dvs2025.qmd)
     -   [Entwicklung sozialer Beziehungen in Schulklasse und Sportunterricht (ger)](development_study2023.qmd)
     -   [Poster auf der 35. Jahrestagung der deutschen Vereinigung für Sportwissenschaft vom 16. bis 18. Juni 2022 in Münster (ger)](poster_dvs2022.qmd)
 
 ## Teaching
 
--   [Projects related to teaching](projects-teaching.qmd)
+-   [**Projects related to teaching**](projects-teaching.qmd)
     -   [Assigning Topics to (Groups of) Students in Seminars](group_assignment.qmd)
     -   [Interactive QualiTePE Web App (ger)](qualitepe-interaktiv.qmd)
 
 ## Other
 
--   [Programming projects](projects-programming.qmd)
+-   [**Programming projects**](projects-programming.qmd)
