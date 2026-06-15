@@ -34,7 +34,7 @@ Ich benutze das theoretische Framework und den Fragebogen des QualiTePE Projekte
 
 ## 3. Ergebnisse ansehen
 
--   Nachdem die Beobachter:innen den Fragebogen fertig ausgefüllt haben, können Sie die Antworden visualisieren.
+-   Nachdem die Beobachter:innen den Fragebogen fertig ausgefüllt haben, können Sie die Antworten visualisieren.
 
 -   Geben Sie dafür den Sitzungscode ein und klicken Sie auf "Ergebnisse laden".
 
